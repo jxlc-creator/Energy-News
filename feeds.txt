@@ -26,6 +26,7 @@ https://www.pv-magazine-australia.com/feed/
 https://www.energy-storage.news/feed/
 https://www.ess-news.com/feed/
 https://www.pv-tech.org/feed/
+https://news.google.com/rss/search?q=solar+OR+battery+storage&gl=SE&hl=sv&ceid=SE:sv
 
 [德语生态]
 https://www.solarserver.de/feed/
@@ -53,6 +54,7 @@ https://elperiodicodelaenergia.com/feed/
 https://news.google.com/rss/search?q=site%3Asolarmagazine.nl
 https://gramwzielone.pl/feed
 https://wysokienapiecie.pl/feed/
+https://ceenergynews.com/feed/
 
 [瑞士]
 https://news.google.com/rss/search?q=site%3Aee-news.ch
@@ -86,6 +88,13 @@ https://solarquarter.com/feed/
 # https://www.google.com/alerts/feeds/12317634030943780809/3596096209758805902
 # https://www.google.com/alerts/feeds/12317634030943780809/12840120884195009782
 # https://www.google.com/alerts/feeds/12317634030943780809/6234742729284645203
+# https://www.google.com/alerts/feeds/12317634030943780809/10856322187937544187
+# https://www.google.com/alerts/feeds/12317634030943780809/9202561210500373090
+# https://www.google.com/alerts/feeds/12317634030943780809/7723686576071942010
+# https://www.google.com/alerts/feeds/12317634030943780809/15408116610859465062
+# https://www.google.com/alerts/feeds/12317634030943780809/12158065407982461285
+# https://www.google.com/alerts/feeds/12317634030943780809/16666535843374388505
+# https://www.google.com/alerts/feeds/12317634030943780809/15408116610859464972
 
 [Google Alerts · 重点公司]
 # 给旗舰公司各建一个 alert（Tesla Powerwall / Marstek / Zendure / FoxESS /
