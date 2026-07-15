@@ -1,0 +1,41 @@
+# 文件位置必须是：.github/workflows/daily.yml
+# 作用：每天定时运行 pipeline.py，把生成的 digest.md 提交回仓库
+
+name: daily-energy-digest
+
+on:
+  schedule:
+    # GitHub 用 UTC 时间。'30 22 * * *' = UTC 22:30 = 新加坡时间早上 6:30
+    # 想改时间：新加坡时间减 8 小时就是 UTC。例如想 8:00 跑 → '0 0 * * *'
+    - cron: '30 22 * * *'
+  # 允许在网页上手动点按钮运行（第一次测试就用这个）
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 允许把 digest.md 写回仓库
+
+jobs:
+  build-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 取出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装依赖
+        run: pip install feedparser
+
+      - name: 运行 digest 生成器
+        run: python pipeline.py
+
+      - name: 提交 digest 回仓库
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add digest.md digests/
+          git commit -m "digest $(date -u +%F)" || echo "今日无变化，跳过提交"
+          git push
