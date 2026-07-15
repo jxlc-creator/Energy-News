@@ -1,6 +1,6 @@
 # 每日储能情报 · 候选清单 | 2026-07-15
 
-- 生成时间（UTC）：2026-07-15 07:21
+- 生成时间（UTC）：2026-07-15 08:10
 - 抓取窗口：过去 26 小时
 - 原始条目：1395 条 → 过滤去重后：**94 条**
 
@@ -8,6 +8,9 @@
 
 ## 全球行业媒体 · 汇聚节点（28 条）
 
+- **What does a bankable route-to-market strategy for battery storage in Europe actually look like?** — energy-storage.news | 2026-07-15 07:59 UTC
+  https://www.energy-storage.news/what-does-a-bankable-route-to-market-strategy-for-battery-storage-in-europe-actually-look-like/
+  > With technology risk now largely removed from the equation, assessing how a battery storage project will perform across market opportunities is now the main object of financiers’ scrutiny, writes Ryan Alexander of enspir
 - **Hibridan planta FV de 388 kW con BESS para autoconsumo en industria alimentaria de Callosa del Segura** — pv-magazine.es | 2026-07-15 06:48 UTC
   https://www.pv-magazine.es/2026/07/15/hibridan-planta-fv-de-388-kw-con-bess-para-autoconsumo-en-industria-alimentaria-de-callosa-del-segura/
   > La instalación combina 388 kW fotovoltaicos y un sistema BESS Kubank 2.0 de 125 kWh suministrado por DPV Energy para estabilizar el suministro en una fábrica con operación continua. El sistema integra diez inversores Hua
@@ -95,17 +98,14 @@
 - **Fabricante de zinc pone en marcha una planta fotovoltaica de autoconsumo de 28,72 MW en Asturias** — pv-magazine.es | 2026-07-14 08:07 UTC
   https://www.pv-magazine.es/2026/07/14/fabricante-de-zinc-pone-en-marcha-una-planta-fotovoltaica-de-autoconsumo-de-2872-mw-en-asturias/
   > ISE Energía ha puesto en marcha una planta de autoconsumo fotovoltaico para Asturiana de Zinc, con 41.000 paneles solares bifaciales y una superficie de 20 ha. "Se ha elegido una estructura lastrada con inclinación de 0°
-- **Lower skip rates for UK battery storage but NESO plans further reform** — ess-news.com | 2026-07-14 08:00 UTC
-  https://www.ess-news.com/2026/07/14/lower-skip-rates-for-uk-battery-storage-but-neso-plans-further-reform/
-  > Flexibility report shows cheaper, more efficient assets such as battery energy storage systems (BESS) are ‘skipped’ less often by control room during balancing actions. It follows an industry call for action to improve B
 - **Solar-Markisen: Gleichzeitig Solarstrom für den Eigenverbrauch erzeugen und Schatten spenden** — pv-magazine.de | 2026-07-14 07:30 UTC
   https://www.pv-magazine.de/2026/07/14/solar-markisen-gleichzeitig-solarstrom-fuer-den-eigenverbrauch-erzeugen-und-schatten-spenden/
   > Ein Essener Start-up setzt mittlerweile die ersten Projekte deutschlandweit um. Nach Angaben von Solar Markise ist das Produkt etwa 10 bis 15 Prozent teurer als herkömmlicher Sonnenschutz, doch die höhere Investition loh
 
 ## 德语生态（19 条）
 
-- **DSW bündelt 2,5 Megawattstunden auf Skid-Plattform - photovoltaik.eu** — news.google.com | 2026-07-15 07:00 UTC
-  https://news.google.com/rss/articles/CBMilwFBVV95cUxOa2FuMnJJblBVdm51U19mMnNNUjdFS0R1QlluYW5VeFJiWE0wTjZkNFd5SHdULWNHYldiTFlUNm9MSXQ2S1FZWk5NcHJBczBEZHB0QzA0djBnVE11eGN5WVY1Zy1LWXpKU29Ea2NINmhlRnU5MGxiVjkzaFVDeWh3Qi02bTNKX1VwbzV1cjZfbldsVm1OYTI0?oc=5
+- **DSW bündelt 2,5 Megawattstunden auf Skid-Plattform - photovoltaik.eu** — photovoltaik.eu | 2026-07-15 07:00 UTC
+  https://www.photovoltaik.eu/solarspeicher/dsw-buendelt-25-megawattstunden-auf-skid-plattform
   > DSW bündelt 2,5 Megawattstunden auf Skid-Plattform    photovoltaik.eu
 - **Ungeschützte Wechselrichter: Hoymiles verspricht Update** — heise.de | 2026-07-15 06:26 UTC
   https://www.heise.de/news/Ungeschuetzte-Wechselrichter-Hoymiles-verspricht-Update-11365046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
@@ -125,20 +125,20 @@
 - **Top 10: Speicher für Balkonkraftwerk im Test** — heise.de | 2026-07-14 18:00 UTC
   https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-testsieger-arbeitet-ohne-cloud/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
   > Welcher Speicher fürs Balkonkraftwerk lohnt sich? Wir zeigen die zehn besten Modelle aus zahlreichen Einzeltests.
-- **Fenecon: Große Speicher – made in Germany - photovoltaik.eu** — news.google.com | 2026-07-14 15:00 UTC
-  https://news.google.com/rss/articles/CBMihAFBVV95cUxQRERrd1RVN2lMYkNKSHVqVUp4cUZYZExSMGF5V2dRNHNaSjViT1ZxVlp4dGlLX3I2aFZDY0NjeW1IcWRqbE9xTm5jSTdSZW9Mb2JOc1lFOW9JVF8yNlVlTVBFYloyemRicF9zdG03RTZCczhiSkZvenNNUjh6V1o2T3F4WFA?oc=5
+- **Fenecon: Große Speicher – made in Germany - photovoltaik.eu** — photovoltaik.eu | 2026-07-14 15:00 UTC
+  https://www.photovoltaik.eu/solarspeicher/fenecon-grosse-speicher-made-germany
   > Fenecon: Große Speicher – made in Germany    photovoltaik.eu
-- **Österreich: Solarförderung innerhalb von 33 Sekunden ausgebucht - photovoltaik.eu** — news.google.com | 2026-07-14 13:00 UTC
-  https://news.google.com/rss/articles/CBMipgFBVV95cUxNUTlFYVFwOVBOSzFhUkR1bW1NS0xTTlI4aDdFX2ZRWEpueFdDbWc5TjBPZXBJYU9fUUxjTGpwcUY2bXEyVm5TY0dMbm9QS19FTDZDQmdMYlRrVHJGQ3p0SDBkMy13bldsME5vZEE0SFRkUmVFaURkYThBbG9ncDYwQkJhOHJyejlhRW5KTG1mUkJaelRqRGtYaWpNaUxqZHNzb2hiMmhn?oc=5
+- **Österreich: Solarförderung innerhalb von 33 Sekunden ausgebucht - photovoltaik.eu** — photovoltaik.eu | 2026-07-14 13:00 UTC
+  https://www.photovoltaik.eu/foerderung/oesterreich-solarfoerderung-innerhalb-von-33-sekunden-ausgebucht
   > Österreich: Solarförderung innerhalb von 33 Sekunden ausgebucht    photovoltaik.eu
-- **Für Abonnenten: Neues Themenheft über Solarspeicher ist erschienen - photovoltaik.eu** — news.google.com | 2026-07-14 12:39 UTC
-  https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTkyMHM2SUk4NjFhRUZaSG1uUWdUTmVCcVN3b3ZZSk1fOURlYUw2S3FOWlM0ZXRKcWRJYURmRUxQclFzVEdHN1Y2bXJZUFE5cFNBQlhsOXVSX2hNTVAxdl9OQ3ZfMmItOS1SQ3ZTbmQ2QV9ISVhqOVNxSkRsOXlWVnZkcEFzN1p1SktnLU5Yd0FhQ3JmVmp0bERxQUVSejV3OEMwU3J2X0Z0d1RFeFdUMg?oc=5
+- **Für Abonnenten: Neues Themenheft über Solarspeicher ist erschienen - photovoltaik.eu** — photovoltaik.eu | 2026-07-14 12:39 UTC
+  https://www.photovoltaik.eu/solarspeicher/fuer-abonnenten-neues-themenheft-ueber-solarspeicher-ist-erschienen-0
   > Für Abonnenten: Neues Themenheft über Solarspeicher ist erschienen    photovoltaik.eu
 - **heise+ | Jugendmedienschutz: Warum Politik und Eltern mehr für Minderjährige tun müssen** — heise.de | 2026-07-14 11:30 UTC
   https://www.heise.de/hintergrund/Jugendmedienschutz-Warum-Politik-und-Eltern-mehr-fuer-Minderjaehrige-tun-muessen-11332467.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
   > Politik fordert Verbote, Plattformen versprechen Besserung, doch für Kinder ändert sich wenig. Eine ernüchternde Bestandsaufnahme.
-- **Krannich Solar nimmt Sigenergy-Produkte ins Sortiment - photovoltaik.eu** — news.google.com | 2026-07-14 11:05 UTC
-  https://news.google.com/rss/articles/CBMimwFBVV95cUxPdXVVcERtR1FBY01JX2xtVWZsYU5JemJ1MVRobWpUYXczVzAxTUlveDM4UHJkVmhUOVI5QlFUb1pNVTY0T2FsMUlPWGhVOFRvRmRFdW85NXNhMWpTY2tiUVZyb3FRM0FIOF9LV0ItQkhiSHN3M0htSHhacFlvQnlzYU93b2cxRENndkNpbHpwX3lSbkZoTHdJb1VfZw?oc=5
+- **Krannich Solar nimmt Sigenergy-Produkte ins Sortiment - photovoltaik.eu** — photovoltaik.eu | 2026-07-14 11:05 UTC
+  https://www.photovoltaik.eu/solarspeicher/krannich-solar-nimmt-sigenergy-produkte-ins-sortiment
   > Krannich Solar nimmt Sigenergy-Produkte ins Sortiment    photovoltaik.eu
 - **Neu: Solarthemen-Ausgabe 601 ist heute erschienen** — solarserver.de | 2026-07-14 10:47 UTC
   https://www.solarserver.de/2026/07/14/neu-solarthemen-ausgabe-601-ist-heute-erschienen/
@@ -155,8 +155,8 @@
 - **Betrügerischer Ransomware-Verhandler muss 70 Monate ins Gefängnis** — heise.de | 2026-07-14 07:29 UTC
   https://www.heise.de/news/Betruegerischer-Ransomware-Verhandler-muss-70-Monate-ins-Gefaengnis-11363745.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
   > Das Urteil ist gefallen: Für 70 Monate wandert ein betrügerischer Ransomware-Verhandler aus Florida hinter Gitter.
-- **Solis neuer Heimspeicher liefert bis 40 Kilowattstunden - photovoltaik.eu** — news.google.com | 2026-07-14 07:00 UTC
-  https://news.google.com/rss/articles/CBMingFBVV95cUxPZ254Tllidm5LMC11Ym5RQzlra3BCUkdLNTBGd2d3VWxOR3dvekE4TmlseUNxeHY3THE2WXMwMGhIVFExbWlXd0kwYkFhQlNhRlZqdzMtUjhhU3NDYXRqeEFDU3FnOERsdWRZSTU4NkdMU2FFR3RuS3o5M0J1NlppMW1oOEFsVmd4UDNZcjBGU2VqQlJEVHlXV0ZaeXlFUQ?oc=5
+- **Solis neuer Heimspeicher liefert bis 40 Kilowattstunden - photovoltaik.eu** — photovoltaik.eu | 2026-07-14 07:00 UTC
+  https://www.photovoltaik.eu/solarspeicher/solis-neuer-heimspeicher-liefert-bis-40-kilowattstunden
   > Solis neuer Heimspeicher liefert bis 40 Kilowattstunden    photovoltaik.eu
 - **Ostrom erweitert virtuelles Kraftwerk um Photovoltaik-Anlagen und Batteriespeicher** — solarserver.de | 2026-07-14 07:00 UTC
   https://www.solarserver.de/2026/07/14/ostrom-erweitert-virtuelles-kraftwerk-um-photovoltaik-anlagen-und-batteriespeicher/
