@@ -1,12 +1,12 @@
 # 每日储能情报 · 候选清单 | 2026-07-15
 
-- 生成时间（UTC）：2026-07-15 03:21
+- 生成时间（UTC）：2026-07-15 03:47
 - 抓取窗口：过去 26 小时
-- 原始条目：771 条 → 过滤去重后：**87 条**
+- 原始条目：771 条 → 过滤去重后：**88 条**
 
 > 用途：将本文件交给 Claude（energy-storage-intel skill）分类、评级并生成中文简报。
 
-## 全球行业媒体 · 汇聚节点（28 条）
+## 全球行业媒体 · 汇聚节点（27 条）
 
 - **Over 4GWh of battery storage added to Australia’s updated National Renewable Energy Priority List** — energy-storage.news | 2026-07-15 03:04 UTC
   https://www.energy-storage.news/over-4gwh-of-battery-storage-added-to-australias-updated-national-renewable-energy-priority-list/
@@ -98,9 +98,6 @@
 - **Lebrija licita las obras de remodelación del pabellón municipal con fotovoltaica para autoconsumo** — pv-magazine.es | 2026-07-14 07:16 UTC
   https://www.pv-magazine.es/2026/07/14/lebrija-licita-las-obras-de-remodelacion-del-pabellon-municipal-con-fotovoltaica-para-autoconsumo/
   > El presupuesto total de la licitación publicada por el Ayuntamiento de Lebrija es de 339.280 euros, el plazo de ejecución de las obras es de 70 días. El plazo de presentación de ofertas está abierto hasta el 23 de Julio.
-- **EnergyCo, Transgrid sign deal to unlock transmission capacity for 3.56GW of renewables and battery storage in Australia** — pv-tech.org | 2026-07-14 01:30 UTC
-  https://www.pv-tech.org/energyco-transgrid-sign-deal-to-unlock-transmission-capacity-for-3-56gw-of-renewables-and-battery-storage-in-australia/
-  > New South Wales (NSW) energy agency EnergyCo has executed a Project Development Deed with transmission operator Transgrid to upgrade a section of the grid between Jerilderie and Wagga Wagga in Australia.
 
 ## 德语生态（11 条）
 
@@ -154,8 +151,11 @@
   https://www.utilitydive.com/news/ess-tech-launches-12-mwh-sodium-ion-battery-building-block-system/825204/
   > The announcement marks the latest in a string of sodium battery developments as utilities and customers look for new sources of grid-tied and behind-the-meter capacity.
 
-## 法国/南欧/荷波（3 条）
+## 法国/南欧/荷波（4 条）
 
+- **Sungrow, Tesla y CATL lideran el ránking mundial de almacenamiento en baterías en 2025** — elperiodicodelaenergia.com | 2026-07-15 03:30 UTC
+  https://elperiodicodelaenergia.com/sungrow-tesla-y-catl-lideran-el-ranking-mundial-de-almacenamiento-en-baterias-en-2025/
+  > Wood Mackenzie publica su primer ranking mundial de integradores de sistemas BESS tras un año récord del almacenamiento en baterías.
 - **Hydrogène vert : La gigafactory McPhy renaît déjà de ses cendres** — revolution-energetique.com | 2026-07-14 14:53 UTC
   https://www.revolution-energetique.com/actus/hydrogene-vert-la-gigafactory-mcphy-renait-deja-de-ses-cendres/
   > La France et la Belgique associent leurs forces en matière d’hydrogène vert, à travers John Cockerill et sa filiale McPhy. Objectif : rendre cet technologie […] 
@@ -167,8 +167,11 @@
   https://elperiodicodelaenergia.com/bruselas-autoriza-ampliar-a-65-millones-las-ayudas-de-espana-al-campo-y-la-pesca-por-el-alza-del-combustible/
   > La CE ha dado luz verde a aumentar en 55 millones el presupuesto del programa destinado a los productores agrícolas, que pasa de 54 a 109 millones de euros, mientras que el régimen dirigido a las empresas pesqueras recib
 
-## 亚洲/东南亚（2 条）
+## 亚洲/东南亚（3 条）
 
+- **Energy Regulatory Commission Revises Performance-Based Regulation Entry Groups To Streamline Distribution Rate Reset Process In Philippines** — solarquarter.com | 2026-07-15 03:42 UTC
+  https://solarquarter.com/2026/07/15/energy-regulatory-commission-revises-performance-based-regulation-entry-groups-to-streamline-distribution-rate-reset-process-in-philippines/
+  > The Energy Regulatory Commission (ERC) has approved a resolution modifying entry groups for privately owned distribution utilities under the Performance-Based Regulation framework. This change aims to streamline the rate
 - **BERC Waives Rooftop Solar Application And Meter Testing Fees For Domestic Consumers In Bihar** — solarquarter.com | 2026-07-14 11:22 UTC
   https://solarquarter.com/2026/07/14/berc-waives-rooftop-solar-application-and-meter-testing-fees-for-domestic-consumers-in-bihar/
   > The Bihar Electricity Regulatory Commission has waived application and meter testing fees for domestic consumers installing rooftop solar systems, aiming to boost participation in the PM Surya Ghar Muft Bijli Yojana. Thi
@@ -309,8 +312,9 @@
 - https://www.ee-news.ch/de/rss  （<unknown>:22:23270: not well-formed (invalid token)）
 - https://energy.ec.europa.eu/node/1/rss_en  （<unknown>:44:76: not well-formed (invalid token)）
 
-**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 8 个源
+**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 9 个源
 - https://www.pv-magazine.fr/feed/
+- https://www.pv-tech.org/feed/
 - https://onestepoffthegrid.com.au/feed/
 - https://www.canarymedia.com/rss.xml
 - https://www.qualenergia.it/feed/
