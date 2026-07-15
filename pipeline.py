@@ -53,7 +53,7 @@ KEYWORDS = [
     "backup power", "home backup", "backup battery", "power outage",
     "blackout", "grid outage", "emergency power", "off-grid",
     "portable power station", "solar generator", "power station",
-    "apagón", "notstrom", "便携储能", "户外电源", "备电", "应急电源",
+    "apagón", "notstrom", "power bank", "lithium-ion battery","便携储能", "户外电源", "备电", "应急电源",
     "停电", "离网", "移动储能",
     # --- 产业链 / 政策 / 玩家动词 ---
     "lfp", "battery cell", "lithium carbonate", "solid-state battery",
