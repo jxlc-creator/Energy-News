@@ -1,8 +1,8 @@
 # 每日储能情报 · 候选清单 | 2026-07-15
 
-- 生成时间（UTC）：2026-07-15 04:00
+- 生成时间（UTC）：2026-07-15 04:20
 - 抓取窗口：过去 26 小时
-- 原始条目：951 条 → 过滤去重后：**92 条**
+- 原始条目：1315 条 → 过滤去重后：**91 条**
 
 > 用途：将本文件交给 Claude（energy-storage-intel skill）分类、评级并生成中文简报。
 
@@ -178,7 +178,7 @@
   https://elperiodicodelaenergia.com/bruselas-autoriza-ampliar-a-65-millones-las-ayudas-de-espana-al-campo-y-la-pesca-por-el-alza-del-combustible/
   > La CE ha dado luz verde a aumentar en 55 millones el presupuesto del programa destinado a los productores agrícolas, que pasa de 54 a 109 millones de euros, mientras que el régimen dirigido a las empresas pesqueras recib
 
-## 亚洲/东南亚（3 条）
+## 亚洲/东南亚（2 条）
 
 - **Energy Regulatory Commission Revises Performance-Based Regulation Entry Groups To Streamline Distribution Rate Reset Process In Philippines** — solarquarter.com | 2026-07-15 03:42 UTC
   https://solarquarter.com/2026/07/15/energy-regulatory-commission-revises-performance-based-regulation-entry-groups-to-streamline-distribution-rate-reset-process-in-philippines/
@@ -186,9 +186,6 @@
 - **BERC Waives Rooftop Solar Application And Meter Testing Fees For Domestic Consumers In Bihar** — solarquarter.com | 2026-07-14 11:22 UTC
   https://solarquarter.com/2026/07/14/berc-waives-rooftop-solar-application-and-meter-testing-fees-for-domestic-consumers-in-bihar/
   > The Bihar Electricity Regulatory Commission has waived application and meter testing fees for domestic consumers installing rooftop solar systems, aiming to boost participation in the PM Surya Ghar Muft Bijli Yojana. Thi
-- **Enfinity Global Expands Italy Solar Footprint to 535 MW, Advances 600 MW of Battery Storage Projects** — solarquarter.com | 2026-07-14 10:38 UTC
-  https://solarquarter.com/2026/07/14/enfinity-global-expands-italy-solar-footprint-to-535-mw-advances-600-mw-of-battery-storage-projects/
-  > Enfinity Global has achieved over 535 MW of operational solar PV capacity in Italy, establishing itself as the second-largest operator in the country. The 18 plants generate nearly 1 TWh of renewable electricity annually
 
 ## 官方 · 政策/召回（免过滤直击源）（40 条）
 
@@ -315,21 +312,21 @@
 
 ## ⚠️ 信源健康
 
-**抓取失败（请检查地址是否变更）：**
-- https://www.current-news.co.uk/feed/  （<unknown>:2:861: not well-formed (invalid token)）
-- https://www.solarpowerportal.co.uk/feed/  （<unknown>:2:1467: not well-formed (invalid token)）
-- https://reneweconomy.com.au/feed/  （<unknown>:7:2: mismatched tag）
-- https://onestepoffthegrid.com.au/feed/  （<unknown>:7:2: mismatched tag）
-- https://solarmagazine.nl/feed  （<unknown>:5:166: not well-formed (invalid token)）
-- https://www.ee-news.ch/de/rss  （<unknown>:22:23270: not well-formed (invalid token)）
+- 全部信源抓取成功 ✅
 
-**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 9 个源
+**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 15 个源
 - https://www.pv-magazine.fr/feed/
 - https://www.pv-tech.org/feed/
+- https://news.google.com/rss/search?q=site%3Acurrent-news.co.uk
+- https://news.google.com/rss/search?q=site%3Asolarpowerportal.co.uk
+- https://news.google.com/rss/search?q=site%3Areneweconomy.com.au
+- https://news.google.com/rss/search?q=site%3Aonestepoffthegrid.com.au
 - https://www.canarymedia.com/rss.xml
 - https://www.qualenergia.it/feed/
+- https://news.google.com/rss/search?q=site%3Asolarmagazine.nl
 - https://gramwzielone.pl/feed
 - https://wysokienapiecie.pl/feed/
+- https://news.google.com/rss/search?q=site%3Aee-news.ch
 - https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
 - https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
 - https://news.google.com/rss/search?q=site%3Aenergy.ec.europa.eu&hl=en
