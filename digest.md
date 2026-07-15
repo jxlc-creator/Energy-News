@@ -1,13 +1,34 @@
 # 每日储能情报 · 候选清单 | 2026-07-15
 
-- 生成时间（UTC）：2026-07-15 04:20
+- 生成时间（UTC）：2026-07-15 07:21
 - 抓取窗口：过去 26 小时
-- 原始条目：1315 条 → 过滤去重后：**91 条**
+- 原始条目：1395 条 → 过滤去重后：**94 条**
 
 > 用途：将本文件交给 Claude（energy-storage-intel skill）分类、评级并生成中文简报。
 
-## 全球行业媒体 · 汇聚节点（27 条）
+## 全球行业媒体 · 汇聚节点（28 条）
 
+- **Hibridan planta FV de 388 kW con BESS para autoconsumo en industria alimentaria de Callosa del Segura** — pv-magazine.es | 2026-07-15 06:48 UTC
+  https://www.pv-magazine.es/2026/07/15/hibridan-planta-fv-de-388-kw-con-bess-para-autoconsumo-en-industria-alimentaria-de-callosa-del-segura/
+  > La instalación combina 388 kW fotovoltaicos y un sistema BESS Kubank 2.0 de 125 kWh suministrado por DPV Energy para estabilizar el suministro en una fábrica con operación continua. El sistema integra diez inversores Hua
+- **Battery tolling grows as Germany moves beyond merchant risk** — ess-news.com | 2026-07-15 06:45 UTC
+  https://www.ess-news.com/2026/07/15/battery-tolling-grows-as-germany-moves-beyond-merchant-risk/
+  > As Germany's battery storage market expands, developers are increasingly turning to battery tolling agreements to reduce merchant revenue risk and improve access to project finance. 
+ The post  Battery tolling grows as G
+- **El Parque Científico y Tecnológico de Bizkaia licita la instalación fotovoltaica con baterías de 150 kW / 360 kWh** — pv-magazine.es | 2026-07-15 06:16 UTC
+  https://www.pv-magazine.es/2026/07/15/el-parque-cientifico-y-tecnologico-de-bizkaia-licita-la-instalacion-fotovoltaica-con-baterias-de-150-kw-360-kwh/
+  > El Parque Científico y Tecnológico de Bizkaia ha publicado la licitación, con un presupuesto de 461.784 euros, para la ejecución de las obras de ampliación fotovoltaica y almacenaje de energía en el campus de Zamudio-Der
+- **Longi sets new world record with 35.5%-efficient perovskite-silicon tandem cell** — pv-magazine.com | 2026-07-15 05:54 UTC
+  https://www.pv-magazine.com/2026/07/15/longi-sets-new-world-record-with-35-5-efficient-perovskite-silicon-tandem-cell/
+  > The result was certified by the European Solar Test Installation (ESTI). 
+ The post  Longi sets new world record with 35.5%-efficient perovskite-silicon tandem cell  appeared first on  pv magazine Global .
+- **Google agrees to purchase 100% of power from largest solar-plus-storage project in U.S.** — pv-magazine.com | 2026-07-15 04:59 UTC
+  https://www.pv-magazine.com/2026/07/15/google-agrees-to-purchase-100-of-power-from-largest-solar-plus-storage-project-in-u-s/
+  > Developed with Cypress Creek Energy, the virtual power purchase agreement covers the Steel River Energy Center, which will add 2.5 GW of solar capacity and 2.9 GW/GWh of battery storage. 
+ The post  Google agrees to purc
+- **Enphase launches GaN-powered IQ9N microinverter for rooftop solar markets** — pv-magazine-australia.com | 2026-07-15 04:53 UTC
+  https://www.pv-magazine-australia.com/2026/07/15/enphase-launches-gan-powered-iq9n-microinverter-for-rooftop-solar-markets/
+  > Enphase Energy has launched its IQ9N microinverter in the Australian and New Zealand residential solar markets, signalling the regional debut of its gallium nitride power conversion technology for home installations.
 - **Over 4GWh of battery storage added to Australia’s updated National Renewable Energy Priority List** — energy-storage.news | 2026-07-15 03:04 UTC
   https://www.energy-storage.news/over-4gwh-of-battery-storage-added-to-australias-updated-national-renewable-energy-priority-list/
   > Australia's federal government has added 11 new generation and energy storage projects to its National Renewable Energy Priority List.
@@ -27,13 +48,13 @@
   https://www.ess-news.com/2026/07/14/enbw-scraps-senec-investor-search-shifts-storage-business-to-existing-customers/
   > Residential battery storage company Senec will stop accepting new customers after German utility EnBW failed to find an investor. 
  The post  EnBW scraps Senec investor search, shifts storage business to existing custome
-- **Google agrees to purchase 100% of power from largest solar-plus-storage project in U.S.** — pv-magazine-usa.com | 2026-07-14 13:22 UTC
-  https://pv-magazine-usa.com/2026/07/14/google-agrees-to-purchase-100-of-power-from-largest-solar-plus-storage-project-in-u-s/
-  > Developed with Cypress Creek Energy, the virtual power purchase agreement covers the Steel River Energy Center, which will add 2.5 GW of solar capacity and 2.9 GW/GWh of battery storage.
 - **Lithium still dominates battery storage – but for how long?** — ess-news.com | 2026-07-14 12:45 UTC
   https://www.ess-news.com/2026/07/14/lithium-still-dominates-battery-storage-but-for-how-long/
   > Lithium batteries are about 93% cheaper than they were 15 years ago, making energy storage projects economically viable where they previously were not. 
  The post  Lithium still dominates battery storage – but for how lo
+- **Intertek CEA says 587Ah cells could drive down BESS costs through 2027** — pv-magazine-usa.com | 2026-07-14 12:18 UTC
+  https://pv-magazine-usa.com/2026/07/14/intertek-cea-says-587ah-cells-could-drive-down-bess-costs-through-2027/
+  > US research firm Intertek CEA says wider adoption of 587Ah battery cells could lower the cost of standard battery energy storage system (BESS) containers through 2027, even as lithium carbonate prices have risen sharply.
 - **Battery storage supports energy resilience in regional Australia** — ess-news.com | 2026-07-14 12:00 UTC
   https://www.ess-news.com/2026/07/14/battery-storage-supports-energy-resilience-in-regional-australia/
   > Australian battery supplier Renoz Energy says growing demand for larger battery systems is helping improve energy security and reduce diesel dependence in regional and edge-of-grid communities. 
@@ -61,14 +82,6 @@
 - **The technology breakthroughs behind Huawei’s next-generation Smart-String Grid-Forming ESS Platform** — energy-storage.news | 2026-07-14 09:05 UTC
   https://www.energy-storage.news/the-technology-breakthroughs-behind-huaweis-next-generation-smart-string-grid-forming-ess-platform/
   > Huawei FusionSolar’s new Smart String Grid-Forming ESS Platform, LUTERRA, is born from technology breakthroughs designed to drive customer success.
-- **Jackery showcases plug-in solar storage systems and energy management accessories in Munich** — pv-magazine.com | 2026-07-14 09:00 UTC
-  https://www.pv-magazine.com/2026/07/14/jackery-showcases-plug-in-solar-storage-systems-and-energy-management-accessories-in-munich/
-  > At The smarter E 2026, the company highlighted its new SolarVault 3 Series of plug-in solar energy storage products, along with its Home Energy Management System and related smart accessories. 
- The post  Jackery showcas
-- **German startup offers solar awnings** — pv-magazine.com | 2026-07-14 08:46 UTC
-  https://www.pv-magazine.com/2026/07/14/german-startup-offers-solar-awnings/
-  > German startup Solar Markise has launched photovoltaic awnings that combine sun protection with solar generation, offering 1.35 kW and 1.8 kW versions for residential and commercial self-consumption. 
- The post  German s
 - **Italy approves 720 MW of battery storage projects across five regions** — ess-news.com | 2026-07-14 08:45 UTC
   https://www.ess-news.com/2026/07/14/italy-approves-720-mw-of-battery-storage-projects-across-five-regions/
   > Italy's Ministry of Environment and Energy Security (MASE) has authorized six battery energy storage projects totaling 720 MW in Puglia, Basilicata, Veneto, Molise, and Tuscany. 
@@ -76,10 +89,6 @@
 - **Sungrow y TÜV Rheinland publican estándares para ensayos de fiabilidad a largo plazo de inversores** — pv-magazine.es | 2026-07-14 08:43 UTC
   https://www.pv-magazine.es/2026/07/14/sungrow-y-tuv-rheinland-publican-estandares-para-ensayos-de-fiabilidad-a-largo-plazo-de-inversores/
   > Según explican las empresas, se trata de los primeros estándares corporativos cuantitativos del mundo para evaluar la fiabilidad a largo plazo de los inversores fotovoltaicos, con el objetivo de responder a la creciente 
-- **Amsterdam tightens conditions around sustainable solar panel subsidy** — pv-magazine.com | 2026-07-14 08:38 UTC
-  https://www.pv-magazine.com/2026/07/14/amsterdam-tightens-conditions-around-sustainable-solar-panel-subsidy/
-  > Amsterdam's subsidy scheme for highly-sustainable solar panels has been extended to the end of the year. The scheme has already supported the installation of over 3,500 panels across the Dutch capital. 
- The post  Amster
 - **Enervis PPA-Price-Tracker für Photovoltaik: Kaum verändertes PPA-Preisniveau im Juni** — pv-magazine.de | 2026-07-14 08:17 UTC
   https://www.pv-magazine.de/2026/07/14/enervis-ppa-price-tracker-fuer-photovoltaik-kaum-veraendertes-ppa-preisniveau-im-juni/
   > Auch im Juni bleiben die PPA-Preise in Deutschland stabil, wie die neueste Ausgabe des Enervis PPA-Price-Trackers zeigt.
@@ -89,18 +98,27 @@
 - **Lower skip rates for UK battery storage but NESO plans further reform** — ess-news.com | 2026-07-14 08:00 UTC
   https://www.ess-news.com/2026/07/14/lower-skip-rates-for-uk-battery-storage-but-neso-plans-further-reform/
   > Flexibility report shows cheaper, more efficient assets such as battery energy storage systems (BESS) are ‘skipped’ less often by control room during balancing actions. It follows an industry call for action to improve B
-- **Intertek CEA says 587Ah cells could drive down BESS costs through 2027** — pv-magazine.com | 2026-07-14 07:50 UTC
-  https://www.pv-magazine.com/2026/07/14/intertek-cea-says-587ah-cells-could-drive-down-bess-costs-through-2027/
-  > US research firm Intertek CEA says wider adoption of 587Ah battery cells could lower the cost of standard battery energy storage system (BESS) containers through 2027, even as lithium carbonate prices have risen sharply.
 - **Solar-Markisen: Gleichzeitig Solarstrom für den Eigenverbrauch erzeugen und Schatten spenden** — pv-magazine.de | 2026-07-14 07:30 UTC
   https://www.pv-magazine.de/2026/07/14/solar-markisen-gleichzeitig-solarstrom-fuer-den-eigenverbrauch-erzeugen-und-schatten-spenden/
   > Ein Essener Start-up setzt mittlerweile die ersten Projekte deutschlandweit um. Nach Angaben von Solar Markise ist das Produkt etwa 10 bis 15 Prozent teurer als herkömmlicher Sonnenschutz, doch die höhere Investition loh
-- **Lebrija licita las obras de remodelación del pabellón municipal con fotovoltaica para autoconsumo** — pv-magazine.es | 2026-07-14 07:16 UTC
-  https://www.pv-magazine.es/2026/07/14/lebrija-licita-las-obras-de-remodelacion-del-pabellon-municipal-con-fotovoltaica-para-autoconsumo/
-  > El presupuesto total de la licitación publicada por el Ayuntamiento de Lebrija es de 339.280 euros, el plazo de ejecución de las obras es de 70 días. El plazo de presentación de ofertas está abierto hasta el 23 de Julio.
 
-## 德语生态（16 条）
+## 德语生态（19 条）
 
+- **DSW bündelt 2,5 Megawattstunden auf Skid-Plattform - photovoltaik.eu** — news.google.com | 2026-07-15 07:00 UTC
+  https://news.google.com/rss/articles/CBMilwFBVV95cUxOa2FuMnJJblBVdm51U19mMnNNUjdFS0R1QlluYW5VeFJiWE0wTjZkNFd5SHdULWNHYldiTFlUNm9MSXQ2S1FZWk5NcHJBczBEZHB0QzA0djBnVE11eGN5WVY1Zy1LWXpKU29Ea2NINmhlRnU5MGxiVjkzaFVDeWh3Qi02bTNKX1VwbzV1cjZfbldsVm1OYTI0?oc=5
+  > DSW bündelt 2,5 Megawattstunden auf Skid-Plattform    photovoltaik.eu
+- **Ungeschützte Wechselrichter: Hoymiles verspricht Update** — heise.de | 2026-07-15 06:26 UTC
+  https://www.heise.de/news/Ungeschuetzte-Wechselrichter-Hoymiles-verspricht-Update-11365046.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+  > Angreifer können durch Sicherheitslücken in Hoymiles-Wechselrichtern die Geräte aus der Ferne lahmlegen. Ein Update soll das ändern.
+- **Photovoltaik-Planungssoftware: PV*Sol premium importiert 3D-Gebäudemodelle von Rexplorer** — solarserver.de | 2026-07-15 06:00 UTC
+  https://www.solarserver.de/2026/07/15/photovoltaik-planungssoftware-pvsol-premium-importiert-3d-gebaeudemodelle-von-rexplorer/
+  > Eine neue Schnittstelle zum Datenanbieter Rexplorer soll die Planung von PV-Anlagen in Deutschland beschleunigen. PV*Sol premium importiert nun automatisch alle Gebäude im Umkreis von 100 Metern mit exakter geografischer
+- **Großbritannien plant nächtliche Social-Media-Sperre für 16- und 17-Jährige** — heise.de | 2026-07-15 04:58 UTC
+  https://www.heise.de/news/Grossbritannien-plant-naechtliche-Social-Media-Sperre-fuer-16-und-17-Jaehrige-11365016.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+  > Für Heranwachsende sollen im Vereinigten Königreich bald über das geplante Social-Media-Verbot für unter 16-Jährige hinaus weitere Einschränkungen gelten.
+- **Mittwoch: Millionenförderung deutscher Chipwerke, IBM-Aktie mit Rekordabsturz** — heise.de | 2026-07-15 04:15 UTC
+  https://www.heise.de/news/Mittwoch-Millionenfoerderung-deutscher-Chipwerke-IBM-Aktie-mit-Rekordabsturz-11365004.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+  > EU-Genehmigung für Halbleiter-Beihilfe + Börsenreaktion auf IBM-Wachstum + New Yorker Pause für Rechenzentren + IFG-Reform ohne Anlass + Bit-Rauschen zum DE-CIX
 - **EU-Kommission genehmigt deutsche Millionenförderung neuer Halbleiteranlagen** — heise.de | 2026-07-15 03:04 UTC
   https://www.heise.de/news/EU-Kommission-genehmigt-deutsche-Millionenfoerderung-neuer-Halbleiteranlagen-11364994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
   > Deutschland will die heimische Halbleiterfertigung mit insgesamt 659 Millionen Euro unterstützen. Die EU-Kommission bestätigt die Förderung vier neuer Anlagen.
@@ -143,12 +161,6 @@
 - **Ostrom erweitert virtuelles Kraftwerk um Photovoltaik-Anlagen und Batteriespeicher** — solarserver.de | 2026-07-14 07:00 UTC
   https://www.solarserver.de/2026/07/14/ostrom-erweitert-virtuelles-kraftwerk-um-photovoltaik-anlagen-und-batteriespeicher/
   > Der Stromanbieter Ostrom erweitert sein virtuelles Kraftwerk Neogrid AI. Bisher hatte das System Ladevorgänge von E-Autos und Wallboxen optimiert, jetzt integriert es auch Photovoltaik-Anlagen und Batteriespeicher.   Fot
-- **Dienstag: US-Bundestaaten klagen gegen Fusion, Mindestalter für soziale Medien** — heise.de | 2026-07-14 04:15 UTC
-  https://www.heise.de/news/Dienstag-US-Bundestaaten-klagen-gegen-Fusion-Mindestalter-fuer-soziale-Medien-11363579.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
-  > Kartellklage von US-Bundesstaaten + Vorschlag von Expertenkommission + Urteil stärkt Urheberrecht + DB erntet Kritik + Thunderbird überarbeitet Einstellungen
-- **33 Sekunden Solar-Förderung in Österreich** — heise.de | 2026-07-14 03:43 UTC
-  https://www.heise.de/news/33-Sekunden-Photovoltaik-Foerderung-in-Oesterreich-11363595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
-  > 20 Millionen Euro Solar-Subvention waren binnen Sekunden vergeben. „Unter diesen Bedingungen wäre keine Förderung besser”, sagt die Branche.
 
 ## 澳新（1 条）
 
@@ -178,14 +190,11 @@
   https://elperiodicodelaenergia.com/bruselas-autoriza-ampliar-a-65-millones-las-ayudas-de-espana-al-campo-y-la-pesca-por-el-alza-del-combustible/
   > La CE ha dado luz verde a aumentar en 55 millones el presupuesto del programa destinado a los productores agrícolas, que pasa de 54 a 109 millones de euros, mientras que el régimen dirigido a las empresas pesqueras recib
 
-## 亚洲/东南亚（2 条）
+## 亚洲/东南亚（1 条）
 
-- **Energy Regulatory Commission Revises Performance-Based Regulation Entry Groups To Streamline Distribution Rate Reset Process In Philippines** — solarquarter.com | 2026-07-15 03:42 UTC
-  https://solarquarter.com/2026/07/15/energy-regulatory-commission-revises-performance-based-regulation-entry-groups-to-streamline-distribution-rate-reset-process-in-philippines/
-  > The Energy Regulatory Commission (ERC) has approved a resolution modifying entry groups for privately owned distribution utilities under the Performance-Based Regulation framework. This change aims to streamline the rate
-- **BERC Waives Rooftop Solar Application And Meter Testing Fees For Domestic Consumers In Bihar** — solarquarter.com | 2026-07-14 11:22 UTC
-  https://solarquarter.com/2026/07/14/berc-waives-rooftop-solar-application-and-meter-testing-fees-for-domestic-consumers-in-bihar/
-  > The Bihar Electricity Regulatory Commission has waived application and meter testing fees for domestic consumers installing rooftop solar systems, aiming to boost participation in the PM Surya Ghar Muft Bijli Yojana. Thi
+- **HPERC Proposes Digital Reforms To Simplify Rooftop Solar Connections Under PM Surya Ghar Scheme In Himachal Pradesh** — solarquarter.com | 2026-07-15 06:25 UTC
+  https://solarquarter.com/2026/07/15/hperc-proposes-digital-reforms-to-simplify-rooftop-solar-connections-under-pm-surya-ghar-scheme-in-himachal-pradesh/
+  > The Himachal Pradesh Electricity Regulatory Commission has proposed amendments to streamline the installation of rooftop solar systems to facilitate faster adoption among consumers. The changes aim to reduce paperwork an
 
 ## 官方 · 政策/召回（免过滤直击源）（40 条）
 
@@ -314,9 +323,10 @@
 
 - 全部信源抓取成功 ✅
 
-**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 15 个源
+**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 17 个源
 - https://www.pv-magazine.fr/feed/
 - https://www.pv-tech.org/feed/
+- https://news.google.com/rss/search?q=solar+OR+battery+storage&gl=SE&hl=sv&ceid=SE:sv
 - https://news.google.com/rss/search?q=site%3Acurrent-news.co.uk
 - https://news.google.com/rss/search?q=site%3Asolarpowerportal.co.uk
 - https://news.google.com/rss/search?q=site%3Areneweconomy.com.au
@@ -326,6 +336,7 @@
 - https://news.google.com/rss/search?q=site%3Asolarmagazine.nl
 - https://gramwzielone.pl/feed
 - https://wysokienapiecie.pl/feed/
+- https://ceenergynews.com/feed/
 - https://news.google.com/rss/search?q=site%3Aee-news.ch
 - https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
 - https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
