@@ -67,7 +67,7 @@ https://solarquarter.com/feed/
 !https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
 !https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
 # 美国 CPSC 产品召回
-!https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS
+https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS
 # 欧盟委员会能源新闻
 !https://news.google.com/rss/search?q=site%3Aenergy.ec.europa.eu&hl=en
 # 澳洲 RenewEconomy 已覆盖 DCCEEW 大部分动态；官方页多数无RSS，见文末清单
