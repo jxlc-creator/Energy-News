@@ -155,13 +155,23 @@ def main():
             link = (entry.get("link") or "").strip()
             # Google News 代理源：把包装链接还原为原文真实地址
             if "news.google.com" in link:
+                _dec = None
                 try:
-                    from googlenewsdecoder import gnewsdecoder
-                    decoded = gnewsdecoder(link, interval=1)
-                    if decoded.get("status"):
-                        link = decoded["decoded_url"]
-                except Exception:
-                    pass  # 解码失败就保留原链接，不中断
+                    from googlenewsdecoder import gnewsdecoder as _dec
+                except ImportError:
+                    try:
+                        from googlenewsdecoder import new_decoderv1 as _dec
+                    except ImportError:
+                        print(f"[decode] 库未安装，保留原链接: {link[:60]}")
+                if _dec:
+                    try:
+                        r = _dec(link, interval=1)
+                        if isinstance(r, dict) and r.get("status"):
+                            link = r.get("decoded_url") or link
+                        else:
+                            print(f"[decode] 解码失败: {r}")
+                    except Exception as e:
+                        print(f"[decode] 异常: {e}")
             summary = strip_html(entry.get("summary", ""))[:MAX_SUMMARY_CHARS]
             if not title or not link:
                 continue
