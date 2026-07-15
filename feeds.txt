@@ -34,12 +34,12 @@ https://news.google.com/rss/search?q=site%3Aphotovoltaik.eu&hl=de
 https://www.heise.de/rss/heise-atom.xml
 
 [英国]
-https://www.current-news.co.uk/feed/
-https://www.solarpowerportal.co.uk/feed/
+https://news.google.com/rss/search?q=site%3Acurrent-news.co.uk
+https://news.google.com/rss/search?q=site%3Asolarpowerportal.co.uk
 
 [澳新]
-https://reneweconomy.com.au/feed/
-https://onestepoffthegrid.com.au/feed/
+https://news.google.com/rss/search?q=site%3Areneweconomy.com.au
+https://news.google.com/rss/search?q=site%3Aonestepoffthegrid.com.au
 https://www.solarquotes.com.au/blog/feed/
 
 [美国]
@@ -50,12 +50,12 @@ https://www.utilitydive.com/feeds/news/
 https://www.revolution-energetique.com/feed/
 https://www.qualenergia.it/feed/
 https://elperiodicodelaenergia.com/feed/
-https://solarmagazine.nl/feed
+https://news.google.com/rss/search?q=site%3Asolarmagazine.nl
 https://gramwzielone.pl/feed
 https://wysokienapiecie.pl/feed/
 
 [瑞士]
-https://www.ee-news.ch/de/rss
+https://news.google.com/rss/search?q=site%3Aee-news.ch
 
 [亚洲/东南亚]
 https://solarquarter.com/feed/
@@ -99,7 +99,7 @@ https://solarquarter.com/feed/
 # https://www.google.com/alerts/feeds/12317634030943780809/131760047292014708
 #
 # 德国活跃品牌另建德语风险词：如 "FoxESS Urteil OR Verbot OR Rückruf"
-# https://www.google.com/alerts/feeds/12317634030943780809/12840120884195009237
+# https://www.google.com/alerts/feeds/12317634030943780809/16894192632704053442
 
 # =============================================================
 # 【无 RSS 的政策靶点】—— 暂由上面的 Google Alerts(site:) 或
