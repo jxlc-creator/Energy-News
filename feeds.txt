@@ -29,7 +29,7 @@ https://www.pv-tech.org/feed/
 
 [德语生态]
 https://www.solarserver.de/feed/
-https://www.photovoltaik.eu/rss.xml
+https://news.google.com/rss/search?q=site%3Aphotovoltaik.eu&hl=de
 # heise online 能源频道（全站feed量大，靠关键词过滤兜住）
 https://www.heise.de/rss/heise-atom.xml
 
@@ -67,7 +67,7 @@ https://solarquarter.com/feed/
 # 美国 CPSC 产品召回
 !https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS
 # 欧盟委员会能源新闻
-!https://energy.ec.europa.eu/node/1/rss_en
+!https://news.google.com/rss/search?q=site%3Aenergy.ec.europa.eu&hl=en
 # 澳洲 RenewEconomy 已覆盖 DCCEEW 大部分动态；官方页多数无RSS，见文末清单
 
 [Google Alerts · 品类词]
