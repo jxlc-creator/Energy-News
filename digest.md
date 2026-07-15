@@ -1,8 +1,8 @@
 # 每日储能情报 · 候选清单 | 2026-07-15
 
-- 生成时间（UTC）：2026-07-15 03:47
+- 生成时间（UTC）：2026-07-15 04:00
 - 抓取窗口：过去 26 小时
-- 原始条目：771 条 → 过滤去重后：**88 条**
+- 原始条目：951 条 → 过滤去重后：**92 条**
 
 > 用途：将本文件交给 Claude（energy-storage-intel skill）分类、评级并生成中文简报。
 
@@ -99,7 +99,7 @@
   https://www.pv-magazine.es/2026/07/14/lebrija-licita-las-obras-de-remodelacion-del-pabellon-municipal-con-fotovoltaica-para-autoconsumo/
   > El presupuesto total de la licitación publicada por el Ayuntamiento de Lebrija es de 339.280 euros, el plazo de ejecución de las obras es de 70 días. El plazo de presentación de ofertas está abierto hasta el 23 de Julio.
 
-## 德语生态（11 条）
+## 德语生态（16 条）
 
 - **EU-Kommission genehmigt deutsche Millionenförderung neuer Halbleiteranlagen** — heise.de | 2026-07-15 03:04 UTC
   https://www.heise.de/news/EU-Kommission-genehmigt-deutsche-Millionenfoerderung-neuer-Halbleiteranlagen-11364994.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
@@ -107,9 +107,21 @@
 - **Top 10: Speicher für Balkonkraftwerk im Test** — heise.de | 2026-07-14 18:00 UTC
   https://www.heise.de/bestenlisten/testsieger/top-10-speicher-fuer-balkonkraftwerk-im-test-testsieger-arbeitet-ohne-cloud/9g7b03h?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
   > Welcher Speicher fürs Balkonkraftwerk lohnt sich? Wir zeigen die zehn besten Modelle aus zahlreichen Einzeltests.
+- **Fenecon: Große Speicher – made in Germany - photovoltaik.eu** — news.google.com | 2026-07-14 15:00 UTC
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxQRERrd1RVN2lMYkNKSHVqVUp4cUZYZExSMGF5V2dRNHNaSjViT1ZxVlp4dGlLX3I2aFZDY0NjeW1IcWRqbE9xTm5jSTdSZW9Mb2JOc1lFOW9JVF8yNlVlTVBFYloyemRicF9zdG03RTZCczhiSkZvenNNUjh6V1o2T3F4WFA?oc=5
+  > Fenecon: Große Speicher – made in Germany    photovoltaik.eu
+- **Österreich: Solarförderung innerhalb von 33 Sekunden ausgebucht - photovoltaik.eu** — news.google.com | 2026-07-14 13:00 UTC
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxNUTlFYVFwOVBOSzFhUkR1bW1NS0xTTlI4aDdFX2ZRWEpueFdDbWc5TjBPZXBJYU9fUUxjTGpwcUY2bXEyVm5TY0dMbm9QS19FTDZDQmdMYlRrVHJGQ3p0SDBkMy13bldsME5vZEE0SFRkUmVFaURkYThBbG9ncDYwQkJhOHJyejlhRW5KTG1mUkJaelRqRGtYaWpNaUxqZHNzb2hiMmhn?oc=5
+  > Österreich: Solarförderung innerhalb von 33 Sekunden ausgebucht    photovoltaik.eu
+- **Für Abonnenten: Neues Themenheft über Solarspeicher ist erschienen - photovoltaik.eu** — news.google.com | 2026-07-14 12:39 UTC
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTkyMHM2SUk4NjFhRUZaSG1uUWdUTmVCcVN3b3ZZSk1fOURlYUw2S3FOWlM0ZXRKcWRJYURmRUxQclFzVEdHN1Y2bXJZUFE5cFNBQlhsOXVSX2hNTVAxdl9OQ3ZfMmItOS1SQ3ZTbmQ2QV9ISVhqOVNxSkRsOXlWVnZkcEFzN1p1SktnLU5Yd0FhQ3JmVmp0bERxQUVSejV3OEMwU3J2X0Z0d1RFeFdUMg?oc=5
+  > Für Abonnenten: Neues Themenheft über Solarspeicher ist erschienen    photovoltaik.eu
 - **heise+ | Jugendmedienschutz: Warum Politik und Eltern mehr für Minderjährige tun müssen** — heise.de | 2026-07-14 11:30 UTC
   https://www.heise.de/hintergrund/Jugendmedienschutz-Warum-Politik-und-Eltern-mehr-fuer-Minderjaehrige-tun-muessen-11332467.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus
   > Politik fordert Verbote, Plattformen versprechen Besserung, doch für Kinder ändert sich wenig. Eine ernüchternde Bestandsaufnahme.
+- **Krannich Solar nimmt Sigenergy-Produkte ins Sortiment - photovoltaik.eu** — news.google.com | 2026-07-14 11:05 UTC
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxPdXVVcERtR1FBY01JX2xtVWZsYU5JemJ1MVRobWpUYXczVzAxTUlveDM4UHJkVmhUOVI5QlFUb1pNVTY0T2FsMUlPWGhVOFRvRmRFdW85NXNhMWpTY2tiUVZyb3FRM0FIOF9LV0ItQkhiSHN3M0htSHhacFlvQnlzYU93b2cxRENndkNpbHpwX3lSbkZoTHdJb1VfZw?oc=5
+  > Krannich Solar nimmt Sigenergy-Produkte ins Sortiment    photovoltaik.eu
 - **Neu: Solarthemen-Ausgabe 601 ist heute erschienen** — solarserver.de | 2026-07-14 10:47 UTC
   https://www.solarserver.de/2026/07/14/neu-solarthemen-ausgabe-601-ist-heute-erschienen/
   > +++ Parlament beschließt GModG +++ Regierung ändert BEG-Förderung +++ Wenn die Wärmepumpe nicht mit dem HEMS spricht +++ Interview: Arbeitsmarkt Erneuerbare +++ Bornholm: Insel mit Energie +++
@@ -125,6 +137,9 @@
 - **Betrügerischer Ransomware-Verhandler muss 70 Monate ins Gefängnis** — heise.de | 2026-07-14 07:29 UTC
   https://www.heise.de/news/Betruegerischer-Ransomware-Verhandler-muss-70-Monate-ins-Gefaengnis-11363745.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
   > Das Urteil ist gefallen: Für 70 Monate wandert ein betrügerischer Ransomware-Verhandler aus Florida hinter Gitter.
+- **Solis neuer Heimspeicher liefert bis 40 Kilowattstunden - photovoltaik.eu** — news.google.com | 2026-07-14 07:00 UTC
+  https://news.google.com/rss/articles/CBMingFBVV95cUxPZ254Tllidm5LMC11Ym5RQzlra3BCUkdLNTBGd2d3VWxOR3dvekE4TmlseUNxeHY3THE2WXMwMGhIVFExbWlXd0kwYkFhQlNhRlZqdzMtUjhhU3NDYXRqeEFDU3FnOERsdWRZSTU4NkdMU2FFR3RuS3o5M0J1NlppMW1oOEFsVmd4UDNZcjBGU2VqQlJEVHlXV0ZaeXlFUQ?oc=5
+  > Solis neuer Heimspeicher liefert bis 40 Kilowattstunden    photovoltaik.eu
 - **Ostrom erweitert virtuelles Kraftwerk um Photovoltaik-Anlagen und Batteriespeicher** — solarserver.de | 2026-07-14 07:00 UTC
   https://www.solarserver.de/2026/07/14/ostrom-erweitert-virtuelles-kraftwerk-um-photovoltaik-anlagen-und-batteriespeicher/
   > Der Stromanbieter Ostrom erweitert sein virtuelles Kraftwerk Neogrid AI. Bisher hatte das System Ladevorgänge von E-Autos und Wallboxen optimiert, jetzt integriert es auch Photovoltaik-Anlagen und Batteriespeicher.   Fot
@@ -135,12 +150,8 @@
   https://www.heise.de/news/33-Sekunden-Photovoltaik-Foerderung-in-Oesterreich-11363595.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
   > 20 Millionen Euro Solar-Subvention waren binnen Sekunden vergeben. „Unter diesen Bedingungen wäre keine Förderung besser”, sagt die Branche.
 
-## 澳新（2 条）
+## 澳新（1 条）
 
-- **Chart of the Day: How batteries are beating gas at its own game, with a little help from data centres** — reneweconomy.com.au | 2026-07-14 23:06 UTC
-  https://reneweconomy.com.au/chart-of-the-day-how-batteries-are-beating-gas-at-its-own-game-with-a-little-help-from-data-centres/?utm_source=rss&utm_medium=rss&utm_campaign=chart-of-the-day-how-batteries-are-beating-gas-at-its-own-game-with-a-little-help-from-data-centres
-  > CSIRO says data centre demand in US has helped inflate cost of gas turbines, and accelerated the crossover point on capital costs with battery storage. 
- The post Chart of the Day: How batteries are beating gas at its ow
 - **Is A Neighbour’s Home Battery Keeping Your Lights On?** — solarquotes.com.au | 2026-07-14 20:24 UTC
   https://www.solarquotes.com.au/blog/home-battery-helping-keep-lights-on/
   > Home batteries are often promoted as a way to keep the lights on when the grid goes down. But according to a new report from the Australian Energy Market Operator (AEMO), they may increasingly be helping keep the grid up
@@ -305,20 +316,20 @@
 ## ⚠️ 信源健康
 
 **抓取失败（请检查地址是否变更）：**
-- https://www.photovoltaik.eu/rss.xml  （<unknown>:12:69: not well-formed (invalid token)）
 - https://www.current-news.co.uk/feed/  （<unknown>:2:861: not well-formed (invalid token)）
 - https://www.solarpowerportal.co.uk/feed/  （<unknown>:2:1467: not well-formed (invalid token)）
+- https://reneweconomy.com.au/feed/  （<unknown>:7:2: mismatched tag）
+- https://onestepoffthegrid.com.au/feed/  （<unknown>:7:2: mismatched tag）
 - https://solarmagazine.nl/feed  （<unknown>:5:166: not well-formed (invalid token)）
 - https://www.ee-news.ch/de/rss  （<unknown>:22:23270: not well-formed (invalid token)）
-- https://energy.ec.europa.eu/node/1/rss_en  （<unknown>:44:76: not well-formed (invalid token)）
 
 **窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 9 个源
 - https://www.pv-magazine.fr/feed/
 - https://www.pv-tech.org/feed/
-- https://onestepoffthegrid.com.au/feed/
 - https://www.canarymedia.com/rss.xml
 - https://www.qualenergia.it/feed/
 - https://gramwzielone.pl/feed
 - https://wysokienapiecie.pl/feed/
 - https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
 - https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
+- https://news.google.com/rss/search?q=site%3Aenergy.ec.europa.eu&hl=en
