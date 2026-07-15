@@ -153,6 +153,15 @@ def main():
 
             title = strip_html(entry.get("title", "")).strip()
             link = (entry.get("link") or "").strip()
+            # Google News 代理源：把包装链接还原为原文真实地址
+            if "news.google.com" in link:
+                try:
+                    from googlenewsdecoder import gnewsdecoder
+                    decoded = gnewsdecoder(link, interval=1)
+                    if decoded.get("status"):
+                        link = decoded["decoded_url"]
+                except Exception:
+                    pass  # 解码失败就保留原链接，不中断
             summary = strip_html(entry.get("summary", ""))[:MAX_SUMMARY_CHARS]
             if not title or not link:
                 continue
