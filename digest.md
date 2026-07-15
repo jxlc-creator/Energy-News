@@ -1,13 +1,40 @@
 # 每日储能情报 · 候选清单 | 2026-07-15
 
-- 生成时间（UTC）：2026-07-15 08:10
+- 生成时间（UTC）：2026-07-15 10:21
 - 抓取窗口：过去 26 小时
-- 原始条目：1395 条 → 过滤去重后：**94 条**
+- 原始条目：1397 条 → 过滤去重后：**58 条**
 
 > 用途：将本文件交给 Claude（energy-storage-intel skill）分类、评级并生成中文简报。
 
-## 全球行业媒体 · 汇聚节点（28 条）
+## 全球行业媒体 · 汇聚节点（31 条）
 
+- **Italia Solare rinnova il direttivo, Viscontini confermato presidente. Focus su accumuli, flessibilità e connessioni** — pv-magazine.it | 2026-07-15 09:38 UTC
+  https://www.pv-magazine.it/2026/07/15/italia-solare-rinnova-il-direttivo-viscontini-confermato-presidente-focus-su-accumuli-flessibilita-e-connessioni/
+  > Paolo Rocco Viscontini guiderà l’associazione - giunta a 1.522 soci - per il quarto mandato. Tra le priorità del triennio 2026-2029 figurano procedure autorizzative, aree idonee, autoconsumo, comunità energetiche, storag
+- **Arctech tailors tracker solutions to the European market** — pv-magazine.com | 2026-07-15 09:00 UTC
+  https://www.pv-magazine.com/2026/07/15/arctech-tailors-tracker-solutions-to-the-european-market/
+  > As competition builds in the tracker industry, Arctech is focused on customizing its offerings and services to match the varying terrains and regulations of the diverse European market.  
+ The post  Arctech tailors track
+- **EcoFlow et Octopus Energy France s’associent sur le solaire résidentiel** — pv-magazine.fr | 2026-07-15 09:00 UTC
+  https://www.pv-magazine.fr/2026/07/15/ecoflow-et-octopus-energy-france-sassocient-sur-le-solaire-residentiel/
+  > Ce partenariat s’articulera autour du programme « Solar Boost », récemment lancé pour soutenir les ménages français.
+- **Germany ROUNDUP: TotalEnergies and Kyon, Envision and Ju:niz, Flower progress BESS portfolios** — energy-storage.news | 2026-07-15 08:56 UTC
+  https://www.energy-storage.news/germany-roundup-totalenergies-and-kyon-envision-and-juniz-flower-progress-bess-portfolios/
+  > Energy companies are accelerating battery storage deployment in Germany, with TotalEnergies and Kyon, Envision Energy and Ju:niz, and Flower announcing significant project developments and acquisitions.
+- **Kostenloser Vergleichsrechner: Alte vs. neue Förderung von Wärmepumpen** — pv-magazine.de | 2026-07-15 08:50 UTC
+  https://www.pv-magazine.de/2026/07/15/kostenloser-vergleichsrechner-alte-vs-neue-foerderung-von-waermepumpen/
+  > Der Bund der Energieverbraucher hat den kostenlosen Rechner entwickelt. Er zeigt, wieviel Förderung Haushalte für den Einbau ihrer Wärmepumpe nach dem Neustart kommende Woche erhalten – auch wie sich der Betrag im Gegens
+- **Redispatch und Eigenverbrauch: Es besteht Regelungsbedarf** — pv-magazine.de | 2026-07-15 08:19 UTC
+  https://www.pv-magazine.de/2026/07/15/es-besteht-regelungsbedarf/
+  > pv+: In vielen Netzgebieten ist die Abregelung von Photovoltaikanlagen am Wechselrichter und damit die Unterbindung von Eigenverbrauch zur Gefahr für den Markt geworden. Es gäbe Lösungen – auch solche, die von den Netzbe
+- **Grid tariff design key to renewable energy communities** — pv-magazine.com | 2026-07-15 08:18 UTC
+  https://www.pv-magazine.com/2026/07/15/grid-tariff-design-key-to-renewable-energy-communities/
+  > Research from Austria explores if participation in multiple renewable energy communities under new grid tariffs with varying costs functions can incentivize prosumers to undertake additional investments in flexibility. 
+
+- **Osaka Gas launches Kyocera home battery for market trading** — ess-news.com | 2026-07-15 08:15 UTC
+  https://www.ess-news.com/2026/07/15/osaka-gas-launches-kyocera-home-battery-for-market-trading/
+  > Osaka Gas has started selling Kyocera's Enerezza Plus II home battery system, so solar homeowners can aggregate stored power into Japan's balancing and capacity markets. 
+ The post  Osaka Gas launches Kyocera home batter
 - **What does a bankable route-to-market strategy for battery storage in Europe actually look like?** — energy-storage.news | 2026-07-15 07:59 UTC
   https://www.energy-storage.news/what-does-a-bankable-route-to-market-strategy-for-battery-storage-in-europe-actually-look-like/
   > With technology risk now largely removed from the equation, assessing how a battery storage project will perform across market opportunities is now the main object of financiers’ scrutiny, writes Ryan Alexander of enspir
@@ -65,10 +92,6 @@
 - **Sungrow lidera el primer ranking global de integradores BESS en un mercado que ya supera los 100 GW anuales** — pv-magazine.es | 2026-07-14 11:56 UTC
   https://www.pv-magazine.es/2026/07/14/sungrow-lidera-el-primer-ranking-global-de-integradores-bess-en-un-mercado-que-ya-supera-los-100-gw-anuales/
   > La consultora explica que la clasificación refleja la forma en que empresas eléctricas, IPPs y desarrolladores evalúan actualmente a los integradores durante los procesos de adquisición, y analiza diez criterios que incl
-- **Ampace launches co-branded C&I energy storage product at Intersolar Europe 2026** — pv-magazine.com | 2026-07-14 11:30 UTC
-  https://www.pv-magazine.com/2026/07/14/ampace-launches-co-branded-ci-energy-storage-product-at-intersolar-europe-2026/
-  > The company’s Chief Technology Officer (CTO), Tim Yuan, also talked about the company’s latest residential energy storage product and plans for future technologies geared toward the European market. 
- The post  Ampace la
 - **Spain advances 225.6 MW of battery storage projects in Badajoz** — ess-news.com | 2026-07-14 11:15 UTC
   https://www.ess-news.com/2026/07/14/spain-advances-225-6-mw-of-battery-storage-projects-in-badajoz/
   > Spain has published permitting notices for two battery energy storage projects totaling 225.6 MW in Badajoz, alongside two solar PV projects. 
@@ -85,25 +108,15 @@
 - **The technology breakthroughs behind Huawei’s next-generation Smart-String Grid-Forming ESS Platform** — energy-storage.news | 2026-07-14 09:05 UTC
   https://www.energy-storage.news/the-technology-breakthroughs-behind-huaweis-next-generation-smart-string-grid-forming-ess-platform/
   > Huawei FusionSolar’s new Smart String Grid-Forming ESS Platform, LUTERRA, is born from technology breakthroughs designed to drive customer success.
-- **Italy approves 720 MW of battery storage projects across five regions** — ess-news.com | 2026-07-14 08:45 UTC
-  https://www.ess-news.com/2026/07/14/italy-approves-720-mw-of-battery-storage-projects-across-five-regions/
-  > Italy's Ministry of Environment and Energy Security (MASE) has authorized six battery energy storage projects totaling 720 MW in Puglia, Basilicata, Veneto, Molise, and Tuscany. 
- The post  Italy approves 720 MW of batte
 - **Sungrow y TÜV Rheinland publican estándares para ensayos de fiabilidad a largo plazo de inversores** — pv-magazine.es | 2026-07-14 08:43 UTC
   https://www.pv-magazine.es/2026/07/14/sungrow-y-tuv-rheinland-publican-estandares-para-ensayos-de-fiabilidad-a-largo-plazo-de-inversores/
   > Según explican las empresas, se trata de los primeros estándares corporativos cuantitativos del mundo para evaluar la fiabilidad a largo plazo de los inversores fotovoltaicos, con el objetivo de responder a la creciente 
-- **Enervis PPA-Price-Tracker für Photovoltaik: Kaum verändertes PPA-Preisniveau im Juni** — pv-magazine.de | 2026-07-14 08:17 UTC
-  https://www.pv-magazine.de/2026/07/14/enervis-ppa-price-tracker-fuer-photovoltaik-kaum-veraendertes-ppa-preisniveau-im-juni/
-  > Auch im Juni bleiben die PPA-Preise in Deutschland stabil, wie die neueste Ausgabe des Enervis PPA-Price-Trackers zeigt.
-- **Fabricante de zinc pone en marcha una planta fotovoltaica de autoconsumo de 28,72 MW en Asturias** — pv-magazine.es | 2026-07-14 08:07 UTC
-  https://www.pv-magazine.es/2026/07/14/fabricante-de-zinc-pone-en-marcha-una-planta-fotovoltaica-de-autoconsumo-de-2872-mw-en-asturias/
-  > ISE Energía ha puesto en marcha una planta de autoconsumo fotovoltaico para Asturiana de Zinc, con 41.000 paneles solares bifaciales y una superficie de 20 ha. "Se ha elegido una estructura lastrada con inclinación de 0°
-- **Solar-Markisen: Gleichzeitig Solarstrom für den Eigenverbrauch erzeugen und Schatten spenden** — pv-magazine.de | 2026-07-14 07:30 UTC
-  https://www.pv-magazine.de/2026/07/14/solar-markisen-gleichzeitig-solarstrom-fuer-den-eigenverbrauch-erzeugen-und-schatten-spenden/
-  > Ein Essener Start-up setzt mittlerweile die ersten Projekte deutschlandweit um. Nach Angaben von Solar Markise ist das Produkt etwa 10 bis 15 Prozent teurer als herkömmlicher Sonnenschutz, doch die höhere Investition loh
 
-## 德语生态（19 条）
+## 德语生态（17 条）
 
+- **Ylektra entwickelt 50-Megawatt-Agri-PV in Wörrstadt** — solarserver.de | 2026-07-15 09:45 UTC
+  https://www.solarserver.de/2026/07/15/ylektra-entwickelt-50-megawatt-agri-pv-in-woerrstadt/
+  > Agri-PV-Spezialist Ylektra plant ein Agri-Photovoltaik-Projekt in der zu Wörrstadt gehörenden Ortsgemeinde Armsheim. Nun hat der Ortsgemeinderat den Abschluss eines städtebaulichen Vertrages für die 50 Megawatt starke Ag
 - **DSW bündelt 2,5 Megawattstunden auf Skid-Plattform - photovoltaik.eu** — photovoltaik.eu | 2026-07-15 07:00 UTC
   https://www.photovoltaik.eu/solarspeicher/dsw-buendelt-25-megawattstunden-auf-skid-plattform
   > DSW bündelt 2,5 Megawattstunden auf Skid-Plattform    photovoltaik.eu
@@ -152,15 +165,6 @@
 - **BSW-Solar: Photovoltaik-Ausbau im ersten Halbjahr 2026 bei 7,4 Gigawatt** — solarserver.de | 2026-07-14 08:56 UTC
   https://www.solarserver.de/2026/07/14/bsw-solar-photovoltaik-ausbau-im-ersten-halbjahr-2026-bei-74-gigawatt/
   > Im ersten Halbjahr 2026 hat man in Deutschland rund neun Prozent mehr Solarstromleistung installiert als im Vorjahreszeitraum. Laut Bundesverband Solarwirtschaft beruht das Plus vor allem auf Vorzieheffekten. Geplante Kü
-- **Betrügerischer Ransomware-Verhandler muss 70 Monate ins Gefängnis** — heise.de | 2026-07-14 07:29 UTC
-  https://www.heise.de/news/Betruegerischer-Ransomware-Verhandler-muss-70-Monate-ins-Gefaengnis-11363745.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
-  > Das Urteil ist gefallen: Für 70 Monate wandert ein betrügerischer Ransomware-Verhandler aus Florida hinter Gitter.
-- **Solis neuer Heimspeicher liefert bis 40 Kilowattstunden - photovoltaik.eu** — photovoltaik.eu | 2026-07-14 07:00 UTC
-  https://www.photovoltaik.eu/solarspeicher/solis-neuer-heimspeicher-liefert-bis-40-kilowattstunden
-  > Solis neuer Heimspeicher liefert bis 40 Kilowattstunden    photovoltaik.eu
-- **Ostrom erweitert virtuelles Kraftwerk um Photovoltaik-Anlagen und Batteriespeicher** — solarserver.de | 2026-07-14 07:00 UTC
-  https://www.solarserver.de/2026/07/14/ostrom-erweitert-virtuelles-kraftwerk-um-photovoltaik-anlagen-und-batteriespeicher/
-  > Der Stromanbieter Ostrom erweitert sein virtuelles Kraftwerk Neogrid AI. Bisher hatte das System Ladevorgänge von E-Autos und Wallboxen optimiert, jetzt integriert es auch Photovoltaik-Anlagen und Batteriespeicher.   Fot
 
 ## 澳新（1 条）
 
@@ -174,8 +178,11 @@
   https://www.utilitydive.com/news/ess-tech-launches-12-mwh-sodium-ion-battery-building-block-system/825204/
   > The announcement marks the latest in a string of sodium battery developments as utilities and customers look for new sources of grid-tied and behind-the-meter capacity.
 
-## 法国/南欧/荷波（4 条）
+## 法国/南欧/荷波（5 条）
 
+- **Cuba repite el proceso para reponer la electricidad tras el quinto apagón nacional en 2026** — elperiodicodelaenergia.com | 2026-07-15 08:40 UTC
+  https://elperiodicodelaenergia.com/cuba-repite-proceso-para-reponer-la-electricidad-tras-el-quinto-apagon-nacional-en-2026/
+  > El apagón se debió, según el ministro de energía cubano, a "oscilaciones en la red nacional que provocaron la salida de una unidad generadora".
 - **Sungrow, Tesla y CATL lideran el ránking mundial de almacenamiento en baterías en 2025** — elperiodicodelaenergia.com | 2026-07-15 03:30 UTC
   https://elperiodicodelaenergia.com/sungrow-tesla-y-catl-lideran-el-ranking-mundial-de-almacenamiento-en-baterias-en-2025/
   > Wood Mackenzie publica su primer ranking mundial de integradores de sistemas BESS tras un año récord del almacenamiento en baterías.
@@ -190,141 +197,23 @@
   https://elperiodicodelaenergia.com/bruselas-autoriza-ampliar-a-65-millones-las-ayudas-de-espana-al-campo-y-la-pesca-por-el-alza-del-combustible/
   > La CE ha dado luz verde a aumentar en 55 millones el presupuesto del programa destinado a los productores agrícolas, que pasa de 54 a 109 millones de euros, mientras que el régimen dirigido a las empresas pesqueras recib
 
-## 亚洲/东南亚（1 条）
+## 亚洲/东南亚（3 条）
 
-- **HPERC Proposes Digital Reforms To Simplify Rooftop Solar Connections Under PM Surya Ghar Scheme In Himachal Pradesh** — solarquarter.com | 2026-07-15 06:25 UTC
-  https://solarquarter.com/2026/07/15/hperc-proposes-digital-reforms-to-simplify-rooftop-solar-connections-under-pm-surya-ghar-scheme-in-himachal-pradesh/
-  > The Himachal Pradesh Electricity Regulatory Commission has proposed amendments to streamline the installation of rooftop solar systems to facilitate faster adoption among consumers. The changes aim to reduce paperwork an
-
-## 官方 · 政策/召回（免过滤直击源）（40 条）
-
-- **Conair Recalls Cuisinart Propel+ Four Burner 3-In-1 Gas Grills Due to Risk of Serious Injury from Laceration Hazard** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Conair-Recalls-Cuisinart-Propel-Four-Burner-3-In-1-Gas-Grills-Due-to-Risk-of-Serious-Injury-from-Laceration-Hazard
-  > The tempered glass window in the pizza oven can shatter during use, posing a risk of serious injury from laceration hazard.
-- **Best Buy Recalls Insignia® Gas Ranges Due to Risk of Serious Injury from a Fire Hazard** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Best-Buy-Recalls-Insignia-Gas-Ranges-Due-to-Risk-of-Serious-Injury-from-a-Fire-Hazard
-  > The recalled ranges’ front-mounted knobs can be activated accidentally by humans or pets, posing a risk of serious injury from a fire hazard.
-- **Biometric Gun Safes Recalled Due to Serious Injury Hazard and Risk of Death; Sold Exclusively on Amazon.com by BBRKIN** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Biometric-Gun-Safes-Recalled-Due-to-Serious-Injury-Hazard-and-Risk-of-Death-Sold-Exclusively-on-Amazon-com-by-BBRKIN
-  > The biometric lock on the gun safes can be opened by unauthorized users, posing a serious injury hazard and risk of death.
-- **Moodooy Bed Rails Recalled Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Sold on Amazon by Yuezhang** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Moodooy-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Yuezhang
-  > The recalled bed rails violate the mandatory standard for     adult portable bed rails     because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious ent
-- **WonderStone Infant Walkers Recalled Due to Risk of Serious Injury or Death from Fall Hazard; Violate Mandatory Standard for Infant Walkers; Sold on Walmart.com by Wonder Stone Toys** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/WonderStone-Infant-Walkers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers-Sold-on-Walmart-com-by-Wonder-Stone-Toys
-  > The recalled infant walkers violate the mandatory standard for     infant walkers     because they can fit through a standard doorway and fail to stop at the edge of a step, posing a risk of serious injury or death due t
-- **Flaunt Recalls Magsafe Battery Chargers Due to Risk of Serious Injury or Death from Fire and Burn Hazards** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Flaunt-Recalls-Magsafe-Battery-Chargers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards
-  > The lithium-ion battery in the recalled power banks (chargers) can overheat and ignite, posing a risk of serious injury or death from fire and burn hazards.
-- **Greenworks Tools Recalls 24V and 48V Kobalt Yard Power Tools with USB-C Batteries Due to Risk of Serious Injury from Fire Hazard** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Greenworks-Tools-Recalls-24V-and-48V-Kobalt-Yard-Power-Tools-with-USB-C-Batteries-Due-to-Risk-of-Serious-Injury-from-Fire-Hazard
-  > Charging the lithium-ion batteries through the USB-C port while the batteries are inserted in the yard power tools can cause the batteries to short-circuit, posing a risk of serious injury from fire hazard.
-- **Vevor Recalls Baby Loungers Due to Risk of Serious Injury or Death from Entrapment and Fall Hazards; Violate Mandatory Standard for Infant Sleep Products** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Vevor-Recalls-Baby-Loungers-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Fall-Hazards-Violate-Mandatory-Standard-for-Infant-Sleep-Products
-  > The recalled baby loungers violate the mandatory safety standard for     infant sleep products    . The sides are too low to contain an infant and the enclosed openings at the foot of the loungers are wider than allowed,
-- **Topyond Pool Drain Ports with Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act; Sold by Jialyduu** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Topyond-Pool-Drain-Ports-with-Covers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Drowning-Hazards-Violate-Virginia-Graeme-Baker-Pool-Spa-Safety-Act-Sold-by-Jialyduu
-  > The recalled drain ports with covers violate the entrapment protection standards of the     Virginia Graeme Baker Pool and Spa Safety Act (VGBA)    , posing deadly entrapment and drowning hazards to consumers.
-- **Diamond Wipes International Recalls CVS Health Medicated Hemorrhoidal Wipes Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Diamond-Wipes-International-Recalls-CVS-Health-Medicated-Hemorrhoidal-Wipes-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging
-  > The recalled medicated wipes contain lidocaine, which must be in child-resistant packaging, as required by the     Poison Prevention Packaging Act    . The packaging of the wipes is not child-resistant, posing a risk of 
-- **Projecting LED Finger Light Toys Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys; Sold on Amazon by POPOOO** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Projecting-LED-Finger-Light-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-POPOOO
-  > The recalled LED finger lights violate the     mandatory safety standard for toys     because they contain button cell batteries that can be easily accessed by children. If button cell or coin batteries are swallowed, th
-- **Rowenta Recalls Cordless Vacuum Cleaners Due to Risk of Serious Injury from Fire and Burn Hazards** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Rowenta-Recalls-Cordless-Vacuum-Cleaners-Due-to-Risk-of-Serious-Injury-from-fire-and-Burn-Hazards
-  > The recalled lithium-ion battery in the vacuum cleaner can overheat and ignite, posing a risk of serious injury from fire and burn hazards.
-- **AMASKY Nursing Pillows Recalled Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows and Infant Support Cushions; Sold on Amazon by Pretty-Life** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/AMASKY-Nursing-Pillows-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows-and-Infant-Support-Cushions-Sold-on-Amazon-by-Pretty-Life
-  > The recalled nursing pillows advertised for infant feeding and tummy time violate the mandatory safety standards for     nursing pillows     and     infant support cushions     because they can obstruct an infant’s breat
-- **Target Recalls Gigglescape™ Under the Sea Popping Toy Due to Choking Hazard** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Target-Recalls-Gigglescape-Under-the-Sea-Popping-Toy-Due-to-Choking-Hazard
-  > The clear plastic dome can detach from the blue plastic base, making the small plastic balls inside the toy accessible to children, posing a choking hazard.
-- **Cooper Lighting Recalls Metalux Optimized High Bay LED Light Fixtures Due to Fire Hazard** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Cooper-Lighting-Recalls-Metalux-Optimized-High-Bay-LED-Light-Fixtures-Due-to-Fire-Hazard
-  > The LED’s board can overheat or come into contact with the lens or nearby combustible materials, posing a fire hazard.
-- **Junpower CR2032 Lithium Coin Batteries Recalled Due to Risk of Serious Injury or Death from Battery Ingestion Hazard; Violate Federal Statute for Child-Resistant Packaging of Coin Batteries; Sold on Amazon by JSNJ_Tech Store** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Junpower-CR2032-Lithium-Coin-Batteries-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Hazard-Violate-Federal-Statute-for-Child-Resistant-Packaging-of-Coin-Batteries-Sold-on-Amazon-by-JSNJ-Tech-Store
-  > The lithium coin batteries are not sold in child-resistant packaging and do not bear the warning labels as required under     Reese’s Law    . When button cell or coin batteries are swallowed, the ingested batteries can 
-- **Conair Recalls Over One Million Cuisinart Grill Brushes Due to Ingestion Hazard** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Conair-Recalls-Over-One-Million-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard
-  > Small metal wire bristles can detach from the brushes and stick to the grill or food, posing an ingestion hazard and risk of serious internal injuries that could require surgery.
-- **Winco Fireworks International Recalls Unity 7 Shot 200 Gram Aerial Cake Fireworks Due to Risk of Serious Injury from Explosion and Burn Hazards** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Winco-Fireworks-International-Recalls-Unity-7-Shot-200-Gram-Aerial-Cake-Fireworks-Due-to-Risk-of-Serious-Injury-from-Explosion-and-Burn-Hazards
-  > The recalled fireworks can tip over, posing a risk of serious injury from explosion and burn hazards.
-- **Winco Fireworks International Recalls Roman Candles 8 Shot Fireworks Due to Risk of Serious Injury from Explosion and Burn Hazards** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Winco-Fireworks-International-Recalls-Roman-Candles-8-Shot-Fireworks-Due-to-Risk-of-Serious-Injury-from-Explosion-and-Burn-Hazards
-  > The recalled fireworks can malfunction, and shots can blow out the side of the tube, posing a risk of serious injury from explosion and burn hazards.
-- **Kith Retail Recalls Children’s Loungewear Sets Due to Risk of Serious Injury from Burn Hazard; Violate Mandatory Standards for Children’s Sleepwear** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Kith-Retail-Recalls-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear
-  > The recalled children’s loungewear sets violate the mandatory flammability standards for     children’s sleepwear    , posing a risk of serious burn injuries.
-- **Yamazuki Recalls Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash; Violate Mandatory Standard for ATVs** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Yamazuki-Recalls-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Violate-Mandatory-Standard-for-ATVs
-  > The recalled youth ATVs violate the mandatory safety standard for     ATVs     because they are missing brake lights, reducing visibility of the youth ATV to other vehicles, posing a deadly crash hazard.
-- **Super Off-Road Solar Power Banks Recalled Due to Overheating; Imported by Spector & Co.** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Super-Off-Road-Solar-Power-Banks-Recalled-Due-to-Overheating-Imported-by-Spector-Co
-  > The solar power bank’s lithium-ion battery can swell and overheat, posing a burn hazard to consumers.
-- **Southern Telecom Expands Recall of Lomi Waxing Kits Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Additional Model and Reported Incidents** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Southern-Telecom-Expands-Recall-of-Lomi-Waxing-Kits-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Additional-Model-and-Reported-Incidents
-  > The roll-on warmers’ power cord can overheat and short circuit, posing a risk of serious injury or death from fire, burn and electrical shock hazards.
-- **Shield Line Recalls MedPride Baby Oil Bottles Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Shield-Line-Recalls-MedPride-Baby-Oil-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging
-  > The baby oil contains low-viscosity hydrocarbons, which must be in child-resistant packaging, as required by the     Poison Prevention Packaging Act    . The baby oil’s packaging is not child-resistant, posing a risk of 
-- **Raychy Children's Light Sneakers Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Coin Batteries; Imported by Carina and Rambo** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Raychy-Childrens-Light-Sneakers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Coin-Batteries-Imported-by-Carina-and-Rambo
-  > The recalled sneakers violate the mandatory standard for consumer products with button cell and coin batteries because the lithium coin batteries can be accessed easily by children, posing an ingestion hazard. Additional
-- **Montessori Busy Board Toys Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys; Sold on Amazon by Small Fish** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Montessori-Busy-Board-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Small-Fish
-  > The busy boards violate the     mandatory safety standard for toys     because magnets can detach, posing a deadly ingestion hazard. When high-powered magnets are swallowed, the ingested magnets can attract each other, o
-- **Honlyne LED Party Favors Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Button Cell Batteries; Sold by Huizhou Rongheng Network Technology** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Honlyne-LED-Party-Favors-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries-Sold-by-Huizhou-Rongheng-Network-Technology
-  > The LED party favors violate the mandatory safety standard for consumer products because the battery compartment within the light-up products contains button cell batteries that can be easily accessed by children. When b
-- **Daikin Comfort Technologies Manufacturing Recalls Amana Air Conditioners and Heat Pumps Due to Risk of Serious Injury from Fire and Burns** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Daikin-Comfort-Technologies-Manufacturing-Recalls-Amana-Air-Conditioners-and-Heat-Pumps-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burns
-  > The heating element can remain energized during a ground fault, despite being turned off, posing a risk of fire or burn injury to consumers.
-- **Combination Smoke and Carbon Monoxide (CO) Detectors Recalled Due to Risk of Serious Injury or Death from Failure to Alert Consumers to Fire; Sold Exclusively on Amazon.com by Treatlife Technology** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Combination-Smoke-and-Carbon-Monoxide-CO-Detectors-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Failure-to-Alert-Consumers-to-Fire-Sold-Exclusively-on-Amazon-com-by-Treatlife-Technology
-  > The recalled detectors can fail to alert consumers of a fire, posing a risk of serious injury or death from smoke inhalation or burns.
-- **BABESIDE Doll and Stroller Children’s Toys Recalled Due to Risk of Serious Injury or Death from Choking Hazard; Violate Small Parts Ban; Sold on Amazon by HYBDOLLS** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/BABESIDE-Doll-and-Stroller-Childrens-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Parts-Ban-Sold-on-Amazon-by-HYBDOLLS
-  > The recalled toys violate the     small parts ban     because they are intended for children under three and the small pacifier poses a deadly choking hazard to young children. In addition, the eyes on the plush bear can
-- **GOPO Toys Recalls Pull String Teething Toys Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Standard for Toys** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/GOPO-Toys-Recalls-Pull-String-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys
-  > The recalled teething toys violate the mandatory standard for     toys     because the silicone strings are smaller and longer than permitted. The strings can reach the back of children’s throat and become lodged, posing
-- **Veseacky Pajama Sets Recalled Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standards for Children’s Sleepwear** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Veseacky-Pajama-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear
-  > The pajama sets violate the mandatory safety standards for     children’s sleepwear    , posing a risk of serious injury or death to children from burns.
-- **Arizer Solo III Portable Vaporizers Recalled Due to Fire and Burn Hazards; Risk of Serious Injury or Death; Imported by 7111495 Canada** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Arizer-Solo-III-Portable-Vaporizers-Recalled-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-or-Death-Imported-by-7111495-Canada
-  > The internal lithium-ion battery can explode or ignite, posing fire and burn hazards.
-- **Bada Boom Fireworks Recalls Pyro Diablo “Diablo Rising” Fireworks Due to Risk of Serious Injury or Death from Explosion and Burn Hazards; Violate Fireworks Ban** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Bada-Boom-Fireworks-Recalls-Pyro-Diablo-Diablo-Rising-Fireworks-Due-to-Risk-of-Serious-Injury-or-Death-from-Explosion-and-Burn-Hazards-Violate-Fireworks-Ban
-  > The recalled fireworks violate the ban for aerial     fireworks devices     intended to produce audible effects because they have a pyrotechnic composition that exceeds the federal limit, posing deadly explosion and burn
-- **SHEIN Distribution Corporation Recalls Michley Children’s Pajamas Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Children’s Sleepwear** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Michley-Childrens-Pajamas-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear
-  > The recalled children’s pajamas violate the mandatory flammability standard for     children’s sleepwear    , posing a risk of serious burn injuries or death.
-- **Joolz Recalls Aer2 Car Seat Adapters for Strollers Due to Risk of Serious Injury from Fall Hazard** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Joolz-Recalls-Aer2-Car-Seat-Adapters-for-Strollers-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard
-  > The recalled car seat adapters can fail to properly attach to the stroller, which may allow the car seat to fall, posing a risk of serious injury from a fall hazard.
-- **CooCooBaby Baby Loungers Recalled Due to Risk of Serious Injury or Death from Suffocation and Fall Hazards; Violates Mandatory Standard for Infant Sleep Products** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/CooCooBaby-Baby-Loungers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-and-Fall-Hazards-Violates-Mandatory-Standard-for-Infant-Sleep-Products
-  > The baby loungers violate the mandatory standard for     Infant Sleep Products     because the sides are shorter than the minimum side height limit to secure the infant; the sleeping pad’s thickness exceeds the maximum l
-- **Spa Drain Covers Recalled Due to Risk of Serious Injury or Death from Entrapment and Drowning Hazards; Violate Virginia Graeme Baker Pool & Spa Safety Act; Sold on Amazon by Arrogantf** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Spa-Drain-Covers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Drowning-Hazards-Violate-Virginia-Graeme-Baker-Pool-Spa-Safety-Act-Sold-on-Amazon-by-Arrogantf
-  > The recalled drain covers violate the entrapment protection standards of the     Virginia Graeme Baker Pool and Spa Safety Act (VGBA)    , posing entrapment and drowning hazards to consumers.
-- **Joyin Recalls Sloosh Dive Sticks Due to Risk of Serious Injury from Impalement; Violate Federal Dive Sticks Ban** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/Joyin-Recalls-Sloosh-Dive-Sticks-Due-to-Risk-of-Serious-Injury-from-Impalement-Violate-Federal-Dive-Sticks-Ban
-  > The recalled dive sticks violate the federal     dive sticks     ban because they exceeded the compress limit, posing an impalement hazard. In shallow water, children may fall or land on a dive stick, resulting in seriou
-- **HSN Recalls Kitchen HQ Thermal Insulated Bowls Due to Fire Hazard** — cpsc.gov | （无时间戳）
-  https://www.cpsc.gov/Recalls/2026/HSN-Recalls-Kitchen-HQ-Thermal-Insulated-Bowls-Due-to-Fire-Hazard
-  > Metal springs in the detachable hinged lid of the insulated bowls can catch fire when used in the microwave, posing a fire hazard.
+- **SWELECT Energy Approves USD 500,000 Investment To Enter US Grid-Scale Battery Storage Market** — solarquarter.com | 2026-07-15 10:21 UTC
+  https://solarquarter.com/2026/07/15/swelect-energy-approves-usd-500000-investment-to-enter-us-grid-scale-battery-storage-market/
+  > SWELECT Energy Systems Limited is set to invest up to USD 500,000 in Comstock BESS LLC to enter the US grid-scale battery energy storage market. This strategic move, approved by its Board of Directors, aligns with SWELEC
+- **Capcora and suena energy Highlight Financing Strategies to Improve Bankability of Europe’s Battery Storage Projects** — solarquarter.com | 2026-07-15 10:06 UTC
+  https://solarquarter.com/2026/07/15/capcora-and-suena-energy-highlight-financing-strategies-to-improve-bankability-of-europes-battery-storage-projects/
+  > Capcora and suena energy have released a whitepaper analyzing financing and commercial models for battery energy storage systems (BESS) in Europe. It emphasizes the importance of revenue certainty and risk allocation in 
+- **Stricter Grid Rules May Slow Renewable Energy Investments In India – Report** — solarquarter.com | 2026-07-15 08:19 UTC
+  https://solarquarter.com/2026/07/15/stricter-grid-rules-may-slow-renewable-energy-investments-in-india-report/
+  > India's renewable energy sector experiences strong investment interest, but proposed grid regulation changes threaten its financial viability. Stricter penalties for failing to meet commitments could reduce revenues sign
 
 ## ⚠️ 信源健康
 
 - 全部信源抓取成功 ✅
 
 **窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 17 个源
-- https://www.pv-magazine.fr/feed/
 - https://www.pv-tech.org/feed/
 - https://news.google.com/rss/search?q=solar+OR+battery+storage&gl=SE&hl=sv&ceid=SE:sv
 - https://news.google.com/rss/search?q=site%3Acurrent-news.co.uk
@@ -340,4 +229,5 @@
 - https://news.google.com/rss/search?q=site%3Aee-news.ch
 - https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
 - https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
+- https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS
 - https://news.google.com/rss/search?q=site%3Aenergy.ec.europa.eu&hl=en
