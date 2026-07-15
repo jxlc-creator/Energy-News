@@ -16,6 +16,7 @@ import feedparser
 
 # ---------------- 配置 ----------------
 
+UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 WINDOW_HOURS = 26          # 抓取窗口：过去 26 小时（留 2h 缓冲防漏）
 MAX_SUMMARY_CHARS = 220    # 摘要截断长度
 MAX_ITEMS_PER_GROUP = 60   # 单组条目上限（防某源爆量刷屏）
@@ -131,7 +132,7 @@ def main():
 
     for group, url, bypass in load_feeds():
         try:
-            parsed = feedparser.parse(url)
+            parsed = feedparser.parse(url, agent=UA)
         except Exception as e:  # noqa: BLE001
             health_fail.append(f"{url}  （异常: {e}）")
             continue
