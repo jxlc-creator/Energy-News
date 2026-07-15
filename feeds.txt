@@ -80,14 +80,26 @@ https://solarquarter.com/feed/
 #       residential energy storage policy
 #       portable power station recall
 #       阳台光伏 OR 户用储能 政策
-# https://www.google.com/alerts/feeds/XXXXXXXX/XXXXXXXX
-# https://www.google.com/alerts/feeds/XXXXXXXX/XXXXXXXX
+# https://www.google.com/alerts/feeds/12317634030943780809/9055174811038432502
+# https://www.google.com/alerts/feeds/12317634030943780809/2897750841693662307
+# https://www.google.com/alerts/feeds/12317634030943780809/6234742729284648178
+# https://www.google.com/alerts/feeds/12317634030943780809/3596096209758805902
+# https://www.google.com/alerts/feeds/12317634030943780809/12840120884195009782
+# https://www.google.com/alerts/feeds/12317634030943780809/6234742729284645203
 
 [Google Alerts · 重点公司]
 # 给旗舰公司各建一个 alert（Tesla Powerwall / Marstek / Zendure / FoxESS /
 # Growatt / Sungrow / AlphaESS / Enphase / SolarEdge / Hoymiles / Deye / BYD battery…）
+# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149615
+# https://www.google.com/alerts/feeds/12317634030943780809/8485424751910261558
+# https://www.google.com/alerts/feeds/12317634030943780809/2780443424138891726
+# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149455
+# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397147116
+# https://www.google.com/alerts/feeds/12317634030943780809/12547113795801243517
+# https://www.google.com/alerts/feeds/12317634030943780809/131760047292014708
+#
 # 德国活跃品牌另建德语风险词：如 "FoxESS Urteil OR Verbot OR Rückruf"
-# https://www.google.com/alerts/feeds/XXXXXXXX/XXXXXXXX
+# https://www.google.com/alerts/feeds/12317634030943780809/12840120884195009237
 
 # =============================================================
 # 【无 RSS 的政策靶点】—— 暂由上面的 Google Alerts(site:) 或
