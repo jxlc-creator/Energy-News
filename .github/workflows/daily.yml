@@ -27,7 +27,7 @@ jobs:
           python-version: '3.12'
 
       - name: 安装依赖
-        run: pip install feedparser
+        run: pip install feedparser googlenewsdecoder
 
       - name: 运行 digest 生成器
         run: python pipeline.py
