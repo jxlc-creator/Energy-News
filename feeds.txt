@@ -15,7 +15,7 @@
 #      首次运行后查看「信源健康」区，把报错的源打开浏览器确认新地址。
 # =============================================================
 
-[全球行业媒体 · 汇聚节点]
+[全球行业媒体 · 汇聚节点] 
 https://www.pv-magazine.com/feed/
 https://pv-magazine-usa.com/feed/
 https://www.pv-magazine.de/feed/
@@ -27,26 +27,46 @@ https://www.energy-storage.news/feed/
 https://www.ess-news.com/feed/
 https://www.pv-tech.org/feed/
 https://news.google.com/rss/search?q=solar+OR+battery+storage&gl=SE&hl=sv&ceid=SE:sv
+# best magazine
+https://www.bestmag.co.uk/feed
+# Reuters 全球能源（site: 限定，靠关键词过滤收口）
+https://news.google.com/rss/search?q=site%3Areuters.com&hl=en&gl=US&ceid=US:en
+# POWER Magazine
+https://www.powermag.com/feed/ 
 
 [德语生态]
 https://www.solarserver.de/feed/
 https://news.google.com/rss/search?q=site%3Aphotovoltaik.eu&hl=de
 # heise online 能源频道（全站feed量大，靠关键词过滤兜住）
 https://www.heise.de/rss/heise-atom.xml
-
+# 德国联邦网络局（量偏大，走关键词过滤兜住）
+https://news.google.com/rss/search?q=site%3Abundesnetzagentur.de&hl=de&gl=DE&ceid=DE:de
+# KfW 促进银行 Speicher/Photovoltaik
+https://news.google.com/rss/search?q=site%3Akfw.de%20Speicher%20OR%20Photovoltaik&hl=de
+		 
 [英国]
 https://news.google.com/rss/search?q=site%3Acurrent-news.co.uk
 https://news.google.com/rss/search?q=site%3Asolarpowerportal.co.uk
-
+# Energy Live News energy storage
+https://news.google.com/rss/search?q=site:energylivenews.com+%28energy+storage%29&hl=en&gl=GB&ceid=GB:en
+		 
+[爱尔兰]
+# Energy Ireland
+https://www.energyireland.ie/feed/
+		 
 [澳新]
 https://news.google.com/rss/search?q=site%3Areneweconomy.com.au
 https://news.google.com/rss/search?q=site%3Aonestepoffthegrid.com.au
 https://www.solarquotes.com.au/blog/feed/
-
+# 西澳政府 battery
+https://news.google.com/rss/search?q=site%3Awa.gov.au%20battery&hl=en
+		 
 [美国]
 https://www.canarymedia.com/rss.xml
 https://www.utilitydive.com/feeds/news/
-
+# Solar Power World
+https://news.google.com/rss/search?q=site%3Asolarpowerworldonline.com&hl=en&gl=US&ceid=US:en
+		 
 [法国/南欧/荷波]
 https://www.revolution-energetique.com/feed/
 https://www.qualenergia.it/feed/
@@ -55,13 +75,63 @@ https://news.google.com/rss/search?q=site%3Asolarmagazine.nl
 https://gramwzielone.pl/feed
 https://wysokienapiecie.pl/feed/
 https://ceenergynews.com/feed/
-
+# 法国 Le Chodu Solaire
+https://www.lechodusolaire.fr/feed/
+# 法国经济部 énergie
+https://news.google.com/rss/search?q=site%3Aeconomie.gouv.fr%20%C3%A9nergie&hl=fr
+# 意大利 Solare B2B
+https://www.solareb2b.it/feed/
+# 意大利 Staffetta Online accumulo energetico
+https://news.google.com/rss/search?q=site:staffettaonline.com+%28accumulo+energetico%29&hl=it&gl=IT&ceid=IT:it
+		 
+[荷比卢/北欧/东欧]
+https://news.google.com/rss/search?q=energieopslag&hl=nl&gl=NL&ceid=NL:nl
+https://energeia.nl/feed/
+# 荷兰政府 energie
+https://news.google.com/rss/search?q=site%3Arijksoverheid.nl%20energie&hl=nl
+# 比利时佛兰芒能源监管机构
+https://news.google.com/rss/search?q=site%3Avlaamsenutsregulator.be&hl=nl
+# 布鲁塞尔能源
+https://news.google.com/rss/search?q=site%3Abrugel.brussels&hl=nl&gl=BE&ceid=BE:nl
+# 比利时 Synergrid
+https://news.google.com/rss/search?q=site%3Asynergrid.be&hl=nl&gl=BE&ceid=BE:nl
+# 瑞典 Ny Teknik energilagring
+https://news.google.com/rss/search?q=site:nyteknik.se+%28energilagring%29&hl=sv&gl=SE&ceid=SE:sv
+# 罗马尼亚 Energynomics
+https://www.energynomics.ro/feed/
+# 匈牙利 Portfolio energiatárolás
+https://news.google.com/rss/search?q=site:portfolio.hu+%28energiat%C3%A1rol%C3%A1s%29&hl=hu&gl=HU&ceid=HU:hu
+		 
 [瑞士]
 https://news.google.com/rss/search?q=site%3Aee-news.ch
-
+# bulletin.ch energy storage
+https://news.google.com/rss/search?q=site:bulletin.ch+%28energy+storage%29&hl=en&gl=CH&ceid=CH:en
+# 瑞士 ESTI
+https://news.google.com/rss/search?q=site%3Aesti.admin.ch&hl=de&gl=CH&ceid=CH:de
+		 
+[希腊]
+# EnergyPress αποθήκευση ενέργειας
+https://news.google.com/rss/search?q=site:energypress.gr+%28%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B5%CF%85%CF%83%CE%B7+%CE%B5%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1%CF%82%29&hl=el&gl=GR&ceid=GR:el
+		 
 [亚洲/东南亚]
 https://solarquarter.com/feed/
-
+# 越南 The Investor lưu trữ năng lượng
+https://news.google.com/rss/search?q=site:theinvestor.vn+%28l%C6%B0u+tr%E1%BB%AF+n%C4%83ng+l%C6%B0%E1%BB%A3ng%29&hl=vi&gl=VN&ceid=VN:vi
+# 越南 Vietnam Energy lưu trữ năng lượng
+https://news.google.com/rss/search?q=site:vietnamenergy.vn+%28l%C6%B0u+tr%E1%BB%AF+n%C4%83ng+l%C6%B0%E1%BB%A3ng%29&hl=vi&gl=VN&ceid=VN:vi
+# 菲律宾 Asian Power energy storage
+https://news.google.com/rss/search?q=site:asian-power.com+%28energy+storage%29&hl=en&gl=PH&ceid=PH:en
+# 印尼 Petromindo penyimpanan energi
+https://news.google.com/rss/search?q=site:petromindo.com+%28penyimpanan+energi%29&hl=id&gl=ID&ceid=ID:id
+# 巴基斯坦 Energy Update
+https://www.energyupdate.com.pk/feed/
+		 
+[非洲]
+# Africa Energy
+https://news.google.com/rss/search?q=site:africa-energy.com+%28energy+storage%29&hl=en&gl=ZA&ceid=ZA:en
+# ESI Africa
+https://news.google.com/rss/search?q=site:esi-africa.com+%28energy+storage%29&hl=en&gl=ZA&ceid=ZA:en
+		 
 [官方 · 政策/召回（免过滤直击源）]
 # gov.uk 的搜索页支持 .atom 输出——这条订阅 = 每天自动直击 DESNZ 政策/咨询列表
 !https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
@@ -71,6 +141,36 @@ https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS
 # 欧盟委员会能源新闻
 !https://news.google.com/rss/search?q=site%3Aenergy.ec.europa.eu&hl=en
 # 澳洲 RenewEconomy 已覆盖 DCCEEW 大部分动态；官方页多数无RSS，见文末清单
+# SolarPower Europe 协会
+!https://news.google.com/rss/search?q=site%3Asolarpowereurope.org&hl=en&gl=US&ceid=US:en
+# EASE 欧洲储能协会
+!https://ease-storage.eu/feed/
+# 德国 BSW 太阳能经济协会
+!https://www.solarwirtschaft.de/feed/
+# 英国 MCS 认证
+!https://news.google.com/rss/search?q=site%3Amcscertified.com
+# 意大利 ARERA 监管机构
+!https://news.google.com/rss/search?q=site%3Aarera.it&hl=it&gl=IT&ceid=IT:it
+# 美国 FERC
+!https://news.google.com/rss/search?q=site%3Aferc.gov&hl=en
+# 美国 CPUC 加州公用事业委员会
+!https://news.google.com/rss/search?q=site%3Acpuc.ca.gov&hl=en&gl=US&ceid=US:en
+# 美国 FCC
+!https://news.google.com/rss/search?q=site%3Afcc.gov&hl=en&gl=US&ceid=US:en
+# 澳洲 AEMC 能源市场委员会
+!https://news.google.com/rss/search?q=site%3Aaemc.gov.au&hl=en
+# 澳洲 CER 清能源监管机构
+!https://news.google.com/rss/search?q=site%3Acer.gov.au&hl=en&gl=AU&ceid=AU:en
+# 澳洲 DCCEEW 气候变化能源环境部
+!https://news.google.com/rss/search?q=site%3Adcceew.gov.au&hl=en&gl=AU&ceid=AU:en
+# 澳洲 NSW 能源部
+!https://news.google.com/rss/search?q=site%3Aenergy.nsw.gov.au&hl=en&gl=AU&ceid=AU:en
+# 新西兰 EA 电力局
+!https://news.google.com/rss/search?q=site%3Aea.govt.nz&hl=en&gl=NZ&ceid=NZ:en
+# 菲律宾 ERC 能源监管委员会
+!https://news.google.com/rss/search?q=site%3Aerc.gov.ph&hl=en&gl=PH&ceid=PH:en
+# 越南 EVN 电力集团
+!https://news.google.com/rss/search?q=site%3Aevn.com.vn&hl=vi&gl=VN&ceid=VN:vi
 
 [Google Alerts · 品类词]
 # ↓↓↓ 在 https://www.google.com/alerts 逐个创建，"接收方式"选"RSS Feed"，
@@ -95,33 +195,68 @@ https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS
 # https://www.google.com/alerts/feeds/12317634030943780809/12158065407982461285
 # https://www.google.com/alerts/feeds/12317634030943780809/16666535843374388505
 # https://www.google.com/alerts/feeds/12317634030943780809/15408116610859464972
+# "balcony solar" OR "plug-in solar" OR "balcony power plant" OR "Balkonkraftwerk" subsidy OR policy OR regulation OR tariff OR incentive
+https://www.google.com/alerts/feeds/02133493801194607926/9190086039198492628
+# "residential energy storage" OR "home battery" OR "residential battery" OR "home ESS" subsidy OR policy OR regulation OR tariff OR trade
+https://www.google.com/alerts/feeds/02133493801194607926/13010409523936117766
+# "home backup power" OR "whole home backup" OR "backup battery" OR "off-grid home" policy OR incentive OR regulation OR rebate
+https://www.google.com/alerts/feeds/02133493801194607926/16146918729223398949
+# "portable power station" OR "portable battery" OR "solar generator" regulation OR tariff OR trade OR policy OR recall
+https://www.google.com/alerts/feeds/02133493801194607926/16146918729223397864
+# "residential solar" OR "rooftop solar" OR "distributed solar" OR "net metering" subsidy OR policy OR tariff OR bill OR act
+https://www.google.com/alerts/feeds/02133493801194607926/16146918729223398119
+# "energy storage" OR solar subsidy OR incentive OR rebate OR "tax credit" OR grant residential OR home OR household
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147798511
+# "solar panel" OR battery OR "energy storage" tariff OR "anti-dumping" OR "trade war" OR "import duty" OR sanction
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147797877
+# "energy storage" OR solar bill OR act OR legislation OR regulation OR "building code" residential OR home
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147795474
+# Balkonkraftwerk OR "Stecker-Solargerät" OR "Mini-PV" Förderung OR Gesetz OR Verordnung OR Zoll OR Regelung
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147796504
+# Heimspeicher OR Stromspeicher OR "Hausbatterie" Förderung OR Subvention OR Pflicht OR Gesetz
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147795483
+# Photovoltaik OR Solaranlage Einspeisevergütung OR EEG OR Förderung OR Pflicht OR Mieterstrom
+https://www.google.com/alerts/feeds/02133493801194607926/1004553277147797868
+# 家庭用蓄電池 OR 住宅用太陽光発電 OR ポータブル電源 補助金 OR 助成金 OR 制度 OR 規制 OR FIT OR FIP
+https://www.google.com/alerts/feeds/02133493801194607926/2201882766421477719
+# 蓄電池 OR 太陽光 法案 OR 義務化 OR 関税 OR 貿易 OR 新制度
+https://www.google.com/alerts/feeds/02133493801194607926/2201882766421475997
+# "stockage résidentiel" OR "batterie domestique" OR "autoconsommation solaire" OR "kit solaire" subvention OR prime OR loi OR réglementation OR tarif
+https://www.google.com/alerts/feeds/02133493801194607926/12553965234254885152
+# "accumulo domestico" OR "fotovoltaico residenziale" OR "batteria casa" incentivo OR bonus OR detrazione OR normativa OR tariffa
+https://www.google.com/alerts/feeds/02133493801194607926/3625370929132883836
+# "almacenamiento residencial" OR "autoconsumo solar" OR "batería doméstica" OR "energía solar" subsidio OR incentivo OR ley OR regulación OR arancel
+https://www.google.com/alerts/feeds/02133493801194607926/3625370929132880417
+# 가정용ESS OR 주택태양광 OR 가정용배터리 OR 태양광발전 보조금 OR 지원금 OR 법안 OR 관세 OR 규제
+https://www.google.com/alerts/feeds/02133493801194607926/3625370929132882054
+
 
 [Google Alerts · 重点公司]
 # 给旗舰公司各建一个 alert（Tesla Powerwall / Marstek / Zendure / FoxESS /
-# Growatt / Sungrow / AlphaESS / Enphase / SolarEdge / Hoymiles / Deye / BYD battery…）
-# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149615
-# https://www.google.com/alerts/feeds/12317634030943780809/8485424751910261558
-# https://www.google.com/alerts/feeds/12317634030943780809/2780443424138891726
-# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149455
-# https://www.google.com/alerts/feeds/12317634030943780809/3511880935397147116
-# https://www.google.com/alerts/feeds/12317634030943780809/12547113795801243517
-# https://www.google.com/alerts/feeds/12317634030943780809/131760047292014708
-#
+Growatt / Sungrow / AlphaESS / Enphase / SolarEdge / Hoymiles / Deye / BYD battery…）
+https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149615
+https://www.google.com/alerts/feeds/12317634030943780809/8485424751910261558
+https://www.google.com/alerts/feeds/12317634030943780809/2780443424138891726
+https://www.google.com/alerts/feeds/12317634030943780809/3511880935397149455
+https://www.google.com/alerts/feeds/12317634030943780809/3511880935397147116
+https://www.google.com/alerts/feeds/12317634030943780809/12547113795801243517
+https://www.google.com/alerts/feeds/12317634030943780809/131760047292014708
+
 # 德国活跃品牌另建德语风险词：如 "FoxESS Urteil OR Verbot OR Rückruf"
-# https://www.google.com/alerts/feeds/12317634030943780809/16894192632704053442
+https://www.google.com/alerts/feeds/12317634030943780809/16894192632704053442
 
 # =============================================================
 # 【无 RSS 的政策靶点】—— 暂由上面的 Google Alerts(site:) 或
 # 后续接 changedetection.io/Visualping 页面监控补上：
 #   ofgem.gov.uk/publications-and-updates
-#   dcceew.gov.au/about/news ・ cer.gov.au/news-and-media
-#   energy.nsw.gov.au/news ・ solar.vic.gov.au/news
-#   bundesnetzagentur.de Pressemitteilungen ・ bmwk.de
-#   cre.fr ・ enedis.fr ・ bfe.admin.ch ・ esti.admin.ch ・ pronovo.ch
-#   idae.es ・ boe.es ・ gse.it ・ arera.it ・ mase.gov.it
-#   cpuc.ca.gov/news ・ dsireusa.org ・ rvo.nl ・ synergrid.be ・ fluvius.be
-#   eeca.govt.nz ・ ea.govt.nz ・ 越南MOIT/EVN ・ 菲DOE/ERC ・ 泰ERC
-#   德国判例: openjur.de ・ dejure.org ・ EU Safety Gate
+#   dcceew.gov.au/about/news · cer.gov.au/news-and-media
+#   energy.nsw.gov.au/news · solar.vic.gov.au/news
+#   bundesnetzagentur.de Pressemitteilungen · bmwk.de
+#   cre.fr · enedis.fr · bfe.admin.ch · esti.admin.ch · pronovo.ch
+#   idae.es · boe.es · gse.it · arera.it · mase.gov.it
+#   cpuc.ca.gov/news · dsireusa.org · rvo.nl · synergrid.be · fluvius.be
+#   eeca.govt.nz · ea.govt.nz · 越南MOIT/EVN · 菲DOE/ERC · 泰ERC
+#   德国判例: openjur.de · dejure.org · EU Safety Gate
 # 过渡方案：给关键靶点建 Google Alerts，如
 #   site:ofgem.gov.uk battery OR solar
 #   site:bundesnetzagentur.de Steckersolar OR Speicher
