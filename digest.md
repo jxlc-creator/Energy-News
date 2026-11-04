@@ -1,585 +1,607 @@
-# 每日储能情报 · 候选清单 | 2026-11-03
+# 每日储能情报 · 候选清单 | 2026-11-04
 
-- 生成时间（UTC）：2026-11-03 03:32
+- 生成时间（UTC）：2026-11-04 02:29
 - 抓取窗口：过去 26 小时
-- 原始条目：4777 条 → 过滤去重后：**175 条**
+- 原始条目：4653 条 → 过滤去重后：**179 条**
 
 > 用途：将本文件交给 Claude（energy-storage-intel skill）分类、评级并生成中文简报。
 
 ## 全球行业媒体 · 汇聚节点（30 条）
 
+- **‘We’ve done all the trials’: Akaysha calls for system security contracts for grid-forming battery storage in Australia** — energy-storage.news | 2026-11-04 02:15 UTC
+  https://www.energy-storage.news/weve-done-all-the-trials-akaysha-calls-for-system-security-contracts-for-grid-forming-battery-storage-in-australia/
+  > Australia has finished trialling grid-forming battery storage for system security services and needs contracts signed within two years.
+- **US stock futures dip as investors await midterm election results - Reuters** — news.google.com | 2026-11-04 01:06 UTC
+  https://news.google.com/rss/articles/CBMie0FVX3lxTFBWZWFDY2tZeDZfbXdVWnE2QWZwVlNpX3NqVm1OdmR0bDBGTlJjU3dJWG5yWEFpSG4tSHVhY2NEeVBsNnllVFQyb0tWRU1naXZQLWN3Tlk4VE1PV3o2cU1tVHFYX1hDT1ZtRkVWUWtYR3JwWFRyTXZIRldDWQ?oc=5
+  > US stock futures dip as investors await midterm election results    Reuters
+- **Gold firms on softer oil prices, US midterm results awaited - Reuters** — news.google.com | 2026-11-04 00:58 UTC
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0lHOUFsbExIR3lscDNTRy14T012UWd6UlBSLUtySlpjSTdFaEtYLW1hbnpOTHdrSm1fM1RGU2V0WmxNSWJGU3AxeV9PUDVRVm1BRjBBNXQxZVVacElvaE5IbGJFU2FZbnN1Tmg4dlVTZ3prY0U0SEh5X1VzWmxUYnQ3VWhtZGpGOXloc1R6X3BvNlprVmw0UGppaFE2VFcyYkl3SzJ3?oc=5
+  > Gold firms on softer oil prices, US midterm results awaited    Reuters
+- **Australian innovation recognised with global smart grid award** — pv-magazine-australia.com | 2026-11-03 21:59 UTC
+  https://www.pv-magazine-australia.com/2026/11/04/australian-innovation-recognised-with-global-smart-grid-award/
+  > Australia’s national science agency has been recognised on the international stage for its work in helping electricity networks support higher levels of rooftop solar integration in existing infrastructure.
+- **Pfizer raises 2026 forecasts as Eliquis, cancer drugs drive third-quarter results - Reuters** — news.google.com | 2026-11-03 17:13 UTC
+  https://news.google.com/rss/articles/CBMi0AFBVV95cUxObk9ZWkpsNXk5SGk3UlhMcDBrNmFxNkJuTFNhNjlyQ3NqMWNIVTZ0X1FZdEs0OXc1MEpPTUxzZEpIUUo2MFZlSDVfQUtLcldUTkswbEpIYjFScWVQcjNlSW9waHY0VWVoRE91aDZJZ3A0VlQ0ZnFCZzNkblUzVVlDY1FPaGV3SHFzRGZZaHQwV0oyZ2JCRlFWMjNpRDF6X2FaX2pxNllpcDRpeUpXVmhCZFE5QmEyQVRWSElnLU1USWtQZ0RRNXhJTWVoOWljbWlQ?oc=5
+  > Pfizer raises 2026 forecasts as Eliquis, cancer drugs drive third-quarter results    Reuters
+- **Storage-first models and VPP integration define post-ITC solar market** — pv-magazine-usa.com | 2026-11-03 16:54 UTC
+  https://pv-magazine-usa.com/2026/11/03/storage-first-models-and-vpp-integration-define-post-itc-solar-market/
+  > Declining net energy metering export rates and mounting grid capacity constraints are driving residential solar installers to adopt storage-first sales models while scaling virtual power plant participation nationwide.
+- **Hanwha Q-Cells fokussiert sich in Europa auf Forschung und Entwicklung** — pv-magazine.de | 2026-11-03 15:44 UTC
+  https://www.pv-magazine.de/2026/11/03/hanwha-q-cells-fokussiert-sich-in-europa-auf-forschung-und-entwicklung/
+  > Aktuell kursierende Marktgerüchte, das Photovoltaik-Unternehmen könnte seinen Betrieb in Europa bald einstellen, tritt Q-Cells entschieden entgegen. Sehr wohl wird es aber eine Neuausrichtung und eine Konzentration auf d
+- **Sax Power meldet 60 Prozent mehr Umsatz und will Batteriespeicher-Produktion stark ausbauen** — pv-magazine.de | 2026-11-03 15:00 UTC
+  https://www.pv-magazine.de/2026/11/03/sax-power-meldet-60-prozent-mehr-umsatz-und-will-batteriespeicher-produktion-stark-ausbauen/
+  > Das Erbacher Unternehmen nennt das Wachstum in Österreich, der Schweiz, den Niederlanden und Belgien, den Ausbau des Vertriebs sowie die generell steigende Nachfrage nach Batteriespeichern aus europäischer Produktion als
+- **Acciona Energía to add 42 MWh of battery storage across Dominican solar farms** — ess-news.com | 2026-11-03 13:51 UTC
+  https://www.ess-news.com/2026/11/03/acciona-energia-to-add-42-mwh-of-battery-storage-across-dominican-solar-farms/
+  > Three co-located battery energy storage systems with power output of 21.2 MW will be added to Acciona's operational solar portfolio in the Dominican Republic. 
+ The post  Acciona Energía to add 42 MWh of battery storage 
+- **Jahresendrallye beim Photovoltaik-Zubau: Erste Engpässe zeichnen sich ab** — pv-magazine.de | 2026-11-03 12:50 UTC
+  https://www.pv-magazine.de/2026/11/03/jahresendrallye-beim-photovoltaik-zubau-erste-engpaesse-zeichnen-sich-ab/
+  > Obwohl der Entwurf für das EEG 2027 drastische Einschnitte bei der Solarförderung enthält, blieb der Zubau bislang in diesem Jahr auf einem verhaltenen Niveau. Nun melden Installateure und Händler, dass der Markt anzieht
+- **All-electric community in Michigan site of DTE-managed VPP pilot launches** — pv-magazine-usa.com | 2026-11-03 12:06 UTC
+  https://pv-magazine-usa.com/2026/11/03/all-electric-community-in-michigan-site-of-dte-managed-vpp-pilot-launches/
+  > Veridian at Country Farm incorporates rooftop PV, sonnen batteries and geothermal heat pumps.
+- **Germany awards 288MW rooftop solar in oversubscribed auction** — pv-tech.org | 2026-11-03 12:02 UTC
+  https://www.pv-tech.org/germany-awards-288mw-rooftop-solar-in-oversubscribed-auction/
+  > The German Federal Network Agency, Bundesnetzagentur, has awarded 288MW of rooftop solar in the third auction of 2026.
+- **Vastly different fortunes for BESS in Belgium and Germany’s capacity market auctions** — energy-storage.news | 2026-11-03 12:01 UTC
+  https://www.energy-storage.news/vastly-different-fortunes-for-bess-in-belgium-and-germanys-capacity-market-auctions/
+  > Battery storage projects have won nearly 40% of the capacity in Belgium’s latest capacity market (CM) auction results, while Germany’s first has all gone to gas, paying nearly eight times more than Belgium in the process
+- **Samsung SDI books 60 GWh of U.S. storage orders and begins Indiana LFP ESS production** — pv-magazine-usa.com | 2026-11-03 12:01 UTC
+  https://pv-magazine-usa.com/2026/11/03/samsung-sdi-books-60-gwh-of-u-s-storage-orders-and-begins-indiana-lfp-ess-production/
+  > Samsung SDI's SBB 1.7 BESS uses cells with a high nickel NCA chemistry.
+- **BESS for EV charging: why sites need it, how it works and when to install** — energy-storage.news | 2026-11-03 11:58 UTC
+  https://www.energy-storage.news/bess-for-ev-charging-guide/
+  > Grid connections are now the biggest brake on rapid EV charging. Here's how battery storage lets charging sites deliver more power from a smaller connection, and when it pays to add it.
+- **Germany awards 288 MW of solar in rooftop tender at average price of €0.0967/kWh** — pv-magazine.com | 2026-11-03 11:57 UTC
+  https://www.pv-magazine.com/2026/11/03/germany-awards-288-mw-of-solar-in-rooftop-tender-at-average-price-of-e0-0967-kwh/
+  > Germany’s latest rooftop solar tender received 177 bids totaling 347 MW, with 108 bids representing 208 MW ultimately awarded contracts.  
+ The post  Germany awards 288 MW of solar in rooftop tender at average price of €
+- **Marktübersicht elektrische Heizstäbe** — pv-magazine.de | 2026-11-03 11:57 UTC
+  https://www.pv-magazine.de/2026/11/03/marktuebersicht-elektrische-heizstaebe/
+  > Elektrische Heizstäbe können helfen, Photovoltaik-Strom im Gebäude besser zu nutzen. Entscheidend ist, ob Heizstab, Leistungssteller, Speicher und Energiemanagement zusammenpassen. Bei der Auswahl hilft die pv magazine M
+- **Italy authorizes nearly 7 GW of battery storage** — ess-news.com | 2026-11-03 11:30 UTC
+  https://www.ess-news.com/2026/11/03/italy-authorizes-nearly-7-gw-of-battery-storage/
+  > The Italian government authorized 3.7 GW of battery energy storage system (BESS) projects in October, following 3.2 GW in September, with the southern region of Puglia accounting for 60.6% of the latest monthly total. 
+ 
+- **Ausschreibung für Photovoltaik-Dachanlagen mit mehr Geboten bei gleichbleibendem Kostenniveau** — pv-magazine.de | 2026-11-03 11:15 UTC
+  https://www.pv-magazine.de/2026/11/03/ausschreibung-fuer-photovoltaik-dachanlagen-mit-mehr-geboten-bei-gleichbleibendem-kostenniveau/
+  > Die Menge der Gebote war in der aktuellen Runde höher als zuletzt, wegen vieler Ausschlüsse blieb die Ausschreibung dennoch leicht unterzeichnet. Der Durchschnitt der Zuschläge lag erneut nur knapp unter dem zulässigen H
+- **Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Reuters** — news.google.com | 2026-11-03 10:50 UTC
+  https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVp0N2w0REZqOUJ3YkRxcmliYkhtX25yTkFtdmJDUFdSVm5CcXRQYjdMeFFLU0gxcHk1STM2R0xXaGJ6TW9ZN2ZQS2RReVRiXzNtY1B3Qm5fZ1lfTUFaMVpRM2d2ZVZodnZtbUFFLUtkcURfUEtENElyNG5YcFRGcncteEFaZFUwOGxVUmpTMWFkMEtvb09VTG50a2NSbjhLUm5Zc3EtZS1XUU5lWm9B?oc=5
+  > Nasdaq ends higher as AI heavyweights rebound ahead of midterm results    Reuters
+- **CATL opens Argentina office, supplies 1,025 MWh of batteries** — ess-news.com | 2026-11-03 10:45 UTC
+  https://www.ess-news.com/2026/11/03/catl-opens-argentina-office-supplies-1025-mwh-of-batteries/
+  > Contemporary Amperex Technology Co. Ltd. (CATL) has established a commercial and technical office in Argentina as it supplies 205 MW/1,025 MWh of storage systems to Central Puerto and seeks further contracts linked to th
+- **La fotovoltaica reduce en 17.021 millones de euros el coste de la electricidad en España en 18 meses** — pv-magazine.es | 2026-11-03 10:32 UTC
+  https://www.pv-magazine.es/2026/11/03/la-fotovoltaica-reduce-en-17-021-millones-de-euros-el-coste-de-la-electricidad-en-espana-en-18-meses/
+  > Un estudio de UNEF estima que, sin la aportación solar, el precio medio del mercado diario habría alcanzado 112 €/MWh frente a los 60,2 €/MWh registrados, mientras que el autoconsumo habría generado 2.791 millones de eur
+- **Investors poised for possible Democratic gains in Congress as US awaits election results - Reuters** — news.google.com | 2026-11-03 10:07 UTC
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxPXzBTeXRWM3ktaW9LQUFHVVg5V2JZMWZ3OG5LaWUtNGpVMmN2bnQ4RTJmaWVVaGctdnJZTkFZeWdjbG9JUUE4NFdFalFyQ2tZRFotZERxRkJQcHVtS1lwUGhVc0xJZnVqYnF4ZllqcDJFUkJxcEd2QTF0RGFERW1oSkFENEV0V3VQMEFabVkwOHcwTV9lVWNRZ3JmbDVDOUQ5aGYwWTJUb0o5RGpK?oc=5
+  > Investors poised for possible Democratic gains in Congress as US awaits election results    Reuters
+- **South Korea to ease storage container rules in battery deregulation push** — ess-news.com | 2026-11-03 09:15 UTC
+  https://www.ess-news.com/2026/11/03/south-korea-plans-to-ease-ess-container-rules-in-battery-deregulation-push/
+  > South Korea plans to drop a requirement for closed-circuit television (CCTV) cameras inside battery containers that have no internal walkway, one of 18 measures covering energy storage installation, battery recycling and
+- **Fraunhofer ISE-Spinoff nutzt gebrauchte E-Scooter-Akkus für Gewerbe-Batteriespeicher** — pv-magazine.de | 2026-11-03 08:08 UTC
+  https://www.pv-magazine.de/2026/11/03/fraunhofer-ise-spinoff-nutzt-gebrauchte-e-scooter-akkus-fuer-gewerbe-batteriespeicher/
+  > Mit einer am ISE entwickelten Leistungselektronik können Batterien mit ganz unterschiedlichen Eigenschaften zu einem System verschaltet werden. So lassen sich auch die vielfältigen – und offenbar meist viel zu früh entso
+- **Bilbao licita la instalación de tres sistemas de almacenamiento BESS en los mercados del Ensanche y Otxarkoaga** — pv-magazine.es | 2026-11-03 07:52 UTC
+  https://www.pv-magazine.es/2026/11/03/bilbao-licita-la-instalacion-de-tres-sistemas-de-almacenamiento-bess-en-los-mercados-del-ensanche-y-otxarkoaga/
+  > Bilbao Zerbitzuak ha publicado la licitación para la instalación de tres sistemas de almacenamiento energético mediante baterías en los mercados del Ensanche y Otxarkoaga, en Bilbao. El contrato cuenta con un presupuesto
+- **Australian firm secures $6.77 million for solid-state battery line** — ess-news.com | 2026-11-03 07:45 UTC
+  https://www.ess-news.com/2026/11/03/australian-firm-secures-6-77-million-for-solid-state-battery-line/
+  > Clutch Industries has secured government funding to establish a pilot production line for its 4 kWh PowerNet battery system, designed for residential, mobile and off-grid applications, with commercial launch expected in 
+- **Philips reaches DOJ agreement over device recall, books €288 million provision in Q3 - Reuters** — news.google.com | 2026-11-03 06:11 UTC
+  https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUlJTT0lDbjVDSFc5WWZ0UzdnZzVvbWU5NVo1QjktWmJYa1dhRDZEUTFLUWtMYlVLeDk0MkxlTnJyY1NYWGkxYUJyWGlZWHZKQzM5NGlwU05kYmZNNDUybk9tbUlJZzZNbU9WakRLSXB2ZFkzYkFZWWJ5c1R1MFdSd2VHSWt2OF9aQURNcElxSnktYUs2eWRGVXJfWE5YcUhOTWJOZC1tTjNRVjRJT1JiU3lTM1pvb1hRMkcxOEw0VWQxWnB5YW9tSS1ROEZ0SUxtZ0R5Q0NCYnF6TmwyWkFJUU9R?oc=5
+  > Philips reaches DOJ agreement over device recall, books €288 million provision in Q3    Reuters
 - **‘A lot of interest in sodium-ion’ from Australian mining and data centres, CATL’s ANZ general manager says** — energy-storage.news | 2026-11-03 02:18 UTC
   https://www.energy-storage.news/a-lot-of-interest-in-sodium-ion-from-australian-mining-and-data-centres-catls-anz-general-manager-says/
   > ESN Premium speaks with Zane Zhou of CATL Australia and New Zealand, about TENER+, sodium-ion demand, the Collie BESS and more.
 - **Real cost of charging an EV from surplus solar** — pv-magazine-australia.com | 2026-11-03 01:02 UTC
   https://www.pv-magazine-australia.com/2026/11/03/real-cost-of-charging-an-ev-from-surplus-solar/
   > Rooftop generation can make EV charging inexpensive, but a fair comparison must count the solar-export income forgone, the grid alternative and the electricity actually available to the car.
-- **Data Centers, Affordability, and the Ballot Box: What the 2026 Midterms Mean for the Power Industry** — powermag.com | 2026-11-02 19:43 UTC
-  https://www.powermag.com/data-centers-affordability-and-the-ballot-box-what-the-2026-midterms-mean-for-the-power-industry/
-  > Public affairs strategists John Ashford and Jared Dubnow examine the political backlash against data centers, the implications for power-sector investment and regulation, and the potential for public opposition to spread
-- **Lithium-ion bankability may be holding back long-duration storage** — ess-news.com | 2026-11-02 16:55 UTC
-  https://www.ess-news.com/2026/11/02/lithium-ion-bankability-may-be-holding-back-long-duration-storage/
-  > Financing and market structures favor established lithium-ion battery energy storage systems (BESS), potentially limiting investment in alternative technologies better suited to storing electricity for eight hours or lon
-- **Welche Risiken bei der Versicherung von Großspeicherprojekten frühzeitig berücksichtigt werden sollten** — pv-magazine.de | 2026-11-02 15:46 UTC
-  https://www.pv-magazine.de/2026/11/02/welche-risiken-bei-der-versicherung-von-grossspeicherprojekten-fruehzeitig-beruecksichtigt-werden-sollten/
-  > Bei Großbatteriespeichern wird derzeit viel über Bankability gesprochen. Netzanschluss, Genehmigung, Investitionskosten, Vermarktung und Finanzierung entscheiden darüber, ob aus einer Projektidee eine umsetzbare Anlage w
-- **Aena adjudica por 3,9 millones el proyecto solar de autoconsumo de 5 MW del Aeropuerto de Sevilla** — pv-magazine.es | 2026-11-02 15:31 UTC
-  https://www.pv-magazine.es/2026/11/02/aena-adjudica-por-39-millones-el-proyecto-solar-de-autoconsumo-de-5-mw-del-aeropuerto-de-sevilla/
-  > Aena ha adjudicado la construcción de una planta solar fotovoltaica de autoconsumo en el Aeropuerto de Sevilla a Acisa, por un importe de 3,9 millones de euros. La planta fotovoltaica se ubicará en los terrenos interiore
-- **Une toiture et trois ombrières pour une centrale solaire de montagne en ACC** — pv-magazine.fr | 2026-11-02 15:00 UTC
-  https://www.pv-magazine.fr/2026/11/02/une-toiture-et-trois-ombrieres-pour-une-centrale-solaire-de-montagne-en-acc/
-  > Basée à Montpellier et à Avignon, Phénix Solar a mis en service, le 20 octobre à Val-de-Sos (Ariège), une centrale solaire de 500 kWc, destinée à alimenter une opération d’autoconsommation collective.
-- **Emilia-Romagna, 12 milioni per autoconsumo e pensiline fotovoltaiche nelle imprese** — pv-magazine.it | 2026-11-02 14:33 UTC
-  https://www.pv-magazine.it/2026/11/02/emilia-romagna-12-milioni-per-autoconsumo-e-pensiline-fotovoltaiche-nelle-imprese/
-  > In Regione sono in corso due misure: il Fondo Energia, che dopo due settimane di sportello ha ancora 9 milioni disponibili, e un bando da 3 milioni per il fotovoltaico sui parcheggi delle PMI. Le scadenze sono il 16 e il
-- **EXCLUSIVE: India moves to resolve Scotch tariff dispute under UK trade pact, sources say - Reuters** — news.google.com | 2026-11-02 14:25 UTC
-  https://news.google.com/rss/articles/CBMiuwFBVV95cUxPejNZeU16MndWU3VSckp3bDJ4YXgzQ0Rnb1Ftb2daeWRlVHZsQkxjY2U4ODVvRUJrM1VtMXl6UnQ5STlfcFVtYzF1YnpCaUZfWExkLUhkaEU4SFE4T2tQRHZoN3J0QVBUbUtCSThZcF8yYVJCbndSeFFVTjZCa0Y3RE5iUS1hUUM4d1dIQjRvVlZMNFViTWd4cllEVmdHWTJfQ0x5Tjk5SzlDeUtmMXRfM0hsSm9TX294dTJv?oc=5
-  > EXCLUSIVE: India moves to resolve Scotch tariff dispute under UK trade pact, sources say    Reuters
-- **Envision claims world first with 800 V DC architecture for AI data center** — pv-magazine.com | 2026-11-02 14:13 UTC
-  https://www.pv-magazine.com/2026/11/02/envision-claims-world-first-with-800-v-dc-architecture-for-ai-data-center/
-  > Integrated system combining solid-state transformer and battery storage deployed at AI data center in China. The 800 V DC architecture allows for more computing power within the same physical footprint.  
- The post  Envi
-- **Luz verde ambiental a la modificación urbanística que permitirá instalar la gigafactoría de Gotion en Valladolid** — pv-magazine.es | 2026-11-02 14:00 UTC
-  https://www.pv-magazine.es/2026/11/02/luz-verde-ambiental-a-la-modificacion-urbanistica-que-permitira-instalar-la-gigafactoria-de-gotion-en-valladolid/
-  > La gigafactoría de baterías de Gotion en Valladolid avanza con el visto bueno ambiental al cambio urbanístico de los terrenos.
-- **Jigar Shah on the shift to battery-first energy and virtual power plants** — pv-magazine-usa.com | 2026-11-02 13:58 UTC
-  https://pv-magazine-usa.com/2026/11/02/jigar-shah-on-the-shift-to-battery-first-energy-and-virtual-power-plants/
-  > During a conversation at pv magazine USA Week 2026, Jigar Shah discussed how virtual power plants, grid capacity limits, and new business models are changing how homes and businesses use batteries.
-- **Armenia introduces interest rate subsidies for storage systems** — pv-magazine.com | 2026-11-02 13:44 UTC
-  https://www.pv-magazine.com/2026/11/02/armenia-introduces-interest-rate-subsidies-for-storage-systems/
-  > New government provisions offer businesses interest rate subsidies of 6 to 10 percentage points on loans and leases for battery storage equipment. 
- The post  Armenia introduces interest rate subsidies for storage system
-- **The impact of dust and shading on pole-mounted PV** — pv-magazine.com | 2026-11-02 13:30 UTC
-  https://www.pv-magazine.com/2026/11/02/the-impact-of-dust-and-shading-on-pole-mounted-pv/
-  > A year-long comparison of five PV configurations highlights how maintenance access, shading, and structural limits influence off-grid system selection. The researchers combined field measurements with analytical models t
-- **Envision demonstrates integrated 800V DC power system at AI data centre** — bestmag.co.uk | 2026-11-02 13:00 UTC
-  https://www.bestmag.co.uk/envision-800v-dc-power-data-centre/
-  > Envision has completed the first commercial deployment of an integrated 800V direct-current power system using solid-state transformers and battery storage at a large-scale AI data centre. The system is powering live com
-- **From balconies to congress: How plug-in solar is leading a regulatory and utility shift** — pv-magazine-usa.com | 2026-11-02 12:17 UTC
-  https://pv-magazine-usa.com/2026/11/02/from-balconies-to-congress-how-plug-in-solar-is-leading-a-regulatory-and-utility-shift/
-  > A panel of solar industry leaders at pv magazine USA Week 2026 explored how new state laws, safety standards, and business models are moving plug-in solar into the American mainstream.
-- **Exide Technologies adds mobile remote monitoring for C&I and utility BESS fleet** — ess-news.com | 2026-11-02 12:15 UTC
-  https://www.ess-news.com/2026/11/02/exide-technologies-adds-mobile-remote-monitoring-for-ci-and-utility-bess-fleet/
-  > The France-headquartered battery manufacturer has released a mobile application to give asset operators mobile oversight of its Solition battery storage hardware. 
- The post  Exide Technologies adds mobile remote monitor
-- **Sigenergy bringt platzsparenden Gewerbespeicher auf den Markt** — pv-magazine.de | 2026-11-02 12:02 UTC
-  https://www.pv-magazine.de/2026/11/02/sigenergy-bringt-platzsparenden-gewerbespeicher-auf-den-markt/
-  > Der neu gestalteten „SigenCube“ verfügt dem Unternehmen zufolge über eine Energiedichte von mehr als 220 Kilowattstunden pro Quadratmeter. Zudem ist er geräuscharm konzipiert und so ausgelegt, dass er 150 Prozent Überlas
-- **Generatore a idrogeno rimorchiabile da 80 kW per portare energia pulita off-grid** — pv-magazine.it | 2026-11-02 11:30 UTC
-  https://www.pv-magazine.it/2026/11/02/towable-80-kw-hydrogen-generator-brings-clean-power-off-grid/
-  > Un sistema a celle a combustibile leggero e a zero emissioni, progettato per un dispiegamento in sito in 20 minuti.
-- **CPP launches wind certification programme for utility-scale solar PV** — pv-tech.org | 2026-11-02 10:46 UTC
-  https://www.pv-tech.org/cpp-launches-wind-certification-programme-for-utility-scale-solar-pv/
-  > Solar consultancy firm CPP Wind Engineering has launched the first wind certification programme for utility-scale solar PV projects.
-- **Spotmyenergy bietet Bonustarif mit Festpreis für Wärmepumpen, Wallboxen und Batteriespeicher** — pv-magazine.de | 2026-11-02 10:27 UTC
-  https://www.pv-magazine.de/2026/11/02/spotmyenergy-bietet-bonustarif-mit-festpreis-fuer-waermepumpen-wallboxen-und-batteriespeicher/
-  > Nach Angaben des Unternehmens ist der vor allem für Besitzer von Wärmepumpen, Elektroautos und Batteriespeichern gedachte Bonustarif der erste seiner Art. Kunden sollen von günstigen Stromhandelspreisen profitieren, zahl
-- **Spanish BESS projects reach financial close with 220 MWh** — ess-news.com | 2026-11-02 09:15 UTC
-  https://www.ess-news.com/2026/11/02/spanish-bess-projects-reach-financial-close-with-220-mwh/
-  > Three standalone battery storage projects in Spain’s Basque Country have secured €50 million ($55.9 million) in financing, enabling construction of a combined 55 MW/220 MWh portfolio developed by Return Energy in Güeñes,
-- **Tax insurance after OBBB: Policies cost more, but the market is turning back towards buyers** — pv-tech.org | 2026-11-02 08:57 UTC
-  https://www.pv-tech.org/tax-insurance-after-obbb-policies-cost-more-but-the-market-is-turning-back-towards-buyers/
-  > Bryen Alperin, partner at Foss & Company, explains the real risks for tax credit buyers, and why most can be handled in diligence.
-- **Retractable photovoltaics for wastewater treatment** — pv-magazine.com | 2026-11-02 08:28 UTC
-  https://www.pv-magazine.com/2026/11/02/retractable-photovoltaics-for-wastewater-treatment/
-  > Germany’s largest retractable solar roof, with a capacity of 2.745 MW, is under construction at a wastewater treatment plant in Stuttgart. Scheduled for completion in 2027, the system will generate more than 2.2 GWh annu
-- **Photovoltaik-Faltdach für Klärwerk** — pv-magazine.de | 2026-11-02 08:11 UTC
-  https://www.pv-magazine.de/2026/11/02/photovoltaik-faltdach-fuer-klaerwerk/
-  > In Stuttgart-Mühlhausen entsteht den Stadtwerken zufolge derzeit Deutschlands größtes Solarfaltdach. Fast 2,75 Megawatt Gesamtleistung soll es nach der Fertigstellung haben und rund 9 Prozent des Strombedarfs des Hauptkl
-- **Pacific inks offtake agreement for battery retrofit project** — pv-magazine-australia.com | 2026-11-02 04:13 UTC
-  https://www.pv-magazine-australia.com/2026/11/02/pacific-inks-offtake-agreement-for-battery-retrofit-project/
-  > Pacific Partnerships is pushing ahead with plans to build a 102 MW, four-hour battery alongside its 102 MW Glenrowan Solar Farm in Victoria’s northeast after finalising a 10-year offtake agreement for the project.
-- **MPower lands $250 million funding injection to fuel mid-scale solar and storage strategy** — pv-magazine-australia.com | 2026-11-02 03:34 UTC
-  https://www.pv-magazine-australia.com/2026/11/02/mpower-lands-250-million-funding-injection-to-fuel-mid-scale-solar-and-storage-strategy/
-  > Australian renewable energy developer MPower will accelerate the rollout of its pipeline of mid-scale solar and battery storage projects after securing a $250 million commitment from industry superannuation giant Rest Su
-- **AGL refers 2GWh BESS in Queensland to Australia’s EPBC Act as ACEnergy submits 250MW Victoria project** — energy-storage.news | 2026-11-02 02:22 UTC
-  https://www.energy-storage.news/agl-refers-2gwh-bess-in-queensland-to-australias-epbc-act-as-acenergy-submits-250mw-victoria-project/
-  > Two Australian battery storage projects in Queensland and Victoria have entered federal environmental review, with AGL Energy and developer ACEnergy each submitting referrals under the same national process.
-- **‘Advancing grid-forming energy storage’: Sungrow wins Hazelwood BESS 2 PCS and BESS order in Australia** — energy-storage.news | 2026-11-02 02:13 UTC
-  https://www.energy-storage.news/advancing-grid-forming-energy-storage-sungrow-wins-hazelwood-bess-2-pcs-and-bess-order-in-australia/
-  > Sungrow will supply both the BESS and the grid-forming power conversion equipment for ENGIE's Hazelwood BESS expansion in Victoria, Australia.
-- **Clutch lands ARENA backing to drive battery manufacturing project** — pv-magazine-australia.com | 2026-11-02 02:12 UTC
-  https://www.pv-magazine-australia.com/2026/11/02/clutch-lands-arena-backing-to-drive-battery-manufacturing-project/
-  > An Australian-developed modular solid-state battery system designed for use at home, on the road and off-grid is moving towards scalable local manufacturing.
 
-## 德语生态（9 条）
+## 德语生态（6 条）
 
-- **PV-Gründächer: PMT EVO GREEN x ECOgreen® - photovoltaik.eu** — news.google.com | 2026-11-02 20:12 UTC
-  https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2pkb2lpZVN1bnB2OVBhNHRleFZCWk5SOFU4dG1kenlQbU9sYTBXNFZSTHAzamppZ01ZclF1YlFzcDEwTnM2X0tjMEdwVzAwblJESlFRaWU0a0R4OFhrQjA1bnhzQi0xcHVxRVlSbXpiTGd4TUd5VVl0Q2RyYzNDWHR6SQ?oc=5
-  > PV-Gründächer: PMT EVO GREEN x ECOgreen®    photovoltaik.eu
-- **184 kWp Photovoltaik für den OBI-Markt in Imst: Hoher Eigenverbrauch trifft schnelle Installation - photovoltaik.eu** — news.google.com | 2026-11-02 20:12 UTC
-  https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHd6ZXpSdjNNRUF5QkcxRVZWaDNNU2pQWEpOZURkaTlHRnFDRDhVakYwQzBBZWQ5eThMYU1uS092bmU5S01jU0dvVWRYYUFXUkVXc0tiaDViUmR4ZGFraEZFTmRCNzJBemtWSkRWMXY2bFRIekhza2R3TG9qVmJ0b3JERHpTdlppZVg2b1FFc0hNZThJV1hoWUJFalI4d0JYVXU0QU9Sc2RPVFB2UWUyV3NGV0FMS04t?oc=5
-  > 184 kWp Photovoltaik für den OBI-Markt in Imst: Hoher Eigenverbrauch trifft schnelle Installation    photovoltaik.eu
-- **Balkonkraftwerk als Exportschlager: Die Welt übernimmt deutsche Regeln** — heise.de | 2026-11-02 17:00 UTC
-  https://www.heise.de/news/Balkonkraftwerk-als-Exportschlager-Die-Welt-uebernimmt-deutsche-Regeln-11508094.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
-  > Steckerfertige Solaranlagen werden weltweit legal: Nach zehn US-Staaten und Großbritannien plant Westaustralien den Schritt, nach deutscher Norm.
-- **Sigenergy: Neuer Kompaktspeicher SigenCube für Großprojekte** — solarserver.de | 2026-11-02 13:00 UTC
-  https://www.solarserver.de/2026/11/02/sigenergy-neuer-kompaktspeicher-sigencube-fuer-grossprojekte/
-  > Batteriespeicherproduzent Sigenergy stößt in den Markt für Großprojekte vor. Das Unternehmen will im deutschsprachigen Raum mit dem Kompaktspeicher SigenCube bei Industrieunternehmen punkten.   Foto: Sigenergy
-- **Alphatracker verstärkt mit eigener Niederlassung Agri-PV-Geschäft in Deutschland - Photovoltaik.eu** — news.google.com | 2026-11-02 12:00 UTC
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxPT3AxaHo0QnI1Z3pITVRfMmdlWTZVWVFIeHh3NWVBOEFyQlJnQzkzWWFMa1FtMVdDbGFPWUhYLXNpUzl4T3p0TU0yc216N3c4OWlZcGxIXzhOU0t5WkdsNVlKOVBXbVRsYzhRa3NWU0tRbjBhUFJqZEJHUFBFZWJsa0NSUWhzT2xRTlFlUEI2SXdweGl3eDdZUm5uM2Z2d19sWnh3Q1JkYlp4U0tNNHVWcnNaMnhGQQ?oc=5
-  > Alphatracker verstärkt mit eigener Niederlassung Agri-PV-Geschäft in Deutschland    Photovoltaik.eu
-- **Kostal Plenticore G3 mit M-Tec Energy Tower kompatibel** — solarserver.de | 2026-11-02 11:50 UTC
-  https://www.solarserver.de/2026/11/02/kostal-plenticore-g3-mit-m-tec-energy-tower-kompatibel/
-  > Die Wechselrichter vom Typ Plenticore G3 von Kostal lassen sich nun auch mit Batteriespeichern der Serie Energy Tower von M-Tec kombinieren. Kostal erweitert damit seine Kompatibilitätsliste.   Foto: Kostal
-- **Consolar liefert mehr als 3.000 PVT-Kollektoren nach Luxemburg - Photovoltaik.eu** — news.google.com | 2026-11-02 10:00 UTC
-  https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXZZYmtuSGJkbnlFR09DYlVRX0RzZDE2MWFUZWk2WjZZSmNkSldNcVg2UlZibkVLMXBlRnVJMFdBMFpxdlV2LWhtNjEwT2d0VmJadnhoSHpiQ01BU1N0dnluZFFrbG5IRnBHTkZfejZsY2JtTmZlZjN0ejJRazg4RkUzV0xNZ1JuNHlBNXVOa3RCYnpjVTRuZjdwaFA?oc=5
-  > Consolar liefert mehr als 3.000 PVT-Kollektoren nach Luxemburg    Photovoltaik.eu
-- **Wie Kommunen mehr Wärme aus Solarthermie erzeugen können** — solarserver.de | 2026-11-02 09:48 UTC
-  https://www.solarserver.de/2026/11/02/wie-kommunen-mehr-waerme-aus-solarthermie-erzeugen-koennen/
-  > Deutschlands Kommunen verfügen über enorme Potenziale zur klimafreundlichen Wärmeerzeugung aus Sonnenenergie. Genutzt werden davon laut einer aktuellen Studie bislang nur Bruchteile.   Foto: GREENoneTEC Solarindustrie Gm
-- **Kostal: Steuerung unterstützt mehr Wechselrichter - Photovoltaik.eu** — news.google.com | 2026-11-02 08:00 UTC
-  https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDF6WGZJV3QxYU9lMkhCSTY4NXhXM3ZqRFhESlZwcFgtY2FtaDlpTF9JejRwR0RROGVkYmdILWFZRWRFTE9IZERuZmtjNU9QTE5rVlNWM2xhR2JoeWNLYW1LR1Z1X3FCcTFZV19GV2t6cmZXb0p5WHZ5Z0g1S1hSTFBMWGZuU25ueWFWRXc5R0tPNk90Si1J?oc=5
-  > Kostal: Steuerung unterstützt mehr Wechselrichter    Photovoltaik.eu
+- **Mysteriöses Zucken im Stromnetz: Forscher lösen Rätsel um USV-Selbsttests** — heise.de | 2026-11-03 16:54 UTC
+  https://www.heise.de/news/Mysterioeses-Zucken-im-Stromnetz-Forscher-loesen-Raetsel-um-USV-Selbsttests-11510323.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+  > Jede Minute zucken Stromnetze weltweit kurz. Forscher finden heraus: Gleichzeitige Selbsttests von USVs und Batteriespeichern sind dafür verantwortlich.
+- **Denker+Wulf: Tri-Location mit PV, Wind und Batteriespeicher** — solarserver.de | 2026-11-03 14:00 UTC
+  https://www.solarserver.de/2026/11/03/denkerwulf-tri-location-mit-pv-wind-und-batteriespeicher/
+  > Die Denker & Wulf will mit einem neuen Solarpark in Schleswig-Holstein einen Netzeinspeisepunkt überbauen, der bereits von Windparks genutzt wird. Künftig soll ein Speicher noch dazkommen.    Foto: Malp / stock.adobe.com
+- **Greenovative erwartet stabile Gewinne mit Solarparks** — solarserver.de | 2026-11-03 13:00 UTC
+  https://www.solarserver.de/2026/11/03/greenovative-erwartet-stabile-gewinne-mit-solarparks/
+  > Trotz schwierigeren Rahmenbedingungen rechnet der Nürnberger PV-Projektierer Greenovative mit stabilen Gewinnen aus der Entwicklung von Solarparks und Batteriespeichern. Das Unternehmen sieht außerdem Konkurrenten auf de
+- **Dach-Photovoltaik erhält bei Ausschreibung Oktober 9,67 Cent je kWh** — solarserver.de | 2026-11-03 11:00 UTC
+  https://www.solarserver.de/2026/11/03/dach-photovoltaik-erhaelt-bei-ausschreibung-oktober-967-cent-je-kwh/
+  > Während bei der Ausschreibung für Solaranlagen auf Gebäuden und Lärmschutzwänden zum 1. Oktober 2026 die Nachfrage zugenommen hat, war die Biomasse-Ausschreibung erneut deutlich unterzeichnet.     Foto: Mediaparts / stoc
+- **Dienstag: SUSE baut massiv Stellen ab, US-Zeitungen verklagen Brave Software** — heise.de | 2026-11-03 05:15 UTC
+  https://www.heise.de/news/Dienstag-SUSE-baut-massiv-Stellen-ab-US-Zeitungen-verklagen-Brave-Software-11508734.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+  > Jobabbau wegen Automatisierung + Klage der New York Times + Kanzler Merz auf dem Digitalgipfel + Kühlschränke angegriffen – Balkonkraftwerke als Exportschlager
+- **Suchtgefahr: Snapchat bremst nächsten US-Prozess durch Vergleich aus** — heise.de | 2026-11-03 05:00 UTC
+  https://www.heise.de/news/Suchtgefahr-Snapchat-bremst-naechsten-US-Prozess-durch-Vergleich-aus-11508741.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag
+  > Tausende US-Familien haben Betreiber Sozialer Netze verklagt, weil deren Produktdesign Kinder süchtig gemacht habe. Snapchat vermeidet Urteile.
 
-## 澳新（1 条）
+## 英国（3 条）
 
-- **WA’s Plug-In Solar Plan Sparks Hope For Renters** — solarquotes.com.au | 2026-11-02 18:47 UTC
-  https://www.solarquotes.com.au/blog/wa-plug-in-solar/
-  > Western Australia is moving to become the first state in Australia to legalise plug-in solar panels and batteries, potentially giving renters and apartment residents a way to generate their own electricity without instal
+- **Octopus in MoU with Ampace for smart home battery systems - Solar Power Portal** — news.google.com | 2026-11-03 12:09 UTC
+  https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHItQUQ0Nzk0Z3ZlaXFfUDdQeFFQRjMxMEtLb1h3ck5ldDBRM3pWZWtFbnlPZUtORmxIRWhjSjZYaXVKeFdMS0JqNUZUWHdQblVkQlpEM1hDb0ZRTEl1N1B5VmRtMDVPSmx3aE5DVFdWRk00VFlKbGJSTWh5VGFsSWJROXItaFJmSU5Jc3lVT0U0dzdlUEdOajlMRjNvRUl5MDR3TmROSFpNeVVlOXRyQkJ2NjRNQkN4UkE?oc=5
+  > Octopus in MoU with Ampace for smart home battery systems    Solar Power Portal
+- **Tongwei launches TNC 2.0 FULLX G12R-48: more powerful, adaptable rooftop solar - Solar Power Portal** — news.google.com | 2026-11-03 10:22 UTC
+  https://news.google.com/rss/articles/CBMizAFBVV95cUxQeE5XNWlESVpwd2puS3NxMDZZRDAtNm9fWFRBNVl5WmNDZmhMdk9Zazc3Sm0xNk11MkVER0ZnejNUWWNQNjdYaEtXSlh5eWMxQmJpdWd6bGYwTk5fMUplclI2REthME44TG9ucWxYMF9PSjRNdWNJc0ZwN2x2SHhHbWhXVGZ0RWE0QkVodU9XYnpnaWRraFQ0OGFJTUtKdjh0RHBqYW9mX3RyMkZaRnBndVpobGczNEhjbkF2NHdBUXV0UXVvR1BxeEM1NEg?oc=5
+  > Tongwei launches TNC 2.0 FULLX G12R-48: more powerful, adaptable rooftop solar    Solar Power Portal
+- **Sodium-ion batteries are taking on lithium in Europe - Energy Live News** — news.google.com | 2026-11-03 09:02 UTC
+  https://news.google.com/rss/articles/CBMimwFBVV95cUxQb1VXNXk5WmJmSzBoX0dPcGEwbG8wU0RMbFl5VWktRXQzNHJiYi1xd0xOeGI2anRVY3d4a1FVZUFFcDNaZVdmd0trOEQ4ZUVZT3BudnhYV3NXUkRxRktiLW9ybGpMM3V1QUQ3YmdFTk1Cd0NjbUc2UHRGZzVtVDRNbEtuZ3NUQkFaMllQVnZDNk5yOXloVUdhejJjSQ?oc=5
+  > Sodium-ion batteries are taking on lithium in Europe    Energy Live News
 
-## 法国/南欧/荷波（1 条）
+## 美国（1 条）
 
-- **La Palma recupera la electricidad tras un apagón de casi cuatro horas** — elperiodicodelaenergia.com | 2026-11-02 12:19 UTC
-  https://elperiodicodelaenergia.com/la-palma-recupera-la-electricidad-tras-un-apagon-de-casi-cuatro-horas/
-  > El consejero de Transición Ecológica y Energía del Gobierno de Canarias, Mariano Hernández Zapata, ha advertido de que la infraestructura eléctrica de la isla arrastra importantes problemas en generación y redes eléctric
+- **Here’s how solar and wind developers can hold on to tax credits** — canarymedia.com | 2026-11-03 13:35 UTC
+  https://www.canarymedia.com/articles/sponsored/heres-how-solar-and-wind-developers-can-hold-onto-tax-credits
+  > When Congress passed the Inflation Reduction Act (IRA) in August 2022, solar and wind developers celebrated something that had historically been elusive: long-term certainty about federal tax incentives. Companies accust
+
+## 法国/南欧/荷波（2 条）
+
+- **Aramco se felicita por los "excelentes" resultados pese a las "interrupciones sin precedentes"** — elperiodicodelaenergia.com | 2026-11-03 11:09 UTC
+  https://elperiodicodelaenergia.com/aramco-se-felicita-por-los-excelentes-resultados-pese-a-las-interrupciones-sin-precedentes/
+  > El presidente de la petrolera saudí Aramco, Amin Nasser, se felicitó por los "excelentes" resultados del gigante saudí en el tercer trimestre de 2026.
+- **Octopus Energy toglie la tariffa multioraria: “Le fasce non seguono più il sistema elettrico”** — solareb2b.it | 2026-11-03 10:49 UTC
+  https://www.solareb2b.it/octopus-energy-toglie-la-tariffa-multioraria/
+  > Octopus Energy non proporrà più tariffe basate sulle fasce orarie tradizionali F1, F2 e F3, rimuovendo l’offerta Flex Multioraria. Questa scelta riflette un cambiamento del mercato, in cui le fasce… 
+ L'articolo  Octopus
 
 ## 荷比卢/北欧/东欧（2 条）
 
-- **Tesla activeert warmtepompoptimalisatie op Powerwall 3 in heel Europa - Headliner.nl** — news.google.com | 2026-11-02 20:40 UTC
-  https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSUJzNFNyZWswZFBZeDNsVjZlVHpEMVoxaFViQUVTUURRR1FieWN5MGVadUQyWTZFMXFnNmNIbl8tdUp0OGJxYWFKYm5uWmRTYXg0YWh1bjByLURjaDI0eDk2RjIzSmlmWkUtZllKVnd6bHAyb1NKTXZrdDRuRndHRld3QUZ2eVNUc0k2cXdJOXdrcnNfcWFhSk56T1pBV05fSklXM01KNGc?oc=5
-  > Tesla activeert warmtepompoptimalisatie op Powerwall 3 in heel Europa    Headliner.nl
-- **Aandelen Sungrow stijgen door vooruitzichten batterijopslag ondanks scherpe winstdaling - Headliner.nl** — news.google.com | 2026-11-02 04:18 UTC
-  https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelN5REVyMXhtVWlEaHlHV29QTzNydjZSbVROVlRCeTVzMTl0amhaaVJDcEsxTlZzcjBpSlRnbkVSYkpQQUx6R0lTTDR3akQ1MFkzT0ppRTIzQVJ6YjUtRDhZdFhqbG5pOTA5QkJYcjJhM0UtU29CMTFqT3BWNnNoenlheGpJVW5JbXIxR0NGQzFsZEl6SElxcEx1a0FsanZ4TzY1d0Q3cWVMTkxoU3RJc1ZJZmJGeUJkWDJNRU5WYzE0Zw?oc=5
-  > Aandelen Sungrow stijgen door vooruitzichten batterijopslag ondanks scherpe winstdaling    Headliner.nl
+- **Klein beginnen met energieopslag: deze compacte thuisbatterij maakt het verschil - - Duurzaam Actueel** — news.google.com | 2026-11-03 12:39 UTC
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxQU192aFZ3eGd3MkxZQ0xRS2ZjSTAwdHNpUEZ4VEgyOVNDNlliTzRCeGY2Nm9nOHktb1BXQXE2eEFEdlpfbEhCRGdlMjVSY2tTSGpPMGNNUGtWZEpTRkFoRWdSelFad21sVUxGSW9nLWtsQVlYM0xLMjdLYWFITm1GZWo2eTlZT3Fvb1U3WUNsdVRpN0JlcXlKR2F3WUJPakFSemtiM0g4elRKeUdG?oc=5
+  > Klein beginnen met energieopslag: deze compacte thuisbatterij maakt het verschil -    Duurzaam Actueel
+- **Black Friday bij Zendure: tot 43% korting op thuisbatterijen - That's Gaming** — news.google.com | 2026-11-03 08:20 UTC
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxQVTBkaDUzU2JHS0oxTlVfOVlaYURuX2luRmxwZkNDVXNUc1QtWjY2eDVwT3ZNbEZZMmlxRllfSERpemV1cDdBMGpOc3pWWlYtZWlaTW5XR3o5WG9uaF9nMTVhZmktNGt6MEVUbEtkbWpHN20zN2hJSU5MemdyVXVkWWJDclpMMUpGekE?oc=5
+  > Black Friday bij Zendure: tot 43% korting op thuisbatterijen    That's Gaming
+
+## 希腊（1 条）
+
+- **Η Sigenergy κατατάχθηκε κατασκευαστής Tier 1 στην αποθήκευση από το BloombergNEF - Energypress** — news.google.com | 2026-11-03 12:43 UTC
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzhjWlRfU3Z5a2hRZkF3QkhVN1Y4Ml9HeU9jcjVsdEh2U3FGVUNlSXhKQWd6ai1lVWxhbjZjdGt5Q1NfWlFYSkdxZmthaVg4YnNjYzItVHJQUWtCejNuc3Q1ajhhaE05U0lKYmRHeVpkd1MycG41aUZsN3JGVThmR2Vfb3FMdXBvUGpjemo0ajIxQ0k3X3dITmZUVThUVDlCaHhWcFlZYU0zVUk?oc=5
+  > Η Sigenergy κατατάχθηκε κατασκευαστής Tier 1 στην αποθήκευση από το BloombergNEF    Energypress
 
 ## 亚洲/东南亚（2 条）
 
-- **AEEG Seeks Industrial Off-Taker For 49 MW Solar And BESS Project In South Africa** — solarquarter.com | 2026-11-02 11:48 UTC
-  https://solarquarter.com/2026/11/02/aeeg-seeks-industrial-off-taker-for-49-mw-solar-and-bess-project-in-south-africa/
-  > The African Earth Energy Group (AEEG) is seeking an industrial off-taker for a 49 MW solar and battery storage project in Mpumalanga, South Africa. This project aims to provide reliable, competitively priced renewable en
-- **Pakistan Shifts to Import Parity Model in Sweeping LPG Pricing Deregulation** — energyupdate.com.pk | 2026-11-02 06:47 UTC
-  https://www.energyupdate.com.pk/pakistan-shifts-to-import-parity-model-in-sweeping-lpg-pricing-deregulation/
-  > Islamabad: Government has decided to completely deregulate the Liquefied Petroleum Gas pricing regime, replacing the existing Oil and Gas Regulatory Authority notified maximum price mechanism with an import parity pricin
+- **CLA Town Center Mall Commissions Rooftop Solar Project, Secures 860 MWh Annual Clean Energy In Philippines** — solarquarter.com | 2026-11-03 10:29 UTC
+  https://solarquarter.com/2026/11/03/cla-town-center-mall-commissions-rooftop-solar-project-secures-860-mwh-annual-clean-energy-in-philippines/
+  > CLA Town Center Mall in Pagsanjan has partnered with Peak Energy to install a 0.6 MWp rooftop solar power system, generating about 860 MWh of clean electricity annually. The project, under a 10-year agreement, aims to cu
+- **Nippon Thompson Adopts 2.73 MW Rooftop Solar Project In Vietnam To Cut 1,502 Tonnes Of CO₂ Emissions Annually** — solarquarter.com | 2026-11-03 10:04 UTC
+  https://solarquarter.com/2026/11/03/nippon-thompson-adopts-2-73-mw-rooftop-solar-project-in-vietnam-to-cut-1502-tonnes-of-co%e2%82%82-emissions-annually/
+  > Nippon Thompson is enhancing its sustainability efforts by installing a 2.73 MW rooftop solar power system at its Vietnam facility. This initiative, supported by the Japan-Vietnam Joint Crediting Mechanism, aims to reduc
 
-## 官方 · 政策/召回（免过滤直击源）（10 条）
+## 官方 · 政策/召回（免过滤直击源）（14 条）
 
+- **Home Energy Saver loans - NSW Climate and Energy Action** — news.google.com | 2026-11-04 01:48 UTC
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxQVkloblpwNjVsTy1iWEJyMkpiNzhHYjU3OUZfYmtqNXBVdXo0MmpJaW5HclFlUVNCZm9BdllISnU0VFRHX1Y3NE1odWR2cWxPUEVjVnZISWIzT2x3RWJvNlZKMjVYVWlidWtqOGlLQkNfS1kyUW0yUTI1MnpadEdKVTl5TVRDQQ?oc=5
+  > Home Energy Saver loans    NSW Climate and Energy Action
+- **FCC National Broadband Map - FCC National Broadband Map (.gov)** — news.google.com | 2026-11-03 19:30 UTC
+  https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXE3akFpdjRoMEltSXJTRUQtdDNFcGlDS0xKZHd5VkJRRzZXU2Q4NlZHc1J2VFZXZkszUVZNUG1vLWRqdGI4c3FMSGoxclZqd21JMmtHM3BsX3FnMVVoakg1cUxBZG5VYTNLMGhRZms1aUZfcjRJTkdqOEdaNTZfXzY5VmI1UE8xd0E4XzhEMnNZU2ZZVS1GajZrdkJFOG1iUmZyREhVSXVGY1dLcGUxQlFyOHFtVEZIRlE?oc=5
+  > FCC National Broadband Map    FCC National Broadband Map (.gov)
+- **Intimazione ad adempiere in materia di separazione funzionale - Arera** — news.google.com | 2026-11-03 16:56 UTC
+  https://news.google.com/rss/articles/CBMibkFVX3lxTE1kS09XT1dHbWRCRnhlNERoTjBpTUd5OUVMR2Y2NF80NVdCNk9sdVQzelZnQnFUZGFOVDgxbnhJZ2xKMnNpSEtTRExTUHdfQllrSnNQT3pRbDBCWGU0b1B2bzRBVURWT1A3UFJUUWRR?oc=5
+  > Intimazione ad adempiere in materia di separazione funzionale    Arera
+- **StromVKG-Ausschreibung: Batteriespeicher werden strukturell benachteiligt** — solarwirtschaft.de | 2026-11-03 15:45 UTC
+  https://www.solarwirtschaft.de/2026/11/03/stromvkg-ausschreibung-batteriespeicher-werden-strukturell-benachteiligt/
+  > Alle Zuschläge in der ersten Strom-VKG-Ausschreibung gehen an Gaskraftwerke / Bundesverband Solarwirtschaft kritisiert strukturelle Benachteiligung von Batteriespeichern 
+The post  StromVKG-Ausschreibung: Batteriespeiche
+- **Gas: Arera comunica il valore della materia prima del Servizio di tutela della vulnerabilità per ottobre 2026 - Arera** — news.google.com | 2026-11-03 14:21 UTC
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUw4Si0xekxESHctRE5pUWtLazVXbzRNMDNqdllhdUZPRncxc0E0OUxBZzVpTHJqWGJjcEp0S2hMSmR4N2praGVrTmZUaExrOWE3U1pNVWIzczF3OG5sSlQ3LWo1V2hXX3lPd0EwY2hXWU91TEgxYTdNWWVicUVRYS1ILVptMGdfTGQwNV9JS3lXMWtod1YtaG8wUDhDX1laeXc?oc=5
+  > Gas: Arera comunica il valore della materia prima del Servizio di tutela della vulnerabilità per ottobre 2026    Arera
+- **Proposed legislative changes to support implementation of the British Industrial Competitiveness Scheme** — gov.uk | 2026-11-03 09:30 UTC
+  https://www.gov.uk/government/consultations/proposed-legislative-changes-to-support-implementation-of-the-british-industrial-competitiveness-scheme
+  > We're seeking views on legislative amendments to the CfD supplier obligation to support implementation of the British Industrial Competitiveness Scheme (BICS).
+- **Proposed implementation of Fixed Price Certificates into the UK-wide RO schemes** — gov.uk | 2026-11-03 09:30 UTC
+  https://www.gov.uk/government/consultations/proposed-implementation-of-fixed-price-certificates-into-the-uk-wide-ro-schemes
+  > We're seeking views on the proposed implementation of Fixed Price Certificates into the UK-wide Renewables Obligation (RO) schemes.
+- **Giant 12-tonne box lowered into place for fusion upgrade** — gov.uk | 2026-11-03 09:24 UTC
+  https://www.gov.uk/government/news/giant-12-tonne-box-lowered-into-place-for-fusion-upgrade
+  > 12-tonne ‘double beam box’ vessel will double MAST Upgrade’s heating power, allowing scientists to investigate plasma conditions needed for future power plants.
+- **Đưa đường dây 220kV đấu nối Trạm biến áp Bạc Liêu vào vận hành - Tập đoàn Điện lực Việt Nam (EVN)** — news.google.com | 2026-11-03 08:34 UTC
+  https://news.google.com/rss/articles/CBMisAFBVV95cUxOQVcyVkFtM3hjMVZXaFhFQnRiR0dGMUc0Smg5a052T2JHMFRXN2RHUk94T3pEbWxvVGRvTVNNYnpjMXBRUzZwaTlpWmxYOGxvcXFRSm0zc3U1Z2FjN2pZNzZJSTQtRGhJVjF5M2dTNTg5Zk1zdFlxVUFuYjhWWjBzMVB0NEZDQTg0WG1TTVVweTF0UmdvMHB4bTZqa0pqMzBwUFRORHpfZ1RCZ19id0ZQeg?oc=5
+  > Đưa đường dây 220kV đấu nối Trạm biến áp Bạc Liêu vào vận hành    Tập đoàn Điện lực Việt Nam (EVN)
+- **Bộ Công Thương phê duyệt khung giá phát điện loại hình nhà máy nhiệt điện than công suất dưới 200MW - Tập đoàn Điện lực Việt Nam (EVN)** — news.google.com | 2026-11-03 08:22 UTC
+  https://news.google.com/rss/articles/CBMi5AFBVV95cUxONVFpOVFpQXkwT21qX1NoTlRrVDQtQVdBbG5UUkVNckNkaGZ6T0wyb3NyUlBDeHJjQWY0elhrTkVXZS1mbUJUanBXTExqZmc2RXVsZ1JfQVl0REp1dzFIalhZQWpFU1lQQjZaRnNKZk9jMGxnQU9KRGZUTUdBbk10MjcySGtJQW56ZFhqWW43OWtCZUpsdTF4TExhanVGMlRiTkF3NEVSTTFFSE9uS3FIbnJWWDNKb08yNE5jcGlBRXEzMUJJeExyZkVETF9GWU1HVUFsVUpjV01qZVkzaU85NjNobHg?oc=5
+  > Bộ Công Thương phê duyệt khung giá phát điện loại hình nhà máy nhiệt điện than công suất dưới 200MW    Tập đoàn Điện lực Việt Nam (EVN)
+- **Phó Tổng giám đốc EVN Nguyễn Đình Phước tiếp và làm việc với Ngân hàng Mizuho (Nhật Bản) - Tập đoàn Điện lực Việt Nam (EVN)** — news.google.com | 2026-11-03 07:29 UTC
+  https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdUlmZVotbkVhSXIzdDlvREtNcnY4WHY2TXlTazZ0SzRiZmhHXzgybEx1YXh2a0tJNHU1QXVrdWt1eHdWWUJPT0lXanItenNQczJLSWhMLXM1UUlmOTduQmhzenFVT1lYSlFWQS1wcmRCckhRSjNPb0Vua1ZpVy1IWHdndXBUTFlObExlSmQwM0dPc1dxRngzZTdJUnFIVWJYbkxNX21JbFhnUVVyejB2bTUxdVoyQ1pEUGhaYzF1TjhZVm1TSURDd3QwN3ZiTDVx?oc=5
+  > Phó Tổng giám đốc EVN Nguyễn Đình Phước tiếp và làm việc với Ngân hàng Mizuho (Nhật Bản)    Tập đoàn Điện lực Việt Nam (EVN)
+- **Bản tin EVN số 42 năm 2026 - Tập đoàn Điện lực Việt Nam (EVN)** — news.google.com | 2026-11-03 07:00 UTC
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWEzMEZWT3pQWTdweDNPc1hlcUI3QXdZVUNqYm91NUhiTF83SVlxZzN6TXFxOVAzQzZXMHNxbmxaT0UwQ3p0eDc4YmFnZ1h6Q0NQUkRvaXI3Y09oS19UV1VVelVscDZ5eTZpTzI5bVkxS2k2QnJPQW0td1ZhMHVJaWpiSmdBdHc?oc=5
+  > Bản tin EVN số 42 năm 2026    Tập đoàn Điện lực Việt Nam (EVN)
+- **Thông tin chung về vận hành hệ thống điện Quốc gia ngày 02/11/2026 - Tập đoàn Điện lực Việt Nam (EVN)** — news.google.com | 2026-11-03 04:00 UTC
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmJ4d01ROUVnZXR6MWVZbmtkZnloYTU5emxxZHBGNGFyRHhXd2NnaDg1bVZDM0JGZFlqbUtUc2I3cXlvcDNlMTE1R2FmamZ1STY5Z0YtTXVxc2FhN3lyN0h1NnlYS2lRajhqTmllbFNtLVZMUldyYnltX1g0QnlZWUY5RXREX2h2dkw4dW1fTUpRZ3JaVkZUeTlnczEtRzNYTTd6T19COG9TNERJb2hYTmtZUXJrdw?oc=5
+  > Thông tin chung về vận hành hệ thống điện Quốc gia ngày 02/11/2026    Tập đoàn Điện lực Việt Nam (EVN)
 - **Tình hình hoạt động tháng 10 năm 2026; mục tiêu, nhiệm vụ công tác tháng 11 năm 2026 - Tập đoàn Điện lực Việt Nam (EVN)** — news.google.com | 2026-11-03 02:40 UTC
   https://news.google.com/rss/articles/CBMizAFBVV95cUxQNmRnaUM5ZW9ZNVVkOXhURXAtVFUwcXZOamV4RWhDVHlQRWpRV0EtanhFUEQtUkFlRUEtcVcwQXdSLXFrNmhaUTlPcVkwRURxM2djT2JRbWhKMGJIYnBQcUdKSXBJNFVXZ1FaWFgtV3ZxVTFMWldhUzJOYzk2dkQyOWtEd2tuUW9tMzZnZUQ2ajBTMmhGSzZTT3ptNFBwbllmRjc3S0dvWDBKcUtTQnpReldRZXVoR0ctcmlSdHNjRFNVRks2U2JNMzJ4Nmk?oc=5
   > Tình hình hoạt động tháng 10 năm 2026; mục tiêu, nhiệm vụ công tác tháng 11 năm 2026    Tập đoàn Điện lực Việt Nam (EVN)
-- **Disposizioni per il riconoscimento del bonus sociale teleriscaldamento agli utenti domestici in condizioni economico sociali disagiate, in attuazione del decreto-legge 20 febbraio 2026, n. 21 - Arera** — news.google.com | 2026-11-02 19:10 UTC
-  https://news.google.com/rss/articles/CBMibkFVX3lxTE43LTBGaHE5X3dyVHhEY05OVjNsYzUzZGdyRVZJWEZsZDB4NGpWVkx1ZExhU0VIb3hCdHR0b21LeFZLMWQ1NzJCZWJLLWxQQmNWWVlYeHNaN3VyUFFCOVhqS0hEYXhFSmItNktrRVVB?oc=5
-  > Disposizioni per il riconoscimento del bonus sociale teleriscaldamento agli utenti domestici in condizioni economico sociali disagiate, in attuazione del decreto-legge 20 febbraio 2026, n. 21    Arera
-- **Fraud Alert: Scammers are impersonating Federal Energy Regulatory Commission (FERC) Government Officials - Federal Energy Regulatory Commission (.gov)** — news.google.com | 2026-11-02 18:13 UTC
-  https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnhnanFLUnNrMHVhWmE1VV9ReXpsSkxTYkoxcnlhRVdlZGx6ejRHeWVncGlJZUdzTnRvX3RTM1I0Q05wOTdDYjk0akQzbDBSSVVRaUlXRzAtY1NERnBVdEVzd1g5N0w4M25hRVFwV2huaUI1cVJ5X2NZME8yZVRZSEZPalppdGtPS1MwOXFzQXdjWkJ2bXcxOERLN3BSZDN2VzBEYWRFcTdIUkdiaVQtVUpkVWZ4SXg4OFE?oc=5
-  > Fraud Alert: Scammers are impersonating Federal Energy Regulatory Commission (FERC) Government Officials    Federal Energy Regulatory Commission (.gov)
-- **NOTA STAMPA: Rifiuti, ARERA incontra una delegazione del Governo dell’Uganda - Arera** — news.google.com | 2026-11-02 16:34 UTC
-  https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0dreFVYY1Q0VVE5Z2pMb0dhdkVaTDJrS1EyYmpOcF9yaXNSeWRrSFVXUXlPenZVc1VqcHNiVVg3cGM2WmdKVXcxZHZWZm9WbkhGQ1gzYlhJT1dPeFhuNXUwejdQeFhJRUtScGdxbVhhcXN2OFgxSm9ZVExfU3R0YVZDRmtMZHI0RTF1b3AzdE5DNTRJRXRkbWdJTEdqYVVxZkhoclpHQ2V4UTRPMDdN?oc=5
-  > NOTA STAMPA: Rifiuti, ARERA incontra una delegazione del Governo dell’Uganda    Arera
-- **FCC-26-75A2.txt - Federal Communications Commission (.gov)** — news.google.com | 2026-11-02 14:23 UTC
-  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fN1c2RTdDNUFsX1NXc1k0R2pzbm8zbDBMSzhDdUpyazlTbUZNcGtybzlHdDVvS2pVN0kxQ2hrVzczZ3JnUlNfNUJ1eTVYUnpLZTlyVTZXSGhRbU9QY0N0TWtkbkxoZw?oc=5
-  > FCC-26-75A2.txt    Federal Communications Commission (.gov)
-- **Viel Sonne, wenig Solarwärme: Kommunale Wärmepläne lassen enormes Potenzial liegen** — solarwirtschaft.de | 2026-11-02 07:00 UTC
-  https://www.solarwirtschaft.de/2026/11/02/viel-sonne-wenig-solarwaerme-kommunale-waermeplaene-lassen-enormes-potenzial-liegen/
-  > Studie von Fraunhofer ISE und Öko-Institut zeigt große Lücke zwischen Solarthermie-Potenzial und geplanter Nutzung – BSW-Solar fordert stärkere Berücksichtigung bei der Umsetzung der kommunalen Wärmewende – Praxisbeispie
-- **Nuclear Power - Vietnam Electricity (EVN)** — news.google.com | 2026-11-02 06:48 UTC
-  https://news.google.com/rss/articles/CBMib0FVX3lxTE9rWU9fT292TDRzSnI4NEM5ZmVVMl9CTzFoMWlYRVpyMzBiMUcyZUpYaW55YTNYaTI1X2xva0xlRjZxS1hWdjh3S0g1OHJ5U2U1NHFDWnA3OWptRDVrLWJIcDYwb1lqaElobmZPQU5MMA?oc=5
-  > Nuclear Power    Vietnam Electricity (EVN)
-- **Thông tin chung về vận hành hệ thống điện Quốc gia ngày 01/11/2026 - Tập đoàn Điện lực Việt Nam (EVN)** — news.google.com | 2026-11-02 04:00 UTC
-  https://news.google.com/rss/articles/CBMitgFBVV95cUxNby0zM3dRN0hzM0t3U1RuT3dKbVIwaW1LUVFSbFFwd2xpakZoWEZCeFBDbEI3MjFlTlcyYkd4TVVsc3o4Y21RdE5yWEYyT05mMzc0cmhIb0d6WjNSaldfTkdua181a2p3ZUZ2Um42ZjZyT1ZVc3BUQXI0d1VEWjZVUzVJcEdtUURoenNUdzY0QUNkbVJVMjdyOXk3ekw0SU4yVnU0REo0Sm4wdlZCNWtReGlmRXVFdw?oc=5
-  > Thông tin chung về vận hành hệ thống điện Quốc gia ngày 01/11/2026    Tập đoàn Điện lực Việt Nam (EVN)
-- **EVNNPT kiện toàn hai chức danh lãnh đạo chủ chốt - Tập đoàn Điện lực Việt Nam (EVN)** — news.google.com | 2026-11-02 03:22 UTC
-  https://news.google.com/rss/articles/CBMingFBVV95cUxNUFVaYmpRcV93MHBZSjloVEhTSjhrOUhMMzBFNEFZamlESGpZc3NWcm1ZOGp1cnJzdm9aS0daZng2bUo5UFR5R2ZfRXVzczhiNXRYeElqb2R4ZkNmVGtJaTlId3pBSk9pTlNYN21ETXJvVTdVNURaeUZQVFhzcWJTb3VrZlVqdW9XWExpTzZSc1k1N1k2X3RWN19BcmtrZw?oc=5
-  > EVNNPT kiện toàn hai chức danh lãnh đạo chủ chốt    Tập đoàn Điện lực Việt Nam (EVN)
-- **Thủy điện Trị An kết thúc xả nước qua đập tràn từ 12h ngày 2/11 - Tập đoàn Điện lực Việt Nam (EVN)** — news.google.com | 2026-11-02 02:12 UTC
-  https://news.google.com/rss/articles/CBMiswFBVV95cUxPal9ibWNJOVV5WmtsdHRKRkUzaURKamVzdkdfdEFRajNscW50VEVqbklkUkNHUW4tcTh3bEF2d0VUTGlVMDMtdnVSY1BzLVpPYjFfVWJpZTJrMzNxM3JIU0EyRy1PaGNwTDQ3blptMWdnLWFNalIxa2w4Mm5ZMmdZMndUMDRoNXlaVDE0cjZtS0YzOEFNUGx4c1FEb2ZiNS1VOWo4NUFqZ3V0SlI5aVg4SlUxNA?oc=5
-  > Thủy điện Trị An kết thúc xả nước qua đập tràn từ 12h ngày 2/11    Tập đoàn Điện lực Việt Nam (EVN)
 
-## Google Alerts · 品类词（60 条）
+## Google Alerts · 品类词（58 条）
 
-- **Will Toyota Motor (NYSE:TM) Hybrids Offset Its  Tariff  Burden? | Kalkine Media** — google.com | 2026-11-03 01:17 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://kalkinemedia.com/us/stocks/automobile/will-toyota-motor-nysetm-hybrids-offset-its-tariff-burden&ct=ga&cd=CAIyH2FhOGY3NzZlOTQxODg2ZmY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2W-0T8TXQlISi0QaDeBmXj
-  > Market participants weighed how a diversified maker, spanning combustion, hybrid and  battery -electric vehicles, is navigating a demanding stretch of ...
-- **US Power Launches Propel  Solar  28% to 35% Discount on Cash - EIN Presswire** — google.com | 2026-11-02 23:27 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.einpresswire.com/article/954004575/us-power-launches-propel-solar-28-to-35-discount-on-cash&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0F7l2CfuLEmT0ScOULFfQt
-  > The savings arrive just as the federal homeowner  solar tax credit  has expired. That credit ended on December 31, 2025, but Propel gives homeowners ...
-- **Get ready to install rooftop  solar  panels! - Vietnam.vn** — google.com | 2026-11-02 23:25 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.vietnam.vn/en/rot-rao-lap-dien-mat-troi-mai-nha&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2jWMcroO4bnQTex87WDpYg
-  > TPO - Quang Ninh province is developing a policy to support people in installing rooftop  solar  power systems with a maximum  subsidy  of 15 million ...
-- **Machen Sie sich bereit für die Installation von Solaranlagen auf dem Dach! - Vietnam.vn** — google.com | 2026-11-02 23:23 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.vietnam.vn/de/rot-rao-lap-dien-mat-troi-mai-nha&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw0iNfJoLOmZd6cb-fUlvK8i
-  > ...  Solaranlage  und eines Batteriespeichers. Konkret erhalten die Anwohner voraussichtlich einen Zuschuss von 1,5 Millionen VND pro kWp  Photovoltaik  ...
-- **Solar scheme promises savings, but at what cost? - Bangkok Post** — google.com | 2026-11-02 22:20 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.bangkokpost.com/thailand/general/3347625/solar-scheme-promises-savings-but-at-what-cost&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2jMaCkXfU1Dr6aMsd4IYdQ
-  > Technicians install  rooftop solar  panels on a building.
-- **Las emisiones brasileñas disminuyen un 6%, acercando al país a su objetivo del Acuerdo de París.** — google.com | 2026-11-02 21:53 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://canalsolar.com.br/es/Las-emisiones-brasile%25C3%25B1as-est%25C3%25A1n-sujetas-al-acuerdo-de-Par%25C3%25ADs./&ct=ga&cd=CAIyGmRmZjg4YzViY2FiZDAwNDM6Y29tOmVzOlVT&usg=AOvVaw1asEs6JR-neEUdO-NJyG1d
-  > Canal  Energía solar : Las emisiones brasileñas disminuirán un 6% en 2025 y el país ...  regulación . Sin embargo, resulta preocupante que nuestro ...
-- **Can a Power Station Lower Your Electric  Bill ? How TOU Mode Works - Popular Mechanics** — google.com | 2026-11-02 21:12 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.popularmechanics.com/home/tools/a74284133/power-station-time-of-use-mode/&ct=ga&cd=CAIyHzU3MjY0NTI1NmRlNjk4NWI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0FL55VTSXaEvXJw-vWAsem
-  > You also need to primarily use portable power for a whole- home  backup system or on appliances that are always running, like a refrigerator, to get the ...
-- **PV- Einspeisevergütung  2027: Was sich für Dächer ändern soll - Netz Trends** — google.com | 2026-11-02 20:25 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.netz-trends.de/pv-einspeisevergu-tung-2027-was-sich-fu-r-da-cher-a-ndern-soll/&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw0sGNgX-6O0ce11tiXE6zi_
-  > Wohnhaus mit  Photovoltaik -Dachmodulen neben einer Aufmacherkarte zur geplanten 50-Prozent-Einspeisegrenze;. KI-generiertes Bild: Symbolillustration ...
-- **How Octopus Energy US and Uplight are rewriting the playbook for demand flexibility** — google.com | 2026-11-02 20:01 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.renewableenergyworld.com/power-grid/how-octopus-energy-us-and-uplight-are-rewriting-the-playbook-for-demand-flexibility/&ct=ga&cd=CAIyHzU3MjY0NTI1NmRlNjk4NWI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1j7MqLsTYwPp_EFIpl5oPW
-  > ...  Energy Storage NewsPodcastsPolicy &  RegulationResidentialSolar #Factor This Policycast#Reliability and Resilience#Renewables. More News. What happens ...
-- **Weekly Recap: Fish Creek Solar Park opens and  home battery  pilot launches - TradingView** — google.com | 2026-11-02 19:41 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/tradingview:38d1fe96363b7:0-weekly-recap-fish-creek-solar-park-opens-and-home-battery-pilot-launches/&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0pRDPmV9gbNd83Km7dHRZv
-  > ...  home-battery  virtual power plant pilot to test grid support and cost ... Privacy  Policy  · Cookies  Policy  · Accessibility Statement · Trust Center ...
-- **Chhattisgarh Village Gives Every Home  Rooftop Solar  Power - Urban Acres** — google.com | 2026-11-02 19:25 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://urbanacres.in/chhattisgarh-village-gives-every-home-rooftop-solar-power/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3n6IpN9V5dGh3GlLDuqmgw
-  > ...  rooftop solar  systems, officials told the Times of India. The ... Under the  net-metering  arrangement, families can use the electricity ...
-- **WA's  Plug-In Solar  Plan Sparks Hope For Renters - SolarQuotes** — google.com | 2026-11-02 18:51 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.solarquotes.com.au/blog/wa-plug-in-solar/&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw31uf5visnozbMMUkZuR921
-  > WA plans to legalise  plug-in solar  and batteries. We examine the proposed rules, potential savings and outstanding safety concerns.
-- **Walmart Invests In Base Power, Bringing  Home Battery  Backup To Stores** — google.com | 2026-11-02 18:36 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://theshelbyreport.com/2026/11/02/walmart-invests-in-base-power-bringing-home-battery-backup-to-stores/&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3TU3ufws3zJhFV80Ylj-aL
-  > Walmart made a strategic investment in Base Power and will offer the company's  home battery  systems to customers and Sam's Club members, ...
-- **Balkonkraftwerk  als Exportschlager: Die Welt übernimmt deutsche Regeln | heise online** — google.com | 2026-11-02 18:35 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.heise.de/news/Balkonkraftwerk-als-Exportschlager-Die-Welt-uebernimmt-deutsche-Regeln-11508094.html&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0a5cmq4PkPnV0LD_YaPQOR
-  > Balkonkraftwerk  als Exportschlager: Die Welt übernimmt deutsche Regeln ... Steckerfertige Solaranlagen werden weltweit legal: Nach zehn US-Staaten und ...
-- **Malawi to Introduce Rules for Electric Vehicles and Private Renewable Power** — google.com | 2026-11-02 18:33 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.ecofinagency.com/news-industry/0211-60375-malawi-to-introduce-rules-for-electric-vehicles-and-private-renewable-power&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1SoaWRcBi-dmoUneQqVTOV
-  > Prosumers are electricity users who also generate power, typically through  rooftop solar  installations. Under  net metering , they can feed surplus ...
-- **Nippon Thompson adopts 2.73 MW solar rental service in Vietnam | IBTimes JP** — google.com | 2026-11-02 18:00 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://jp.ibtimes.com/nippon-thompson-adopts-273-mw-solar-rental-service-vietnam-105051&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2-ML97rNTqI9ml_cKF3Y9h
-  > Nippon Thompson said on October 29, 2026, that it had introduced a  rooftop solar  rental service at its Vietnamese manufacturing subsidiary, using ...
-- **Gujarat installs 9.08 lakh  rooftop solar  systems, achieves 90% of 10-lakh target - News** — google.com | 2026-11-02 17:46 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://news.webindia123.com/news/Articles/India/20261102/4514796.html&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3u1QrC7A2UDsDhoord09p5
-  > Gujarat installs 9.08 lakh  rooftop solar  systems, achieves 90% of 10-lakh target ... Under the state's solar  policy , the facility of ' net metering ' is ...
-- **EEG - Förderung  läuft aus: Wohin jetzt mit dem Solarstrom? - home&smart** — google.com | 2026-11-02 17:23 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.homeandsmart.de/solaranlage-pv-anlage-speicher-kaufen-eeg-ende-0017-987988&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw00BqSOCsGBbRRgJUCHU2Wg
-  > Nach Ende der  EEG - Förderung  wird selbst genutzter Solarstrom oft wertvoller als die Einspeisung. ...  Photovoltaik  ...
-- **GEYOTO Launches C260, a 3.64-Pound  Portable Power Station  Designed for Life on the Move** — google.com | 2026-11-02 17:19 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.morningstar.com/news/pr-newswire/20261102cn86444/geyoto-launches-c260-a-364-pound-portable-power-station-designed-for-life-on-the-move&ct=ga&cd=CAIyHzJlNmE0NGFjNWNjYzIzOWY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2QT9MKfV663Y3FOKaNlNxQ
-  > PR Newswire. WILMINGTON, Del., Nov. 2, 2026. The new 256Wh  portable power station  combines up to 100W output, seven ports and a compact design for ...
-- **Jackery Explorer 100D Shrinks the  Portable Power Station  Into Power Bank Size** — google.com | 2026-11-02 17:12 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.coolthings.com/jackery-explorer-100d-smallest-portable-power-station-158w-outout-30000-mah-capacity/&ct=ga&cd=CAIyHzJlNmE0NGFjNWNjYzIzOWY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0DNKT7qEYGMDYhIRWFuzt4
-  > Jackery's newest  portable power station  is their smallest yet and it looks perfect for use as an everyday power bank.
-- **Balkonkraftwerk  - und die Verschattung bei der Nachbarin - Rechtslupe** — google.com | 2026-11-02 17:11 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.rechtslupe.de/zivilrecht/balkonkraftwerk-und-die-verschattung-bei-der-nachbarin-3364592&ct=ga&cd=CAIyHzZmOTY5ZTJjN2RkYmI4MjU6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2qu3UJGuOFUsaewJcKaDXq
-  > Mit dieser  Regelung  wollte der Gesetzgeber Mietern die Möglichkeit eröffnen, ihre Stromkosten zu senken und zugleich einen Beitrag zur Energiewende zu ...
-- **Enphase Jumps 11%, Sunrun Spikes 10% as  Solar  Stocks Rebound From Last Week's ...** — google.com | 2026-11-02 17:08 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://247wallst.com/investing/2026/11/02/enphase-jumps-11-sunrun-spikes-10-as-solar-stocks-rebound-from-last-weeks-earnings-rout-first-solar-climbs-5/&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw30wRm68-99BuXaocu_KueI
-  > He tied the weakness to higher interest rates and the expiration of the Section 25D federal  tax credit . First  Solar  (NASDAQ:FSLR) added to the ...
-- **Pakistan seeks consultant for  distributed solar  project - pv magazine Global** — google.com | 2026-11-02 16:52 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.pv-magazine.com/2026/11/02/pakistan-seeks-consultant-for-distributed-solar-project/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2O4ReBcK_4mFqWdOEJhAOp
-  > ...  distributed solar  supplied 27% of Pakistan's electricity in 2025. A paper published last month found registered  net metering  is concentrated among ...
-- **Jackery Launches Explorer 100D  Portable Power Station . Maximum Capability For Carryon ...** — google.com | 2026-11-02 16:41 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://cleantechnica.com/2026/11/02/jackery-launches-explorer-100d-portable-power-station/&ct=ga&cd=CAIyHzJlNmE0NGFjNWNjYzIzOWY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3SKo4zNlxWliXLClnlF3oO
-  > The  portable battery  can function as a  solar generator  by accepting direct solar input up to 100 W. ...  Portable Power Station *. CleanTechnica ...
-- **Solar Loan: ఇంటిపై సోలార్ ప్యానెల్స్ కోసం కేంద్రం నుంచి రూ.6 లక్షల లోన్... రూ.78 వేల సబ్సిడీ కూడా!** — google.com | 2026-11-02 16:20 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://telugu.news18.com/photogallery/business/want-to-install-rooftop-solar-get-up-to-rs-6-lakh-loan-and-rs-78000-subsidy-under-pm-surya-ghar-scheme-ss-ws-bkl-3258500.html&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3agn8z1HH97OvhCRwglUrQ
-  > Want to Install  Rooftop Solar ? Get Up to Rs 6 Lakh Loan and Rs 78000  Subsidy  Under PM Surya Ghar Scheme | ఇంటి కరెంట్ బిల్లులు ...
-- **WA Government moves to legalise  plug-in solar  panels and batteries - NewsCop** — google.com | 2026-11-02 16:05 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://newscop.com.au/2026/11/02/wa-legalise-plug-in-solar-panels/&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw26AF_yxkaae_1K_NHYnZkk
-  > WA plans to legalise  plug-in solar  panels and batteries for renters and apartment residents. ...  Regulation  and Safety are consulting on the ...
-- **Europe's China Auto Deal | Council on Foreign Relations** — google.com | 2026-11-02 16:05 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.cfr.org/articles/europes-china-auto-deal&ct=ga&cd=CAIyH2FhOGY3NzZlOTQxODg2ZmY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1AVitWTTWT5BPSUtrMPAf2
-  > Battery  electric vehicles face a  tariff  from 25 percent (Telsa, 10 ...  energy storage  and batteries used by cars in the EU data right now, at ...
-- **Anker SOLIX Brings the Ultimate Power Experience to All Energy Australia 2026, Led by the ...** — google.com | 2026-11-02 15:56 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.pv-magazine.com/press-releases/anker-solix-brings-the-ultimate-power-experience-to-all-energy-australia-2026-led-by-the-new-xe-dual-cycle-home-battery-and-a-balcony-solar-lineup/&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1oHyFD1DcTVddG1rbiJlmw
-  > The spotlight falls on the new Anker SOLIX XE — an inverter-and-battery all-in-one built for fast installation, alongside a  balcony solar  lineup ...
-- **This new 30,000mAh  portable power station  uses a reliable LFP battery and fits in the palm ...** — google.com | 2026-11-02 15:55 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.techradar.com/computing/this-new-30-000mah-portable-power-station-uses-a-reliable-lfp-battery-and-fits-in-the-palm-of-your-hand&ct=ga&cd=CAIyHzJlNmE0NGFjNWNjYzIzOWY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1GRa2HhXVHYW9YdRzWKitb
-  > The Explorer 100D is a palm-sized 30,000mAh  portable power station  · It uses a long-lasting lithium iron phosphate battery · It has a maximum total ...
-- **Jackery Explorer 100D– a 96Wh, 850 g  Portable Power Station  - Newsshooter** — google.com | 2026-11-02 15:39 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.newsshooter.com/2026/11/02/jackery-explorer-100d-a-96wh-850-g-portable-power-station/&ct=ga&cd=CAIyHzJlNmE0NGFjNWNjYzIzOWY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1HWdVjy6BQN47qvfgecTcE
-  > Jackery Explorer 100D– a 96Wh, 850 g  Portable Power Station  · Screenshot 2026 10 30 at 11 01 21. Jackery claims that it has been engineered for up to 8 ...
-- **Zendure Launches UK Black Friday Event With Up to 31% Off Home Solar and  Battery  Storage** — google.com | 2026-11-02 15:17 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.co.uk/news-releases/zendure-launches-uk-black-friday-event-with-up-to-31-off-home-solar-and-battery-storage-302926586.html&ct=ga&cd=CAIyH2FhOGY3NzZlOTQxODg2ZmY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0mLCokMaAEGh3OjLrHKzN3
-  > ...  tariff  data to decide when the  battery  charges and discharges. ... Zendure Launches Prime Day 2026: Save up to €400 on SolarFlow  Energy Storage .
-- **The $10000  rebate  no one wants - Toronto Star** — google.com | 2026-11-02 14:36 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com/news/morning-digest/the-10-000-rebate-no-one-wants/article_690bdb7b-991e-44f4-94c6-84953eef8eb5.html&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3NPePcj_qt9Azu_qENqmuE
-  > Heliotechnik  Solar's  Beau Badore installs  solar  panel system in Toronto. Nick Kozak for the Toronto Star ...
-- **The Vtoman 100W  Portable Power Station  Is 52% Off - Autoblog** — google.com | 2026-11-02 14:34 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.autoblog.com/deals/vtoman-100w-portable-power-station-walmart-flash-sale&ct=ga&cd=CAIyHzJlNmE0NGFjNWNjYzIzOWY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw32wpTdHj6VD7t8ZgvgrlFw
-  > This $146  portable power station  is on sale for just $70 at Walmart, and shoppers say it's “so handy” and a “great power source.”
-- **VIEO sunsets electric vehicle and battery backup rebates, launches  portable battery  rebate** — google.com | 2026-11-02 14:29 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://stthomassource.com/content/2026/11/02/vieo-sunsets-electric-vehicle-and-battery-backup-rebates-launches-portable-battery-rebate/&ct=ga&cd=CAIyHzJlNmE0NGFjNWNjYzIzOWY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0OyzaHLDTsC6aXNgpkWn4e
-  > Privacy  Policy . Sign up. Welcome ... The two programs will be succeeded by the Virgin Islands Resiliency Gateway 2.0 (VIRG 2.0), a  portable battery  ...
-- **5000Wh  home battery  delivers 48-hour emergency runtime, reaches 96% peak conversion** — google.com | 2026-11-02 14:23 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://interestingengineering.com/energy/5000wh-home-battery-delivers-emergency-runtime&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2aX-cMdnerpQLvnb_1SmLY
-  > 5,000Wh  home battery  delivers 48-hour emergency ... Emerging technologies are establishing safer, decades-long  residential energy storage .
-- **Zeo Energy targets data center storage as  residential solar  revenue hits $29.4M** — google.com | 2026-11-02 14:21 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/zeo-energy-targets-data-center-storage-as-residential-solar-revenue-hits-29-4m&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1Ywfs_apfqd7fYb0f7yDVI
-  > Zeo Energy Corp. (Nasdaq: ZEO), a provider of  residential solar  and commercial long-duration energy storage solutions, outlined a growth strategy ...
-- **Wird die  Einspeisevergütung  abgeschafft? Was beim  EEG  2027 feststeht und was Union ...** — google.com | 2026-11-02 14:14 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.nacionale.com/de/articles/einspeiseverguetung-abgeschafft-eeg-2027-solaranlage-was-feststeht&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw0YTHMFeqHUy8zZ9u78SQBS
-  > Noch ist nichts beschlossen: Union und SPD verhandeln über das  EEG  2027. Wer bis Ende 2026 eine  Solaranlage  in Betrieb nimmt, behält die 20-jährige ...
-- **1Komma5° und 2G Energy kooperieren bei dezentraler Stromversorgung - Windbranche.de** — google.com | 2026-11-02 13:57 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.windbranche.de/news/nachrichten/artikel-40152-ki-rechenzentren-als-wachstumsmarkt-1komma5-und-2g-energy-kooperieren-bei-dezentraler-stromversorgung&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw1Um60xCoN-KtvqDQhRE0_c
-  > EEG - Vergütung  ·  EEG -Festvergütung ·  EEG -Ausschreibungen · Börse · Recht · Urteile ... Gemeinsam wollen die Unternehmen Gasmotorenanlagen,  Photovoltaik  ...
-- **Monthly Electricity  Bill  Savings: How Much Can Chennai Homes Save with  Rooftop Solar ?** — google.com | 2026-11-02 13:48 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.livechennai.com/detailnews.asp%3Fcatid%3D%26newsid%3D84370&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0LVDeGCRCvLXI59FaXlLbl
-  > Monthly Electricity  Bill  Savings: How Much Can Chennai Homes Save with  Rooftop Solar  ...  tariff , electricity subsidies and  net-metering  arrangements.
-- **Zeo Energy reports 9.2% revenue growth in  residential solar  - Investing.com** — google.com | 2026-11-02 13:44 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.investing.com/news/company-news/zeo-energy-reports-92-revenue-growth-in-residential-solar-93CH-4991750&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw12HQnXJPFLEOcVM9QQWovo
-  > The  residential solar  division produced $29.4 million in revenue during ... Privacy  Policy  · Risk Warning. Get Investing.com app for FREE. Track ...
-- **PM Modi urges homes to use  rooftop solar  for cooking and EV charging to cut energy imports** — google.com | 2026-11-02 13:34 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/cnbc-tv18_pm-modi-urges-homes-to-use-rooftop-solar-activity-7523013788502007808-Ve0E&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw18pp4NTacIv93WbdN4yK8H
-  > PM Modi has urged households to use  rooftop solar  for cooking and EV charging to reduce energy imports. ⚡ India has reached 500 GW of non-fossil ...
-- **Gujarat installs 9.08 lakh  rooftop solar  systems, achieves 90 pc of target - Investment Guru** — google.com | 2026-11-02 12:43 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://investmentguruindia.com/newsdetail/gujarat-installs-9-08-lakh-rooftop-solar-systems-achieves-90-pc-of-target362046&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2VYw3_xddS63UdCvw2SbL7
-  > ...  rooftop solar  installations more convenient for residential consumers. Under its solar  policy , households can use  net metering , which records both ...
-- **Tamil Nadu  Rooftop Solar Subsidy  Scheme 2026: Eligibility, Benefits and How to Apply** — google.com | 2026-11-02 12:03 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.livechennai.com/detailnews.asp%3Fnewsid%3D84364&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0h2MTJAqMZoa1Kf52ltQr2
-  > ...  rooftop solar  system installed according to the approved technical specifications. 7. Complete Inspection and  Net Metering : After installation ...
-- **PM Surya Ghar Muft Bijli Yojana: How to get 300 units free electricity and up to Rs ... - TradingView** — google.com | 2026-11-02 12:00 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/moodys:68d075e3de64f:0-pm-surya-ghar-muft-bijli-yojana-how-to-get-300-units-free-electricity-and-up-to-rs-78-000-rooftop-solar-subsidy/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0dMVD0B9fcLqZTvnt4yM55
-  > PM-Surya Ghar: Muft Bijli Yojana was launched by Prime Minister Narendra Modi on 13 February 2024 for installing  rooftop solar  in One Crore households ...
-- **PM Surya Ghar Muft Bijli Yojana: How to get 300 units free electricity and up to ₹78,000 ...** — google.com | 2026-11-02 11:31 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.livemint.com/money/personal-finance/pm-surya-ghar-muft-bijli-yojana-how-to-get-300-units-free-electricity-and-up-to-rs-78-000-rooftop-solar-subsidy-11793605134766.html&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0VygCKFdjZBQpcJLRQbJ97
-  > Households can apply for  subsidy  through the National Portal and will be able to select a suitable vendor for installing  rooftop solar . The National ...
-- **[Un électricien australien installe une  batterie domestique , transformant une facture d ...** — google.com | 2026-11-02 11:09 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://news.metal.com/fr/newscontent/104189875-un-%25C3%25A9lectricien-australien-installe-une-batterie-domestique-transformant-une-facture-d%25C3%25A9lectricit%25C3%25A9-de-250-dollars-australiens-en-un-cr%25C3%25A9dit-de-14-dollars-australiens&ct=ga&cd=CAIyGjI5ZGU1NjM5OWQ1M2FlYmI6Y29tOmZyOlVT&usg=AOvVaw0tbPPxdLfIaJTC94u_7COi
-  > Travis Harpley, électricien de 49 ans en Nouvelle-Galles du Sud, en Australie, a dépensé 10 500 dollars australiens pour une  batterie domestique  ...
-- **PM Surya Ghar Muft Bijli Yojana: Check eligibility,  rooftop solar subsidy  of up ... - Moneycontrol.com** — google.com | 2026-11-02 11:00 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.moneycontrol.com/news/india/pm-surya-ghar-muft-bijli-yojana-check-eligibility-rooftop-solar-subsidy-of-up-to-rs-78-000-and-how-to-apply-14066487.html&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw03frLSDOndGn2KBikYb-kG
-  > After approval, they can select a registered vendor and get the  rooftop solar  system installed. The process also involves completing  net metering  and ...
-- **Förderung  sinkt ab Februar: So geht der Wärmepumpen-Umstieg - FOCUS online** — google.com | 2026-11-02 09:48 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.focus.de/earth/energie/foerderung-sinkt-ab-februar-so-geht-der-waermepumpen-umstieg_c038b28d-4ea4-44c2-90ec-55229a117786.html&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw2xj_r_WOdIl_03TyVYvc4Y
-  > Harald M. Depta ist DEKRA-zertifizierter Experte für  Photovoltaik , Ladeinfrastruktur, Elektromobilität und elektrisches Fuhrparkmanagement. Er ist ...
-- **Get heat pumps and  solar  panels before the VAT hike - The Eco Experts** — google.com | 2026-11-02 09:35 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.theecoexperts.co.uk/news/heat-pumps-solar-panels-vat&ct=ga&cd=CAIyHzU3MjY0NTI1NmRlNjk4NWI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1nVE2769KcivczPLB6ued2
-  > If you're looking to futureproof your energy bills (and who isn't?) then now is the time to  act  because the best tools available,  solar  panels and ...
-- **GERC Approves Tariffs For 450 MW/900 MWh  Battery  Storage Projects In Gujarat** — google.com | 2026-11-02 08:45 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://solarquarter.com/2026/11/02/gerc-approves-tariffs-for-450-mw-900-mwh-battery-storage-projects-in-gujarat/&ct=ga&cd=CAIyH2FhOGY3NzZlOTQxODg2ZmY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0RvJiNiIJ_bo8hwwzZp5OK
-  > ...  Battery Energy Storage  System (BESS) in Gujarat. The approval covers projects allocated to NLC India Renewables Limited and Sun Drops Energia ...
-- **Pembrokeshire council grants certificate for  off-grid home  | tenby-today.co.uk** — google.com | 2026-11-02 07:33 UTC
-  https://www.google.com/url?rct=j&sa=t&url=http://www.narberth-and-whitland-today.co.uk/news/planning/geoffrey-finnimore-pembrokeshire-off-grid-home-968671&ct=ga&cd=CAIyHzc0NDA4NmYwNzAxY2I4MGI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0pWLFXNFrY-T0-TMlGtl09
-  > A man's self-built  off-grid home  in Pembrokeshire has been granted a certificate of lawful development, after being erected without permission.
-- **Solar  rooftop systems offer up to ₹1 lakh in  subsidy : Consumers with monthly electricity bills ...** — google.com | 2026-11-02 07:23 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.bhaskarenglish.in/local/gujarat/news/pm-surya-ghar-subsidy-solar-rooftop-application-process-2026-139565366.html&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1irV2cpTkgOzCG5kqGiOp6
-  > Apply for PM Surya Ghar  solar subsidy . Follow Bhaskar ... The  solar  system will then be installed at the customer's  home  within seven days.
-- **Hoymiles HiFlow Pro Named to TIME's List of Best Inventions of 2026 for Making Solar ...** — google.com | 2026-11-02 07:02 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.pv-tech.org/industry-updates/hoymiles-hiflow-pro-named-to-times-list-of-best-inventions-of-2026-for-making-solar-power-more-accessible/&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3j5zOuxrzkUM3YrDgxyu_h
-  > Plug-in solar  offers renters and apartment dwellers an alternative to ... Its microinverters were already being used in  balcony solar  applications in ...
-- **EEG- Förderung  für 2027 wird eine Milliarde Euro teurer als geplant – Haushaltslücke wächst** — google.com | 2026-11-02 05:12 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://blackout-news.de/energie/eeg-foerderung-fuer-2027-wird-eine-milliarde-euro-teurer-als-geplant-haushaltsluecke-waechst/&ct=ga&cd=CAIyGjYyMGQzNjkyMjI0NzkyMDE6Y29tOmRlOlVT&usg=AOvVaw1IRdaHsmowwkcntUS-V0mH
-  > Die EEG- Förderung  übersteigt den Haushaltsplan 2027 um eine Milliarde Euro ...  Stromspeicher  und Solar ·  Stromspeicher  für einen Blackout · Strom in der ...
-- **California waives utility approval for  plug-in solar , but renters may still need a landlord's OK** — google.com | 2026-11-02 04:44 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.yahoo.com/news/us/articles/california-waives-utility-approval-plug-040900611.html&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1iWAtO_t1MEKcpTeFHq6t9
-  > Lower weight and greater portability than traditional systems help make  balcony solar  attractive to apartment residents. The panels also require ...
-- **Electricity  tariff  could be cut by 20% – Consumers' Association - Island.lk** — google.com | 2026-11-02 04:35 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://island.lk/electricity-tariff-could-be-cut-by-20-consumers-association/&ct=ga&cd=CAIyH2FhOGY3NzZlOTQxODg2ZmY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2jxX8L4Pb4gs6Zr1EEaWxl
-  > Association Secretary Sanjeewa Dhammika said reservoirs were currently 95% to 100% full, while solar power was generating around 27% of the country's ...
-- **Solarenergie: Was das  EEG  2027 für Freiflächen- und Agri-PV ändert** — google.com | 2026-11-02 04:31 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://background.tagesspiegel.de/agrar-und-ernaehrung/briefing/was-das-eeg-2027-fuer-freiflaechen-und-agri-pv-aendert&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw37Oy4hjFmU1-AIIGLtza-0
-  > Damit dürfte  Photovoltaik  als Geschäftsmodell für die Landwirtschaft künftig eine größere Rolle spielen – jedoch nicht überall in Deutschland.
-- **Arena backs bid to make portable home batteries in Australia, even before they can legally plug in** — google.com | 2026-11-02 04:04 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://reneweconomy.com.au/arena-backs-bid-to-make-plug-in-batteries-in-australia-even-before-they-can-legally-plug-in/amp/&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0DcXRVnVnraBM_rXtIDZYm
-  > Plug-in solar  – or  balcony solar  – and batteries have become hugely popular in parts of Europe and the US as an affordable and easy way for people ...
-- **4,000MW  rooftop solar  ambition demands $2b fund | The Daily Star** — google.com | 2026-11-02 01:37 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.thedailystar.net/business/economy/news/4000mw-rooftop-solar-ambition-demands-2b-fund-4313141&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2rKwJE6I20Oaxg9j-SE90i
-  > ...  rooftop solar , small wind turbines and biogas, with government support through  policy , financing and access to technology. The 4,000MW target is ...
-- **Sungrow unveils PowerHarbour  home battery  and utility-scale storage at All-Energy Australia 2026** — google.com | 2026-11-02 01:36 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/sungrow-unveils-powerharbour-home-battery-and-utility-scale-storage-at-all-energy-australia-2026&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw012N1ug5GjdL-RfGpYPw0t
-  > Sungrow unveils PowerHarbour  home battery  and utility-scale storage at All-Energy Australia 2026 ... Sungrow, a PV inverter and energy storage provider, ...
+- **Maryland shopper says  rebate  erased heat pump water heater's price, but installation costs extra** — google.com | 2026-11-03 22:44 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.thecooldown.com/green-home/maryland-heat-pump-water-heater-rebate/&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2-zsxu2zCiXiGIjIltW6sU
+  > Crushed by your bills? See instant  solar  savings from vetted installers in just a few clicks. With energy prices through the roof, there's never been ...
+- **Tongwei launches TNC 2.0 FULLX G12R-48 for more powerful, adaptable  rooftop solar** — google.com | 2026-11-03 21:38 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.solarpowerportal.co.uk/solar-technology/tongwei-launches-tnc-2-0-fullx-g12r-48-for-more-powerful-adaptable-rooftop-solar&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2UVeImuLr3KFfRJsP5SK5z
+  > Residential Solar  · Commercial Solar · Industry Trends · Blogs. Tongwei ... For  rooftop solar , higher module power is only part of the equation.
+- **DTECH Northeast is underway, here are sessions you won't want to miss** — google.com | 2026-11-03 20:36 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.renewableenergyworld.com/power-grid/grid-modernization/dtech-northeast-is-underway-here-are-sessions-you-wont-want-to-miss/&ct=ga&cd=CAIyHzU3MjY0NTI1NmRlNjk4NWI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0vCM2B89zmN5PMcKoyzwUn
+  > ...  Energy Storage NewsPodcastsPolicy &  RegulationResidentialSolar #Factor This Policycast#Reliability and Resilience#Renewables. More News. Hull Street ...
+- **Low-income Maine mobile  home  owners can replace oil furnaces with heat ... - The Cool Down** — google.com | 2026-11-03 19:35 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.thecooldown.com/green-home/maine-mobile-home-heat-pump-rebate/&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1MzBNqhFi-pnaTNu4oGoAw
+  > The initiative offers a $13,900  rebate , bringing homeowners' share to $1,000. Here's what to know. Greystone Mobile  Home  Cooperative in Veazie became ...
+- **Storage-first models and VPP integration define post-ITC solar market - pv magazine USA** — google.com | 2026-11-03 19:18 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://pv-magazine-usa.com/2026/11/03/storage-first-models-and-vpp-integration-define-post-itc-solar-market/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2jO-Uf3INhkPaB-oYw1m0J
+  > ...  residential solar  installers to adopt storage-first business models. ... “With  net metering  cuts reducing the value of exports, utilities ...
+- **Octopus Energy says it's making 'next gen'  home  batteries with CATL and Ampace** — google.com | 2026-11-03 19:00 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.techradar.com/home/energy-saving/octopus-energy-says-its-making-next-gen-home-batteries-with-catl-and-ampace-sodium-ion-and-high-density-cells-could-make-the-bill-cutting-tech-far-more-affordable&ct=ga&cd=CAIyHzU3MjY0NTI1NmRlNjk4NWI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0oQmlfBdKuxdlYlgOvc2jc
+  > It's a boom time for  home  energy solutions — from DIY  solar  kits to ...  home energy storage  solutions. Energy supplier Octopus and battery ...
+- **SolarEdge HD-Wave: Negativpreisoptimierung (NRO) stoppt komplett statt Zero Export** — google.com | 2026-11-03 18:55 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.photovoltaikforum.com/thread/265796-solaredge-hd-wave-negativpreisoptimierung-nro-stoppt-komplett-statt-zero-export/&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw3JOeYZh3o_K-aHdfXQranb
+  > Netzparallel  EEG Photovoltaik -Anlage · Wechselrichter. SolarEdge HD ... Besten Dank für jeden Hinweis. Photovoltaikforum · Forum · Netzparallel  EEG  ...
+- **Is  balcony solar  coming to a balcony near you? Here's what to know - Broadband Communities** — google.com | 2026-11-03 18:23 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://bbcmag.com/is-balcony-solar-coming-to-a-balcony-near-you-heres-what-to-know/&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1NnRYq9s564xf4hlxXduzi
+  > Affordability is top of mind for renters and housing providers alike. Emerging technologies, like  balcony solar , should be guided by public  policy  and ...
+- **OLG Stuttgart: Eine Kaufoption für einen Euro ist keine Kaufpflicht - LTO** — google.com | 2026-11-03 18:19 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.lto.de/recht/nachrichten/n/6-u-50/26-olg-stuttgart-gemietete-solaranlage-kein-verbraucherkredit-kaufpflicht-1-euro&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw2p1VQ36j7n4DTerXVjHij5
+  > Anzeige. 61303. OLG Stuttgart zu gemieteter  Solaranlage : Eine Kaufoption für einen Euro ist keine Kaufpflicht. 03.11.2026. Photovoltaikanlage. Eine ...
+- **Tesla's Texas Megapack Factory Granted FTZ Status; Chinese Tariffs Still Apply | KuCoin** — google.com | 2026-11-03 17:11 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.kucoin.com/news/flash/tesla-s-texas-megapack-factory-granted-ftz-status-chinese-tariffs-still-apply&ct=ga&cd=CAIyH2FhOGY3NzZlOTQxODg2ZmY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3Q6A-8_xAda8XlgX2StfuJ
+  > ...  energy storage  business would be "particularly hard hit because we source lithium iron phosphate (LFP)  battery  cells from China." At the time, we ...
+- **Pasadena Water and Power Negotiating Six Carbon-Free Energy Projects** — google.com | 2026-11-03 16:55 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://pasadenanow.com/main/pasadena-water-and-power-negotiating-six-carbon-free-energy-projects&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3iI8z2qFHU4vD7-ty3wu3Y
+  > Pasadena Water and Power approved 18  residential rebate  ...  solar  and  energy storage  loan program. The utility is also developing a ...
+- **Felicitysolar Celebrates Global Partnerships and Highlights Top 8  Residential Energy  ...** — google.com | 2026-11-03 16:31 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://pressreleasehub.pa.media/article/felicitysolar-celebrates-global-partnerships-and-highlights-top-8-residential-energy-storage-milestone-87887.html&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1VMVMQo1BJZckZpjHA_awI
+  > Felicitysolar Celebrates Global Partnerships and Highlights Top 8  Residential Energy Storage  Milestone. Contributed by: PR Newswire. Images. PR ...
+- **Jahresendrallye beim  Photovoltaik -Zubau: Erste Engpässe zeichnen sich ab - PV-Magazin** — google.com | 2026-11-03 16:21 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.pv-magazine.de/2026/11/03/jahresendrallye-beim-photovoltaik-zubau-erste-engpaesse-zeichnen-sich-ab/&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw08J_oVMTEzoI3T-4Ns2qEa
+  > Obwohl der Entwurf für das  EEG  2027 drastische Einschnitte bei der Solarförderung enthält, blieb der Zubau bislang in diesem Jahr auf einem ...
+- **HERC Upholds Overdrawal And Deviation Charges On  Solar Generator  And Open Access ...** — google.com | 2026-11-03 16:18 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://solarquarter.com/2026/11/03/herc-upholds-overdrawal-and-deviation-charges-on-solar-generator-and-open-access-consumer-in-haryana/&ct=ga&cd=CAIyHzJlNmE0NGFjNWNjYzIzOWY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0iena02o_k9hbt8pbciqs0
+  > HERC Upholds Overdrawal And Deviation Charges On  Solar Generator  And Open Access Consumer In Haryana ... The Commission held that  Regulation  8(1)( ...
+- **Vorträge:  Photovoltaik  und  Mieterstrom  in Mehrfamilienhäusern - NUSSBAUM.de** — google.com | 2026-11-03 16:05 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.nussbaum.de/entdecken/events/vortraege-photovoltaik-und-mieterstrom-in-mehrfamilienhaeusern-10001611&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw0cWmgrHULFL_3hawe-fbkq
+  > Wie lässt sich auf Mehrfamilienhäusern Solarstrom erzeugen und im Haus nutzen? Zwei kostenlose Vorträge der Energieagentur Heilbronn zeigen, ...
+- **`Missed opportunity' | Toronto Star - PressReader** — google.com | 2026-11-03 15:36 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.pressreader.com/canada/toronto-star/20261103/281487873365537&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2pnaaw2pTxzphShPU0ewZo
+  > Most homeowners installing  solar  panels and batteries reject province's $10000  rebate  because it doesn't make economic sense, experts say.
+- **Neue Vorlage zur Umsetzung der EU-Gebäuderichtlinie: Praxisnahe Minimalumsetzung ...** — google.com | 2026-11-03 15:34 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.finanznachrichten.de/nachrichten-2026-11/70021282-neue-vorlage-zur-umsetzung-der-eu-gebaeuderichtlinie-praxisnahe-minimalumsetzung-einfache-verfahren-und-neue-moeglichkeiten-zum-einsatz-von-kuehlgeraete-006.htm&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw2U2cWMSAsMp62c92wDGxvb
+  > Ebenfalls keine Zustimmung fand die Vorlage zur Umsetzung der Motion betreffend eine  Photovoltaik - Pflicht . Gemäss der Abstimmungsanalyse des ...
+- **Wärmepumpe darf künftig auch kühlen: Regierung legt schlanke Gebäudevorlage vor** — google.com | 2026-11-03 14:57 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://landesspiegel.li/2026/11/waermepumpe-darf-kuenftig-auch-kuehlen-regierung-legt-schlanke-gebaeudevorlage-vor/&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw3D1A8egWqYWCSsP9BZz4L7
+  > In der Volksabstimmung vom 21. Januar 2024 lehnte das Stimmvolk die Vorlage jedoch ab, ebenso jene zur  Photovoltaik - Pflicht . Laut der ...
+- **Energiewende in Basel: IWB investieren bis 2030 über 1 Milliarde - OnlineReports** — google.com | 2026-11-03 14:42 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://onlinereports.ch/a/energiewende-in-basel-iwb-investieren-bis-2030-ueber-1-milliarde&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw1sbWbdjRZGE4yH8ONdVK3j
+  > Die dezentrale Stromerzeugung, etwa durch die «Solaroffensive» mit  Photovoltaik - Pflicht  für bestehende Bauten, führt zu mehr Volatilität.
+- **Zeo Energy Promotes Kallen Konen to Vice President of Operations - Markets Insider** — google.com | 2026-11-03 14:41 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://markets.businessinsider.com/news/stocks/zeo-energy-promotes-kallen-konen-to-vice-president-of-operations-charles-ellis-to-senior-vp-of-sales-ty-easton-to-vp-of-sales-kalen-larsen-to-lead-marketing-operations-strategy-1036706880&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3my1Np3ILa3KKB-SnCZ4kR
+  > (Nasdaq: ZEO) (“Zeo,” or the “Company”) , a provider of  residential solar  and commercial long-duration energy-storage solutions, today announced a ...
+- **PM Surya Ghar: 1 lakh  rooftop solar  installations every every 4-5 days; target on track, says Joshi** — google.com | 2026-11-03 14:40 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.thehindu.com/business/Industry/pm-surya-ghar-1-lakh-rooftop-solar-installations-every-every-4-5-days-target-on-track-says-joshi/article71661338.ece&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2tKLHSfWn9MEOM5AAUMaMd
+  > The flagship  residential solar  programme currently has around 65.65 lakh beneficiaries and has crossed 55 lakh installations. Meanwhile, the ...
+- **Tesla wins trade zone status for Texas Megapacks, but China tariffs stay - Electrek** — google.com | 2026-11-03 14:30 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://electrek.co/2026/11/03/tesla-megapack-texas-foreign-trade-zone-china-tariffs/&ct=ga&cd=CAIyH2FhOGY3NzZlOTQxODg2ZmY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2wVyITT6lYAB80mrFxH_Ir
+  > ...  battery  cells. Duty rates on those parts go up to ... When tariffs escalated in April 2025, CFO Vaibhav Taneja said the impact on  energy storage  ...
+- **Aufdach-PV legt zu, Biomasse bleibt unterzeichnet - energate messenger** — google.com | 2026-11-03 14:07 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.energate-messenger.de/news/268501/aufdach-pv-legt-zu-biomasse-bleibt-unterzeichnet&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw0ZS5STOKCHoM7YVO7hlFnQ
+  > (Foto: Steag Solar Energy Solutions GmbH) Die Gebotsmenge für Aufdach- Photovoltaik  ist deutlich gestiegen. ...  EEG  Energie- Einkaufs- und Service GmbH ...
+- **Rooftop solar  installations on govt buildings reach 65% of target, remaining work underway** — google.com | 2026-11-03 14:02 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.aninews.in/news/business/rooftop-solar-installations-on-govt-buildings-reach-65-of-target-remaining-work-underway-pralhad-joshi20261103192943/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw263bsh0RCUWyzPuTrFLkv4
+  > Around 65 per cent of the targeted  rooftop solar  installations on government buildings have been completed, while work on the remaining 35 per ...
+- **Walmart Backs  Home Battery  Startup Base Power - ESG Today** — google.com | 2026-11-03 13:54 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.esgtoday.com/walmart-backs-home-battery-startup-base-power/&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1-YV_rrL94dOXb62l_R6Z9
+  > ...  home battery  systems and supporting grid reliability. Founded in 2023 ... Daily climate, sustainable finance &  policy  coverage. ✓ Subscribed ...
+- **Residential Energy Storage  Inverters Market Is Going to Boom - openPR.com** — google.com | 2026-11-03 13:46 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4680143/residential-energy-storage-inverters-market-is-going-to-boom&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0KuJeLpO6nLXwcgOrPPR-t
+  > Residential Energy Storage  Inverters Market Is Going to Boom |• SMA ...  trade  associations, industry journals, financial reports, and ...
+- **New  portable battery  moves towards local manufacturing - Energy Source & Distribution** — google.com | 2026-11-03 13:33 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://esdnews.com.au/new-portable-battery-moves-towards-local-manufacturing/&ct=ga&cd=CAIyHzJlNmE0NGFjNWNjYzIzOWY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0YpCjl2DfE-aJGBJ756PQr
+  > A Melbourne-developed  portable battery  that can power a home or be ...  Regulation  &  Policy  · Home Energy · In-Depth · Projects. Newsletter. Sign up ...
+- **Germany awards 288 MW in  rooftop solar  tender as interest rebounds - Renewables Now** — google.com | 2026-11-03 13:11 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://renewablesnow.com/news/germany-awards-288-mw-in-rooftop-solar-tender-as-interest-rebounds-1304242/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2JrB6nJqhy5pNJ3u92EXDX
+  > Germany's Federal Network Agency (BNetzA) has allocated support for 288 MW of  rooftop solar  projects in the latest tender round, in which interest ...
+- **Jahresendralley beim  Photovoltaik -Zubau: Erste Engpässe zeichnen sich ab** — google.com | 2026-11-03 13:09 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.finanznachrichten.de/nachrichten-2026-11/70019146-jahresendralley-beim-photovoltaik-zubau-erste-engpaesse-zeichnen-sich-ab-032.htm&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw3Zk9U6ZKCWHaiQwQnN1ll8
+  > Denn hohe Ölpreise machen neue Investitionen in  Förderung , Transport und Verarbeitung wieder attraktiv. Davon profitieren vor allem jene Unternehmen, ...
+- **MNRE Plans Second Phase of PM Surya Ghar by March 2027 - Energetica India** — google.com | 2026-11-03 12:33 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.energetica-india.net/news/mnre-plans-second-phase-of-pm-surya-ghar-by-march-2027&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3VwuDQj765t146TPv_l0Zu
+  > ...  rooftop solar  projects, said Joint Secretary JVN Subramanyam at the BRE Summit and Expo 2026. November 03, 2026. By Mrinmoy Dey. The Ministry of ...
+- **Technical area of ANEEL proposes changes to the rules for shared generation.** — google.com | 2026-11-03 12:21 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://canalsolar.com.br/en/aneel-mudancas-regras-geracao-compartilhada/&ct=ga&cd=CAIyHzU3MjY0NTI1NmRlNjk4NWI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw336BRVv4iLSgdJLHy7LJPN
+  > GC  Solar  23.61 GW GD  Solar  53.65 GW. Canal  Solar  ·  HOME  · Latest News · Market & Investments · International market · Politics &  Regulation  ...
+- **Octopus explores  home battery  storage tech with CATL and Amperex - Solar Power Portal** — google.com | 2026-11-03 12:09 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.solarpowerportal.co.uk/battery-storage/octopus-in-mou-with-catl-amperex-jv-ampace-for-home-battery-systems&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2MVo2K56HfvraNERNnVVf2
+  > According to Raymond Ye, president of  residential energy storage  systems at Ampace: “By bringing together CATL's leadership in battery innovation ...
+- **Germany awards 288MW  rooftop solar  in oversubscribed auction - PV Tech** — google.com | 2026-11-03 12:06 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.pv-tech.org/germany-awards-288mw-rooftop-solar-in-oversubscribed-auction/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2HokV2s4HYSSGqwkzYsFfD
+  > The Bundesnetzagentur's third  rooftop solar  auction held in 2026 marked the first one to be oversubscribed. Image:  Bill  Mead via Unsplash.
+- **Tchibo Kunden sparen bis zu 2.000 Euro auf  Photovoltaik -Anlagen und Wärmepumpen von ...** — google.com | 2026-11-03 11:38 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.presseportal.de/pm/9283/6383370&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw3IQaFLguBMR5mDSWdbuQPl
+  > Wer sich frühzeitig entscheidet, kann noch in diesem Jahr den Antrag auf  Förderung  stellen. Das Angebot ist nicht an einen Stromliefervertrag von ...
+- **Speichersystembonus 2027: Förderbedingungen und aktueller Stand - WKO** — google.com | 2026-11-03 11:30 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.wko.at/gewerbe-handwerk/elektro-gebaeude-alarm-kommunikation/speichersystembonus-foerderbedingungen-aktueller-stand&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw35xFyicd4YnGOV_s14yBbi
+  > Was Elektrotechnikbetriebe über die geplante  Förderung  wissen sollten und welche Voraussetzungen noch ungeklärt sind.
+- **Dach- Photovoltaik  erhält bei Ausschreibung Oktober 9,67 Cent je kWh - Finanznachrichten** — google.com | 2026-11-03 11:22 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.finanznachrichten.de/nachrichten-2026-11/70017730-dach-photovoltaik-erhaelt-bei-ausschreibung-oktober-9-67-cent-je-kwh-119.htm&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw1ip4okEW3V06JdIcwbrFlG
+  > ...  Photovoltaik -Aufdachanlagen. ... Denn hohe Ölpreise machen neue Investitionen in  Förderung , Transport und Verarbeitung wieder attraktiv.
+- **Dach- Photovoltaik  erhält bei Ausschreibung Oktober 9,67 Cent je kWh - Solarserver** — google.com | 2026-11-03 11:05 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.solarserver.de/2026/11/03/dach-photovoltaik-erhaelt-bei-ausschreibung-oktober-967-cent-je-kwh/&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw0f4SlN0v6VIUJNyoZvcEIq
+  > Dach- Photovoltaik  erhält bei Ausschreibung der BNetzA zum 1. Oktober 2026 eine  Vergütung  von durchschnittlich 9,67 Cent je kWh.
+- **Deye 16kWh All-in-One  Home ESS  Receives EUPD Top Innovation Award at All Energy ...** — google.com | 2026-11-03 11:04 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.pv-magazine.com/press-releases/deye-16kwh-all-in-one-home-ess-receives-eupd-top-innovation-award-at-all-energy-australia-2026/&ct=ga&cd=CAIyHzAxM2FiNDgxYzcxYjhlMDc6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw385AD4yphPKbBTKauGulCZ
+  > It reflects Deye's continued investment in  residential energy storage  innovation and its ability to translate local energy needs into integrated, ...
+- **Generate Capital and TurningPoint Energy open 3.5 MW community  solar  farm in Sandwich ...** — google.com | 2026-11-03 10:57 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://energiesmedia.com/sandwich-illinois-community-solar-energy/&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2F4SU5NUHgSNP84o231uHn
+  > ...  residential  and commercial electricity demand. ... It's the primary state-level  incentive  framework for community  solar  and distributed  solar  projects ...
+- **Graft claims cast doubt on  solar  scheme - Bangkok Post** — google.com | 2026-11-03 10:35 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.bangkokpost.com/thailand/general/3347515/graft-claims-cast-doubt-on-solar-scheme&ct=ga&cd=CAIyHzMyODA5ZDQ4ZTg4ZmI3OGQ6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1-RFA3LFBuHis3E_n-VHIA
+  > ...  energy storage  systems. He said the requirement to spend funds borrowed ...  Solar  panel  subsidy  · Thailand energy policy · Provincial electricity ...
+- **Open Access,  Rooftop Solar  to Support India's 350 GW Solar Target by 2030: IEA** — google.com | 2026-11-03 10:23 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.saurenergy.com/solar-energy-news/open-access-rooftop-solar-to-support-indias-350-gw-solar-target-by-2030-iea-12779143&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw3n-AHeGAY9-tsbnCZrVgHx
+  > This points to a gradual diversification of India's solar market, with  distributed solar  installations, including  rooftop solar , expected to account ...
+- **Solarer  Mieterstrom  für 220 Wohnungen in Rathenow -  Photovoltaik .eu** — google.com | 2026-11-03 10:04 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.photovoltaik.eu/mieterstrom/solarer-mieterstrom-fuer-220-wohnungen-rathenow&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw31iDSXzUVaLp8PIYLeE9br
+  > Die Firma Metergrid übernimmt die Abrechnung mit den Mieterinnen und Mietern. Insgesamt 416 Kilowatt Solarstrom und 216 Kilowattstunden ...
+- **Bangladesh needs $2bn investment to achieve 4,000mw  rooftop solar  target - Textile Today** — google.com | 2026-11-03 09:46 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.textiletoday.com.bd/bangladesh-needs-2bn-investment-to-achieve-4000mw-rooftop-solar-target&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1jXXAFqvfW0-4g0gG18QVQ
+  > ...  rooftop solar  expansion through  policy  incentives, easier financing, reduced import duties and improved  net-metering  benefits. IDCOL has already ...
+- **305 Megawatt an 60 Standorten – Ylektra veröffentlicht den Agri-PV-Atlas Deutschland** — google.com | 2026-11-03 09:24 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.de/news/1328997/Agri-PV-in-Deutschland-305-Megawatt-an-60-Standorten-Ylektra-veroeffentlicht-den-Agri-PV-Atlas-Deutschland.html&ct=ga&cd=CAIyGjJiNTJiNmZiZTYyN2FlMzc6Y29tOmRlOlVT&usg=AOvVaw0SITn5J4ZMj6Xj4CbTArqn
+  > ...  Solaranlage  nach § 85c  EEG  auf landwirtschaftlich genutzter Fläche gemeldet sind. ... Die 5,1-MWp-Anlage wird außerhalb der  EEG - Förderung  realisiert.
+- **Anker SOLIX Unveils XE Home Battery and  Balcony Solar  at All Energy Australia** — google.com | 2026-11-03 07:54 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.techbusinessnews.com.au/news/anker-solix-unveils-xe-home-battery-and-balcony-solar-at-all-energy-australia/&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1gL-F9Bqa4gjqyicR4cc6D
+  > Anker SOLIX showcased its XE Dual-Cycle home battery,  balcony solar  lineup and portable power products at All Energy Australia 2026 in Melbourne.
+- **Grid-forming vs. grid-following in  residential solar -plus-storage - pv magazine Global** — google.com | 2026-11-03 07:38 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.pv-magazine.com/2026/11/03/grid-forming-vs-grid-following-in-residential-solar-plus-storage/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1U4EAy2DbUbb2_wdEZsdFW
+  > ...  residential solar -plus-storage systems. Their analysis shows that the technology can also deliver higher economic returns, with a payback period ...
+- **California Legalizes  Balcony Solar  Panels: What to Know - LAmag** — google.com | 2026-11-03 07:23 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://lamag.com/politics/california-officially-legalizes-balcony-solar-what-does-this-mean-for-residents/&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw00yl8MXMX6I8I8TVSEc9LA
+  > California's new  balcony solar  law takes effect in 2027, allowing renters and homeowners to install affordable  plug-in solar  panels.
+- **Govt targets March rollout of PM Surya Ghar Phase 2, explores insurance cover for  rooftop solar** — google.com | 2026-11-03 07:21 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://energy.economictimes.indiatimes.com/news/renewable/govt-targets-march-rollout-of-pm-surya-ghar-phase-2-explores-insurance-cover-for-rooftop-solar/135482764&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2f5qy9hLsNLT5D-qsdm5v7
+  > The Indian government plans to launch the second phase of the PM Surya Ghar  rooftop solar  scheme by March 2027, while actively exploring insurance ...
+- **800 Watt-Grenze beim  Balkonkraftwerk ? Mehr einspeisen geht legal! - home&smart** — google.com | 2026-11-03 06:19 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.homeandsmart.de/800-watt-grenze-balkonkraftwerk-mehr-leistung-0053-100024&ct=ga&cd=CAIyHzZmOTY5ZTJjN2RkYmI4MjU6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw20fPyNmRVrGhNfi1ViFZTm
+  > Doch mit dem Maxxicharge V2+ Speicher und seiner integrierten ready2Plugin-Technologie geht ganz legal noch mehr. Wir verraten, welche  Regelung  dafür ...
+- **3 Auto Electrification Stocks With  Tariff  And EV Policy Exposure - Simply Wall St News** — google.com | 2026-11-03 05:47 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://simplywall.st/stocks/us/automobiles/nyse-dan/dana/news/3-auto-electrification-stocks-with-tariff-and-ev-policy-expo/amp&ct=ga&cd=CAIyH2FhOGY3NzZlOTQxODg2ZmY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw06PTwJ2ZSRDgL9sZxB-ufU
+  > Amprius Technologies generates about US$109 million from its  battery  business and has a market value of roughly US$1.3b. For investors focused on ...
+- **All 141 homes in a village in India get  rooftop solar  without residents paying a penny** — google.com | 2026-11-03 05:19 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.thecooldown.com/green-tech/khaira-india-free-rooftop-solar-homes/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2txhcWlakQwYnRei8RFHM0
+  > All 141 homes in a village in India get  rooftop solar  without residents paying a penny ...  Net metering  gives Khaira's residents a way to supply the ...
+- **[SMM ESS Flash] India's GERC Adopts Tariffs for 450 MW/900 MWh Gujarat  Battery  Storage** — google.com | 2026-11-03 04:27 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://news.metal.com/newscontent/104201748-smm-ess-flash-indias-gerc-adopts-tariffs-for-450-mw900-mwh-gujarat-battery-storage&ct=ga&cd=CAIyH2FhOGY3NzZlOTQxODg2ZmY6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0t911T95BZxvUuXnuqxOy1
+  > ...  tariff  structures on its website. The projects will help Gujarat meet its  energy storage  and renewable purchase obligations and improve balancing ...
+- **Uttarakhand Eases  Rooftop Solar  Agreement Rules - MVApulse** — google.com | 2026-11-03 04:00 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.mvapulse.com/uttarakhand-eases-rooftop-solar-agreement-rules/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw1qaShCRJCZKBKVyi59QEPm
+  > Uttarakhand Electricity Regulatory Commission streamlines PM Surya Ghar  rooftop solar  by allowing digital  net metering  agreements, ...
+- **LH launches first solar  net-metering  program for apartment complexes - The financial news** — google.com | 2026-11-03 03:54 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://en.fnnews.com/news/202611030939372489&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2hLfXlGdZ1N7uePog9yL-w
+  > According to Korea Land and Housing Corporation (LH) on the 3rd,  net metering  is a system under which customers with solar power generation ...
+- **SunEnergyXT 500 Lite: 3-kWh  balcony power plant  battery storage system for 999 euros** — google.com | 2026-11-03 02:52 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://basic-tutorials.com/news/sunenergyxt-500-lite-3-kwh-balcony-power-plant-battery-storage-system-for-999-euros/&ct=ga&cd=CAIyH2MyMTg2ODUwODljNmNmZTA6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0dPihshkV9dcn1CgPQu2R1
+  > SunEnergyXT 500 Lite: 3-kWh  balcony power plant  battery storage system for 999 euros ... According to the new standard, the status as a  plug-in solar  ...
+- **Rooftop solar's  day in the sun | Estates Gazette** — google.com | 2026-11-03 02:12 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.estatesgazette.co.uk/legal/rooftop-solars-day-in-the-sun/&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw10lGzZS-BwhPhRGx_GD_Fd
+  > ...  Rooftop Solar  in Commercial Real Estate. The research and market ...  Policy  is increasingly moving in favour of solar. The Future Buildings ...
+- **Base Power signs  home  energy supply deal with Walmart - Solar Builder** — google.com | 2026-11-03 02:03 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://solarbuildermag.com/residential-solar/base-power-signs-home-energy-supply-deal-with-walmart/&ct=ga&cd=CAIyHzU3MjY0NTI1NmRlNjk4NWI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw2Lzww6Ls6pyG6pF_Q-hA0U
+  > Tags: Base Power,  home  storage,  Residential Solar  ... large scale battery  energy storage  asset Global ESS likely to grow this year despite challenges, ...
+- **Gujarat Regulator Sets 1 MW Cap for  Net Metering  and Net Billing Projects - Mercom India** — google.com | 2026-11-03 01:39 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.mercomindia.com/gujarat-regulator-sets-1-mw-cap-for-net-metering-and-net-billing-projects&ct=ga&cd=CAIyHzgzMmVlNGU4Njc1NjA0NzI6Y29tOnpoLUNOOlVTOkw&usg=AOvVaw0w2LQAXaphcQ7wDGFMr8aZ
+  > The distributed RE regulations cover  net metering , net billing, gross metering, group  net metering , and virtual  net metering . November 2, 2026.
 
 ## Google Alerts · 重点公司（60 条）
 
-- **Портативная электростанция  Jackery  Explorer 100D помещается на ладони и ...** — google.com | 2026-11-03 02:45 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.notebookcheck-ru.com/Portativnaja-ehlektrostancija-Jackery-Explorer-100D-pomeshchaetsja-na-ladoni-i-bezopasna-dlja-aviapereljotov.1440647.0.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw16ucIschpUczxeEbI-u_E3
-  > У  Jackery  появилась новая портативная электростанция, которая помещается на ладони и при этом способна заряжать устройства с мощностью до 140 Вт.
-- **La station électrique Explorer 100D de  Jackery  peut tenir dans la paume de votre main et ...** — google.com | 2026-11-03 02:38 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.notebookcheck.biz/La-station-electrique-Explorer-100D-de-Jackery-peut-tenir-dans-la-paume-de-votre-main-et-etre-transportee-en-avion-en-toute-securite.1440561.0.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw19sCQJ6ohpzLolgZSuApxx
-  > Le  Jackery  Explorer 100D peut être emporté en avion en toute sécurité.  Jackery  propose une nouvelle station d'énergie portable suffisamment petite ...
-- **La estación de energía Explorer 100D de  Jackery  cabe en la palma de tu mano y es segura ...** — google.com | 2026-11-03 02:33 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.notebookcheck.org/La-estacion-de-energia-Explorer-100D-de-Jackery-cabe-en-la-palma-de-tu-mano-y-es-segura-para-viajar-en-avion.1440448.0.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw0boaj4Y2Fe3S86MQqPd-u0
-  > Jackery  tiene una nueva estación de energía portátil lo suficientemente pequeña como para caber en la palma de la mano, pero con potencia ...
-- **Black Friday green deals bieden zeldzame kortingen op MOD Bikes en flashsales van  EcoFlow** — google.com | 2026-11-03 01:10 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.headliner.nl/artikelen/black-friday-green-deals-bieden-zeldzame-kortingen-mod-bikes-flashsales-ecoflow-233829&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1vQKj37Ybx7InPh5dihtUR
-  > Vroege Black Friday-deals bieden zeldzame kortingen op MOD Bikes e-bikes,  EcoFlow  DELTA 3 Ultra-bundels, Worx-mulchers en ...
-- **This new 30,000mAh portable power station uses a reliable LFP battery and fits in the ... - TechRadar** — google.com | 2026-11-03 00:58 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.techradar.com/computing/this-new-30-000mah-portable-power-station-uses-a-reliable-lfp-battery-and-fits-in-the-palm-of-your-hand&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1GRa2HhXVHYW9YdRzWKitb
-  > Ecoflow  Delta 3 Plus Extra...  EcoFlow  DELTA 3 Plus · QVC - US · $599 · View · See all prices · Bluetti Solar Generator... Bluetti AC180T · Amazon.
-- **Базова допомога через "Дію": хто з українців може отримати гроші та скільки виплачуватимуть** — google.com | 2026-11-02 23:34 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://tehnofan.com.ua/2026/11/02/bazova-dopomoha-cherez-diyu-khto-z-ukrayintsiv-mozhe-otrymaty-hroshi-ta-skil%25CA%25B9ky-vyplachuvatymut%25CA%25B9/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0uJAAQPP0oxVz6jg0u-7pi
-  > EcoFlow  чи звичайний акумулятор: що вигідніше купити для квартири та скільки можна заощадити. Опубліковано. 6 години ago. 02.11.2026. nyaha IT.
-- **Solakon ONE gegen  Marstek  Jupiter C+: Welcher Speicher liefert wirklich ab? - home&smart** — google.com | 2026-11-02 23:31 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.homeandsmart.de/solakon-one-marstek-c-plus-modellvergleich-0059-100311&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw1NtCCmW54kDZeznzw41ATi
-  > Der Solakon ONE Speicher konnte im home&smart Test mit starker Performance und durchdachten Features überzeugen. Besonders positiv aufgefallen sind ...
-- **Tesla Powerwall  3 Adds Heat Pump Boost in Europe, Skips Canada | TeslaNorth.com** — google.com | 2026-11-02 23:14 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://teslanorth.com/2026/11/02/powerwall-3-heat-pump-europe-skips-canada/&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw3CrAp28uh5WsNVgtsDIHUZ
-  > Tesla  Energy launched Heat Pump Optimization for  Powerwall  3 and 3P in Europe last week. Canada and the US are not included.
-- **Jackery  Explorer 100D Launches With 96Wh Battery, 158W Output, and $99 Price** — google.com | 2026-11-02 23:01 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://androidguys.com/news/jackery-explorer-100d-launches-with-96wh-battery-158w-output-and-99-price/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw0YKS8zIyjZxa9KLAiI07V0
-  > Discover  Jackery's  new Explorer 100D power station: compact, airline-friendly, with fast USB-C charging for all your devices, starting at $99.
-- **Balkonkraftwerk Sets + 5kWh Speicher - Best of 2026 - home&smart** — google.com | 2026-11-02 22:59 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.homeandsmart.de/top-speicher-sets-5-kwh-balkonkraftwerk-0058-100492&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2aQe46jES6Fo3dpVsfFkiQ
-  > EcoFlow  STREAM Ultra X ist eine modulare, Plug-&-Play-Lösung zur Speicherung und Nutzung von Solarstrom — ideal für Balkonkraftwerke. Die dezentrale ...
-- **Tesla Powerwall  3 integrates heat pump optimization in Europe | KuCoin** — google.com | 2026-11-02 22:36 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.kucoin.com/news/flash/tesla-powerwall-3-integrates-heat-pump-optimization-in-europe&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw0lyVWd2MuDrhBENRgRG4Mi
-  > According to  Tesla's  support page, the  Powerwall  monitors electricity prices and solar generation throughout the day and sends one of two signals to ...
-- **¿Son culpables las estaciones de energía?: las baterías portátiles en la mira del régimen cubano** — google.com | 2026-11-02 22:12 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.infobae.com/cuba/2026/11/02/son-culpables-las-estaciones-de-energia-las-baterias-portatiles-en-la-mira-del-regimen-cubano/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0AEeioszCXuf0QIviF-L-p
-  > Un  ecoflow  tarda alrededor de 40 minutos en cargarse y consume unos 1,200 W durante ese lapso. El funcionario calculó que diez de estos ...
-- **Недооцененная альтернатива Bluetti: названа доступная зарядная станция для работы ...** — google.com | 2026-11-02 22:07 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://focus.ua/amp/digital/773385-nedoocenennaya-alternativa-bluetti-nazvana-dostupnaya-zaryadnaya-stanciya-dlya-raboty-doma-foto&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw2pb8SuI6-eT4JinaDiw9px
-  > Зарядная станция  Marstek  A500 Pro на 500 Вт мощности имеет аккумулятор LiFePO4 емкостью 518 Вт·ч и две розетки на 230 В. О преимуществах и ...
-- **EcoFlow  STREAM 5000 Solarspeicher 5 kWh inkl. Smart Meter für 1.230,93€ - klamm.de** — google.com | 2026-11-02 21:48 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.klamm.de/news/ecoflow-stream-5000-solarspeicher-5-kwh-inkl-smart-meter-fuer-123093-34N1617420.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw3-jHoQI9-0X8aNO4g0bhSo
-  > Der  EcoFlow  STREAM 5000 Solarspeicher mit 5 kWh und Smart Meter ist bei Mini Power für 1.230,93 Euro erhältlich.
-- **MOD Bikes and  EcoFlow  Offer Rare Black Friday Discounts on E-Bikes and Solar Kits** — google.com | 2026-11-02 21:38 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.kucoin.com/news/flash/mod-bikes-and-ecoflow-offer-rare-black-friday-discounts-on-e-bikes-and-solar-kits&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2_DOsHzAKt64nefzO46us3
-  > Following closely is  EcoFlow's  72-hour early bird Black Friday flash sale, featuring the 3072Wh DELTA 3 Ultra power station bundled with two 220W ...
-- **Зарядные станции 1-3 кВт в 2026: Allpowers,  EcoFlow , Anker - Andro-News** — google.com | 2026-11-02 21:37 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://andro-news.com/ru/zaryadnye-stantsii-1-3-kvt-2026-allpowers-r2500-v2-ecoflow-anker/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2fNJ7TgpUA4m27y11T1euG
-  > Зарядные станции на 1 — 3,5 кВт·ч перед зимой 2026/2027: честная битва Allpowers R2500 V2 против  EcoFlow , Anker и Marstek, ловушка пусковых токов и ...
-- **Jackery's  Palm-Sized Explorer 100D Power Station Lands at Walmart for $99** — google.com | 2026-11-02 21:29 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/6813c87f-1a4c-435e-9c78-9f14573719b2&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2Kn0nMeN6upDC0kckYrP0h
-  > Jackery's  Explorer 100D, the company's smallest portable power station, measures 4.6 by 3.4 by 3.4 inches, weighs 1.87 pounds and carries a 96Wh…
-- **Jackery's  Explorer 100D power station can fit in your palm and is safe for flights** — google.com | 2026-11-02 21:17 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.notebookcheck.net/Jackery-s-Explorer-100D-power-station-can-fit-in-your-palm-and-is-safe-for-flights.1440318.0.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw17idlVMslNdtfueg_iFJ9Q
-  > Jackery  has a new portable power station that is small enough to fit in one's palm, while packing enough power to charge devices at up to 140W.
-- **Tesla  launches heat pump optimization for  Powerwall  in Europe — Electrek - UA.NEWS** — google.com | 2026-11-02 21:01 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://ua.news/en/energetika/tesla-zapustila-v-evropi-optimizatsiiu-teplovikh-nasosiv-dlia-powerwall-electrek&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw3p_RYH3pYglc_YlhVj4_yq
-  > Tesla  has launched Heat Pump Optimization for  Powerwall  3 and  Powerwall  3P in Europe, enabling compatible heat pumps to store surplus solar or ...
-- **BYD sold more EVs last month than the US did all quarter - Electrek** — google.com | 2026-11-02 21:00 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw0JoTThmNmjYoGwJ6zihlYI
-  > Two  Tesla Powerwall  units mounted outside a home at dusk.  Tesla Powerwall  3 now boosts heat pumps to store cheap solar as heat · Avatar for Fred ...
-- **Tesla Powerwall  3 now boosts heat pumps to store cheap solar as heat - Electrek** — google.com | 2026-11-02 20:56 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://electrek.co/2026/11/02/tesla-powerwall-3-heat-pump-optimization-sg-ready/&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw3uEQrr8TgzjUWaY3_nV0JM
-  > Tesla's Powerwall  3 and 3P can now signal SG-Ready heat pumps to store surplus solar or cheap grid power as hot water. Here's how it works and its ...
-- **Jackery  выпустила мини-зарядную станцию ​​с LFP-аккумулятором весом всего 850 граммов** — google.com | 2026-11-02 20:19 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.ixbt.com/live/supply/jackery-vypustila-mini-zaryadnuyu-stanciyu-s-lfp-akkumulyatorom-vesom-vsego-850-grammov.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw250v39iWoIcPq5G7pC2CTt
-  > Компания  Jackery , производитель аксессуаров, представила Explorer 100D — свою самую компактную на сегодняшний день портативную зарядную станцию.
-- **Utilizzo di  EcoFlow  DELTA 3 1000 Air nel riscaldamento domestico: risultati dei test** — google.com | 2026-11-02 20:13 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://expert.com.ua/it/232075-vikoristannya-ecoflow-delta-3-1000-air-v-obihrivi-zhitla-rezultati-testuvan.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0QOCVpw2bseYI-ryfn7xaF
-  > ... ://expert.com.ua/230315-schodennik-hadzhetomana- ecoflow -delta-3-1000-air-pro-teplo-ta-trohi-svitlo.html.
-- **Монобанк повертає гроші за підписки на штучний інтелект: скільки можна економити** — google.com | 2026-11-02 20:04 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://tehnofan.com.ua/2026/11/02/monobank-povertaye-hroshi-za-pidpysky-na-shtuchnyy-intelekt-skil%25CA%25B9ky-mozhna-ekonomyty/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw3nZTlK-VpTMH1C1VIn3eky
-  > ПриватБанк розігрує  EcoFlow , MacBook та 40 тисяч гривень: хто може отримати подарунки. Опубліковано. 1 годину ago. 02.11.2026. nyaha IT.
-- **Зарядную станцию на 30 000 мАч разрешили брать в самолет: что за новинка от  Jackery** — google.com | 2026-11-02 20:01 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://naavtotrasse.ru/hi-tech/jackery-explorer-100d-2026-czena-harakteristiki-obzor.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2E5XOCQ6ceVLKRFcbQAKZt
-  > ...  Jackery . 2026-11-02 16:45 Технологии NaAvtotrasse. Компактная зарядная станция  Jackery  Explorer 100D получила LFP-аккумулятор со сроком службы до 8 ...
-- **Jackery  представила компактную электростанцию Explorer 100D на 30 000 мА·ч и ...** — google.com | 2026-11-02 19:52 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://cenyavto.com/jackery-predstavila-kompaktnuyu-elektrostancziyu-explorer-100d-na-30/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1FT3BJL9Qq9hQI-l1_xuNE
-  > Компания  Jackery  пополнила собственный ассортимент новой компактной электростанцией, которая получила название Explorer 100D.
-- **First solid-state  battery  for humanoid robots goes to anthropomorphic Iron - Notebookcheck** — google.com | 2026-11-02 19:48 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.notebookcheck.net/First-solid-state-battery-for-humanoid-robots-goes-to-anthropomorphic-Iron.1440230.0.html&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw0WknLiV0OO-q93TKTYztcz
-  > In fact,  Tesla battery  suppliers like CATL or Panasonic are both of the opinion that solid-state batteries will make more mass production sense ...
-- **Jackery  Unveils Compact Power Station With Solar Charging Support - Analytics Insight** — google.com | 2026-11-02 19:38 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.analyticsinsight.net/news/jackery-unveils-compact-power-station-with-solar-charging-support&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2nScbUMu07Fk1APhDxwpjV
-  > Jackery  introduces the Explorer 100D, a palm-sized 30000mAh portable power station with an LFP battery, three charging ports and solar support.
-- **Jackery  Shrinks Portable Power With the LFP-Equipped Explorer 100D - Streamline Feed** — google.com | 2026-11-02 19:11 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://streamlinefeed.co.ke/news/jackery-shrinks-portable-power-with-the-lfp-equipped-explorer-100d&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3UDvqrB5pU4blexQ-3MMGR
-  > Jackery  rates the 100D's LFP cells for up to 2,000 charge cycles before degrading to 80 percent of their original capacity, translating to roughly ...
-- **Rare Black Friday savings on MOD e-bikes - Electrek** — google.com | 2026-11-02 19:05 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://electrek.co/2026/11/02/black-friday-mod-easy-3-cruiser-e-bike-ecoflow-delta-3-ultra-solar-bundle-free-trail-200-more/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2YkAKcuCn2ER_96T4tcAME
-  > EcoFlow  Early Black Friday flash sale drops DELTA 3 Ultra 440W solar bundle + FREE TRAIL 200DC to $1,699, more.  EcoFlow  has officially launched its ...
-- **Jackery  запустит продажи электростанции Explorer 100D за 99 долларов** — google.com | 2026-11-02 18:42 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://cenyavto.com/jackery-zapustit-prodazhi-elektrostanczii-explorer-100d-za-99/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1p5LNCb6deFON3TT349W9x
-  > Компания  Jackery  официально сообщила о скором старте продаж новой переносной электростанции Explorer 100D. Главная особенность устройства ...
-- **Bis zu 45 Prozent Rabatt auf Speicherlösungen - forum Nachhaltig Wirtschaften** — google.com | 2026-11-02 18:20 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.forum-csr.net/News/26238/Bis-zu-45-Prozent-Rabatt-auf-Speicherloesungen.html&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw0Bs2dX3_42dLCy1cQ-eoka
-  > ...  Zendure  attraktive Angebote sichern. Der Black Friday steht wieder ... SolarFlow 1600 AC+ + 1 × AB2000L-Batterie ©  Zendure . Ob als ...
-- **Introducing  Jackery  Explorer 100D: The long-term mobile productivity partner redefining ...** — google.com | 2026-11-02 18:18 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://markets.businessinsider.com/news/stocks/introducing-jackery-explorer-100d-the-long-term-mobile-productivity-partner-redefining-portable-power-stations-on-the-ground-over-the-road-and-in-the-air-1036701710&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw03xY4zmcfvdA2zoDGZUX1p
-  > FREMONT, Calif., Nov. 02, 2026 (GLOBE NEWSWIRE) --  Jackery , the World's No.1 Solar Generator Brand as recognized by Frost & Sullivan, and a ...
-- **Massachusetts station's $39M accessibility upgrade now set to start after its old finish date** — google.com | 2026-11-02 18:04 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.thecooldown.com/green-tech/central-square-mbta-accessibility-upgrade-delay/&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw2fHzQfFG9MEERkFjRkRhlr
-  > Tesla's Powerwall  3 now tells heat pumps to store extra heat when electricity is cheap · Here's what to know · More background.
-- **Tesla  customer says  Powerwall  plan was rejected for lacking a pad they'd been told to delay** — google.com | 2026-11-02 17:59 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://shopping.yahoo.com/home-garden/home-improvement/articles/tesla-customer-says-powerwall-plan-171300103.html&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw391t3FSWx5rqlo4Vkc-NQg
-  > A Southern California homeowner says their  Tesla Powerwall  installation stalled after the company rejected a proposed location for lacking a ...
-- **Jackery  launches 96Wh Explorer 100D power station at Costco for $179.99 per two-unit bundle** — google.com | 2026-11-02 17:56 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://app.dealroom.co/news/feed/jackery-launches-96wh-explorer-100d-power-station-at-costco-for-179-99-per-two-unit-bundle&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2NIoNjKeRee949dCOr2FTz
-  > Jackery  has launched the Explorer 100D, a compact portable power station for professionals who work on the move. It has a 96Wh capacity that is ...
-- **Jackery  bringt Mini-Powerstation mit LFP-Akku - Futurezone** — google.com | 2026-11-02 17:47 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://futurezone.at/produkte/jackery-explorer-100d-powerstation-lpf-akku-akkupack/403202495&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw0tutUjehfZ8GqE9SUECXlV
-  > Das Gerät lädt auch Laptops und kann im Flugzeug mitgenommen werden. Der Zubehörhersteller  Jackery  hat mit der Explorer 100D seine bislang kleinste ...
-- **Jackery  Built Its Smallest Power Station Ever and It Fits in Your Carry-On** — google.com | 2026-11-02 17:36 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.androidheadlines.com/2026/11/jackery-explorer-100d-mini-power-station.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2jNy2QIlSVeK8pSXchKBth
-  > Jackery  launched the palm-sized Explorer 100D power station with LFP battery tech, dual USB-C ports, and TSA airplane carry-on approval.
-- **Jackery  Explorer 100D Redefines Portable Power With a Palm-Sized Design - TechEBlog** — google.com | 2026-11-02 17:34 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.techeblog.com/jackery-explorer-100d-portable-power-station-specs-price-release/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3DATbIGLWrkfK9XDOvTbRI
-  > Jackery's  Explorer 100D measures about 4.6 by 3.4 by 3.4 inches and weighs roughly 1.87 pounds, small enough to rest in one hand or disappear...
-- **Black Friday:  FoxESS  Avocado Orbit Pro im 2000-Watt-Set ab 999 Euro - Ruhr24** — google.com | 2026-11-02 17:30 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.ruhr24.de/kaufberatung/balkonkraftwerk-foxess-avocado-orbit-pro-im-2000-watt-set-ab-999-euro-black-week-cc-check-94570756.html&ct=ga&cd=CAIyHDQ2MjE5YWUzYzNkYTEwMzI6Y29tOmVuOlVTOkw&usg=AOvVaw15QXgQIo_e8XOmzIVdXdBP
-  > Black Week-Alarm: Das  FoxESS  Avocado Orbit Pro im Quattro-Set gibt's mit Speicher ab 999 Euro. Doch der Balkonanlagen-Deal ist nicht ...
-- **PARIS : Énergie –  Zendure  lance ses batteries domesti… - Presse Agence** — google.com | 2026-11-02 17:16 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://presseagence.fr/paris-energie-zendure-lance-ses-batteries-domestiques-face-a-la-nouvelle-tarification-electrique/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw35WQkzH8XWsn8p6O5TJHnl
-  > Fondée avec l'ambition d'accélérer la transition énergétique,  Zendure  est une entreprise mondiale spécialisée dans les systèmes de gestion de l' ...
-- **Sigenergy  bringt platzsparenden Gewerbespeicher auf den Markt - PV-Magazin** — google.com | 2026-11-02 17:12 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.pv-magazine.de/2026/11/02/sigenergy-bringt-platzsparenden-gewerbespeicher-auf-den-markt/&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw1Y50tSw6xz06JHwxPaz5i9
-  > Sigenergy  bringt einen kompakten Batteriespeicher auf den Markt, der sowohl für Gewerbe- und Industriekunden als auch das Kraftwerkssegment gedacht ...
-- **Introducing  Jackery  Explorer 100D: The long-term mobile productivity partner ... - StreetInsider** — google.com | 2026-11-02 17:11 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.streetinsider.com/Globe%2BNewswire/Introducing%2BJackery%2BExplorer%2B100D%253A%2BThe%2Blong-term%2Bmobile%2Bproductivity%2Bpartner%2Bredefining%2Bportable%2Bpower%2Bstations%2Bon%2Bthe%2Bground%252C%2Bover%2Bthe%2Broad%2Band%2Bin%2Bthe%2Bair/27272125.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3y9zVWQHhIt9-WazuTOv2_
-  > FREMONT, Calif., Nov. 02, 2026 (GLOBE NEWSWIRE) --  Jackery , the World's No.1 Solar Generator Brand as recognized by Frost & Sullivan, ...
-- **ASCII.jp：「 Jackery  ポータブル電源 3600 Plus」に新カラーが登場！明るいインテリアにもなじみ ...** — google.com | 2026-11-02 17:00 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://ascii.jp/elem/000/004/447/4447807/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1ChoYLPIjiSd4kibcWFzrq
-  > Jackery  Japan ～ふだんは白い家具のように、いざという時は頼れる大容量の電源に～ ポータブル電源およびソーラーパネルの世界的リーディング ...
-- **「 Jackery  ポータブル電源 3600 Plus」に新カラーが登場！明るいインテリアにもなじみやすい ...** — google.com | 2026-11-02 16:42 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.jiji.com/jc/article%3Fk%3D000000372.000039188%26g%3Dprt&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3JDLWIQb9IDVA92TAtAMs1
-  > ［ Jackery  Japan］. ～ふだんは白い家具のように、いざという時は頼れる大容量の電源に～ ポータブル電源およびソーラーパネルの世界的リーディング ...
-- **Sigenergy  Ranks as a BloombergNEF Tier 1 Energy Storage Manufacturer in Q4 2026** — google.com | 2026-11-02 16:02 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dindex%26category%3Dglobenewswire%26newsid%3D9867853%26lang%3Den&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw0qRpKpWsWy7CHF5Rc5vhmB
-  > SHANGHAI, Nov. 02, 2026 (GLOBE NEWSWIRE) --  Sigenergy , a global pioneer in next-generation energy st...
-- **Топ портативних зарядних станцій 2026 року - Companion UA** — google.com | 2026-11-02 15:49 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://companion.ua/top-portatyvnykh-zariadnykh-stantsii-2026-roku/amp/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2smnAO9ly1-35kfG7icbOO
-  > Які зарядні станції найкращі у 2026 році? · Яка модель Bluetti Elite 200 V2? · Яка модель Jackery Explorer 1000 v2? · Яка модель  EcoFlow  River 3 Plus?
-- **EcoFlow  Early Black Friday flash sale drops DELTA 3 Ultra 440W solar bundle + FREE ...** — google.com | 2026-11-02 15:41 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://9to5toys.com/2026/11/02/ecoflow-early-black-friday-flash-sale-delta-3-ultra-440w-solar-bundle/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1A0pxJ4jDWMxPWovZpsY2N
-  > It starts directly from  EcoFlow  with a newer $1,999 MSRP these days, while we still see it climb as high as $2,599 at Amazon. Since July ended, we've ...
-- **Sigenergy 在2026年第四季度跻身彭博新能源财经一级储能制造商行列 - Moomoo** — google.com | 2026-11-02 15:24 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/hans/news/post/1003172371/sigenergy-ranks-as-a-bloombergnef-tier-1-energy-storage-manufacturer&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw26T1Ghc-3zjUumM6YSKLYD
-  > SHANGHAI, Nov. 02, 2026 (GLOBE NEWSWIRE) --  Sigenergy , a global pioneer in next-generation energy storage solutions, has just been designated as a ...
-- **Laatste winter met saldering:  Zendure  geeft tot 43 procent korting op thuisaccu's (ADV)** — google.com | 2026-11-02 15:02 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://fwd.nl/smarthome/laatste-winter-met-saldering-zendure-geeft-tot-43-procent-korting-op-thuisaccus-adv/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw3tK2AXk7Mamo_qGt6pGAy_
-  > Precies op dat moment begint  Zendure  zijn Black Friday-campagne in Nederland. Van 2 november tot en met 7 december loopt er tot 43 procent korting op ...
-- **Balkonkraftwerk-Speicher 2026: Anker, Jackery, Solakon und  EcoFlow  im Preis-Check - Ruhr24** — google.com | 2026-11-02 14:44 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.ruhr24.de/kaufberatung/beste-speicher-balkonkraftwerk-solarbank-4-pro-cc-5-kwh-vergleich-alternativen-black-month-94453425.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw3dgR0asTbFpFCkeY6mi_S8
-  > Fünf starke Kandidaten treten gegen den Marktführer an: Maxxisun/Maxxicharge, Jackery SolarVault 3 Pro Max, Solakon ONE,  EcoFlow  STREAM 5000 und ...
-- **Pengembang Royal Golden Beri Hak Jawab, Tegaskan Tak Pernah Menutup Drainase di ...** — google.com | 2026-11-02 14:29 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://indovizka.com/news/detail/23671/pengembang-royal-golden-beri-hak-jawab-tegaskan-tak-pernah-menutup-drainase-di-jalan-sultan-syarif-kasim&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw0fk8E3q6qqLptntXqFxY7w
-  > Sigenergy  Ranks as a BloombergNEF Tier 1 Energy Storage Manufacturer in Q4 2026. 02 November 2026. Ascott Presents Its Fifth Edition of The Famous ...
-- **Топ-3 зарядних станцій для придбання у 2026 році: результати тестування моделей** — google.com | 2026-11-02 14:26 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://1news.com.ua/tsikave/top-3-zaryadnyh-stantsij-dlya-prydbannya-u-2026-rotsi-rezultaty-testuvannya-modelej.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw3ilatAb43aKXLeQvYhIfpq
-  > швидка зарядка. Мінуси Jackery Explorer 1000 v2: обмежений контроль над додатками порівняно з іншими брендами.  EcoFlow  River 3 Plus.
-- **Какую зарядную станцию купить в 2026 году: 3 лучшие модели по результатам тестов** — google.com | 2026-11-02 14:19 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://my.ua/news/cluster/2026-11-02-iaku-zariadnu-stantsiiu-kupiti-u-2026-rotsi-3-naikrashchi-modeli-za-rezultatami-testiv&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0dtFgr9NYNV6aWqb-4nMR2
-  > быстрая зарядка. Недостатки Jackery Explorer 1000 v2: ограниченный контроль над приложениями по сравнению с другими брендами.  EcoFlow  River 3 Plus.
-- **Какую зарядную станцию купить в 2026 году: 3 лучшие модели по результатам тестов (фото)** — google.com | 2026-11-02 14:12 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://focus.ua/amp/digital/773302-kakuyu-zaryadnuyu-stanciyu-kupit-v-2026-godu-3-luchshie-modeli-po-rezultatam-testov-foto&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2fWLSuxGquEQhwwTNeGp69
-  > Недостатки Jackery Explorer 1000 v2: ограниченный контроль над приложениями по сравнению с другими брендами.  EcoFlow  River 3 Plus. Зарядная ...
-- **Яку зарядну станцію купити у 2026 році: 3 найкращі моделі за результатами тестів (фото)** — google.com | 2026-11-02 14:10 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://focus.ua/uk/digital/773302-yaku-zaryadnu-stanciyu-kupiti-u-2026-roci-3-naykrashchi-modeli-za-rezultatami-testiv-foto&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw00QD0egAi4Da1xIWzmHyTh
-  > Bluetti Elite 200 V2 · Jackery Explorer 1000 v2 ·  EcoFlow  River 3 Plus · Подождите...
-- **Sigenergy 、2026年第4四半期にBloombergNEFのティア1エネルギー貯蔵メーカーにランクイン** — google.com | 2026-11-02 13:44 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/ja/news/post/1003172371/sigenergy-ranks-as-a-bloombergnef-tier-1-energy-storage-manufacturer&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw3mIn7Etf7kZrsuGF4d3odk
-  > 上海、2026年11月2日（GLOBENEWSWIRE）――次世代エネルギー貯蔵ソリューションの世界的な先駆者である Sigenergy は、2026年第4四半期において、 ...
-- **Sigenergy : Neuer Kompaktspeicher SigenCube für Großprojekte - Finanznachrichten** — google.com | 2026-11-02 13:21 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.finanznachrichten.de/nachrichten-2026-11/70007137-sigenergy-neuer-kompaktspeicher-sigencube-fuer-grossprojekte-119.htm&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw0d1nrAXhiUunkwB-V1-WPo
-  > Batteriespeicherproduzent  Sigenergy  stößt in den Markt für Großprojekte vor. Das Unternehmen will im deutschsprachigen Raum mit dem ...
-- **Топ-3 недорогих зарядних станцій для ноутбуків осені 2026 року: огляд кращих моделей** — google.com | 2026-11-02 13:17 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://1news.com.ua/tsikave/top-3-nedorogyh-zaryadnyh-stantsij-dlya-noutbukiv-oseni-2026-roku-oglyad-krashhyh-modelej.html&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw1zv09IePsfmsnu7AJTteSB
-  > Marstek  A300 Pro (300 Вт). Найдоступніший варіант у добірці, що пропонує рідкісний для бюджетного сегмента набір виходів. Усередині встановлено ...
-- **Використання  EcoFlow  DELTA 3 1000 Air в обігріві житла результати тестувань - Ukr.net** — google.com | 2026-11-02 13:15 UTC
-  https://www.google.com/url?rct=j&sa=t&url=https://www.ukr.net/news/details/technologies/120298229.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1CSnGj2Q914UeN_wb2PROq
-  > Використання  EcoFlow  DELTA 3 1000 Air в обігріві житла результати тестувань. 2 листопада о 03:25. Отже, опалюваний сезон. В попередньому випуску ...
+- **Jackery 、大容量高出力ポータブル電源に新色ホワイト - エキサイトニュース** — google.com | 2026-11-04 00:25 UTC
+  https://www.google.com/url?rct=j&sa=t&url=http://www.excite.co.jp/news/article/kaden_watch_1490505674143252682/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3XSFsGNLitI11uqa-qX2XB
+  > Jackery  Japan(ジャクリ)は、「 Jackery  ポータブル電源 3600 Plus」の新...
+- **Jackery 、大容量高出力ポータブル電源に新色ホワイト（家電 Watch） - Yahoo!ニュース** — google.com | 2026-11-04 00:23 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://news.yahoo.co.jp/articles/a61793e92c4c52418a61e546e7cf4dfd84a812f8&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3qesQo-_7vi6O5sDji8PyL
+  > Jackery  Japan(ジャクリ)は、「 Jackery  ポータブル電源 3600 Plus」の新色パールホワイトを、公式オンラインストア限定で11月1日に発売した。
+- **Jackery 、大容量高出力ポータブル電源に新色ホワイト - 家電 Watch** — google.com | 2026-11-04 00:07 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://kaden.watch.impress.co.jp/docs/news/2153126.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2vFlENoqiGJAfLZPxJ8OM7
+  > Jackery  Japan(ジャクリ)は、「 Jackery  ポータブル電源 3600 Plus」の新色パールホワイトを、公式オンラインストア限定で11月1日に発売した。価格は399,800 ...
+- **Компактная электростанция  Jackery  Explorer 100D: 30 000 мА·ч и 8 лет работы в ладони** — google.com | 2026-11-03 23:25 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://echo.msk.ru/news/tehnologii/kompaktnaya-elektrostantsiya-jackery-explorer-100d-30-000-ma-ch-i-8-let-raboty-v-ladoni/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw0A4RC19hF1e9Lws8SlSN58
+  > ⁠6. И ее даже можно брать с собой в самолет. Компания  Jackery  представила компактную портативную электростанцию Explorer 100D, которую можно легко ...
+- **Компактная электростанция  Jackery  Explorer 100D: 30 000 мА·ч и 8 лет надежности** — google.com | 2026-11-03 23:25 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://echo.msk.ru/news/tehnologii/kompaktnaya-elektrostantsiya-jackery-explorer-100d-30-000-ma-ch-i-8-let-nadezhnosti/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3t9Z912qXocij-xcG80QdD
+  > Jackery  ориентирует Explorer 100D как решение прежде всего для владельцев техники Apple. Устройство поддерживает технологию AVS (Adjustable Voltage ...
+- **jackery  australia launches massive black friday sale of solar generators to power up ... - Attachment** — google.com | 2026-11-03 22:29 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.globenewswire.com/NewsRoom/AttachmentNg/ef4e59e6-121d-410b-831b-10c610e2dce1&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1-LC3GREs5nWKhTdEV6TeU
+  > Jackery  is lining up a massive Black Friday and Cyber Monday sale to look out for, with offers of up to over 50% off on select portable power ...
+- **เตือนภัยโซลาร์ภาคประชาชน: อินเวอร์เตอร์  Sigenergy  ถูกเรียกคืนในออสเตรเลียเสี่ยงไฟไหม้** — google.com | 2026-11-03 22:15 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://th.headtopics.com/news/364836053639362135184-89513236&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw2vnOX2SVO4fqYXRTICARNp
+  > การไฟฟ้าส่วนภูมิภาคยืนยันอินเวอร์เตอร์  Sigenergy  รุ่น SigenStor EC 10.0 SP ผ่านการขึ้นทะเบียน ...
+- **EcoFlow  Launches the TITAN Series Whole-Home Backup Ecosystem with Up to $2199 in Savings** — google.com | 2026-11-03 22:05 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.kucoin.com/news/flash/ecoflow-launches-titan-series-whole-home-backup-ecosystem-with-up-to-2-199-savings&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0A1lwfngHDcAKcQZ9mRtJr
+  > CoinDesk reports:Today, we're bringing you a curated selection of Green Deals, headlined by  EcoFlow's  newly launched TITAN Series Whole-Home ...
+- **EcoFlow 推出TITAN系列整屋备用供电生态系统，最高省2199美元- 币界网** — google.com | 2026-11-03 22:04 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.528btc.com/news/116418600.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2lumqlRbdXAX5gfQmif3Ti
+  > EcoFlow 推出新的TITAN Series Whole-Home Backup Ecosystem，起售价2374.05美元，最高可省2199美元；Lectric发布XP4 750限量版电动自行车，随车赠送最高840 ...
+- **Italiaans fietsmerk met naam en faam in gerechtelijke herstructurering na focus op e-bike** — google.com | 2026-11-03 21:45 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://techpulse.be/nieuws/507177/italiaans-fietsmerk-met-naam-en-faam-in-gerechtelijke-herstructurering-na-focus-op-e-bike/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw1dumqf3yihLiCkXzvtXrKX
+  > Jongste update Windows 11 vereenvoudigt overzetten instellingen en apps naar nieuwe pc. 3 november 2026 15:27.  Zendure  SolarFlow 2400 AC+ ·  Zendure  ...
+- **Jackery  Australia Launches Massive Black Friday Sale of - GlobeNewswire** — google.com | 2026-11-03 21:05 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.globenewswire.com/news-release/2026/11/03/3394724/0/en/jackery-australia-launches-massive-black-friday-sale-of-solar-generators-to-power-up-summer-closer-to-home.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw36B--c9RzVxtrvqFTgEcLD
+  > Jackery  Australia announces savings up to $3600 on solar generators and portable power stations ahead of Black Friday and Cyber Monday deal events ...
+- **Review: De  Marstek  Venus E 3.0 is een compacte en betaalbare thuisbatterij, maar met ...** — google.com | 2026-11-03 20:38 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.hln.be/tech/review-de-marstek-venus-e-3-0-is-een-compacte-en-betaalbare-thuisbatterij-maar-met-compromissen~a79689bd/&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw1HHKqvvl6S9CMe6uBHDgsx
+  > De  Marstek  Venus E 3.0 is een betaalbare thuisbatterij met een compact ontwerp en een goed rendement. De eenvoudige app mag wel bijgestuurd worden ...
+- **Marstek  Venus D sieht besser aus, doch die Anker SOLIX 4 macht ihn technisch platt** — google.com | 2026-11-03 20:25 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.homeandsmart.de/anker-solix-4-vs-marstek-venus-d-speicher-0027-962923&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw0tAHRvkfLhjc5T1aU1zR69
+  > Anker SOLIX 4 vs.  Marstek  Venus D im Vergleich ▶️Kapazität, Zyklen, PV-Leistung, Design und Preis pro kWh – wir verraten, welcher Balkonspeicher ...
+- **Zendure  Announces Black Friday 2026 Deals: Up to 45% Off Smart Plug-in Energy Storage Solutions** — google.com | 2026-11-03 19:19 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.recnews.it/2026/11/03/zendure-announces-black-friday-2026-deals-up-to-45-off-smart-plug-in-energy-storage-solutions/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw2q-i2azm9DXcik0Ukpvbb-
+  > Zendure's mission is to empower every household worldwide with the ultimate freedom of energy control. We deliver this through the SolarFlow ecosystem ...
+- **EcoFlow  launches TITAN Series backup ecosystem with up to $2,199 savings, Lectric ...** — google.com | 2026-11-03 19:12 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://electrek.co/2026/11/03/ecoflow-titan-series-whole-home-backup-ecosystem-lectric-limited-edition-xp4-750-e-bike-more/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2xp5nsbpuHIhldAyfN2VDP
+  > EcoFlow  launches TITAN Series backup ecosystem with up to $2,199 savings, Lectric limited-edition XP4 750 e-bike deals, more ... We've got an exciting ...
+- **D.Solutions запустила керування станціями  Marstek  через мобільний застосунок - РБК-Україна** — google.com | 2026-11-03 19:08 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.rbc.ua/rus/news/d-solutions-zapustila-keruvannya-stantsiyami-1793720064.html&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw2oNLXcCEv7AfPQpbFHWutm
+  > Компанія D.Solutions, яка працює під брендом YASNO, інтегрувала систему енергоменеджменту YASNO Power EMS у зарядні станції  Marstek , що дозволить ...
+- **Nio adds 10 million  battery  swaps in 88 days, taking total past 130 million - CnEVPost** — google.com | 2026-11-03 18:34 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://cnevpost.com/2026/11/03/nio-battery-swaps-130-million/&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw2D9b2_aUw0UVuI-1iCXzpS
+  > Tesla  · Zeekr · Xiaomi · Huawei · CATL ·  Battery  ...  battery  swap station platform, A ...
+- **Yasno інтегрувала систему енергоменеджменту в зарядні станції  Marstek  - Гордон** — google.com | 2026-11-03 17:20 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://gordonua.com/ukr/section-science/news-yasno-intehruvala-systemu-enerhomenedzhmentu-v-zaryadni-stantsiyi-marstek-03-11-2026.html&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw27px70mq5-1R-hGKcu2eV_
+  > Компанія Yasno інтегрувала систему енергоменеджменту Yasno Power EMS у зарядні станції  Marstek . Власники обладнання...
+- **Yasno интегрировала систему энергоменеджмента в зарядные станции  Marstek** — google.com | 2026-11-03 17:18 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://gordonua.com/section-science/news-yasno-intehruvala-systemu-enerhomenedzhmentu-v-zaryadni-stantsiyi-marstek-03-11-2026.html&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw0sOBreEdCymBJkp3dE1u_z
+  > Компания Yasno интегрировала систему энергоменеджмента Yasno Power EMS в зарядные станции  Marstek . Владельцы...
+- **Black Diamond Megawatt Headlamp - CoolThings.com** — google.com | 2026-11-03 16:23 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.coolthings.com/black-diamond-megawatt-headlamp-3000-lumens-six-led-array-50wh-battery-44-hours-runtime/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw0Ix_vEHmntDCZfrscXXQG2
+  > Jackery  Explorer 100D Shrinks the Portable Power Station Into Power Bank Size. November 2, 2026. GADGETS. For casual on-the-go charging needs, a ...
+- **EcoFlow  STREAM AC 5000: Starker AC-Speicher im Test - Computer Bild** — google.com | 2026-11-03 16:01 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.computerbild.de/artikel/Tests-Energie-EcoFlow-STREAM-AC-5000-im-Test-Praezise-geregelt-stark-bei-Notstrom-9b4aafb-41185699.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1E82SfSjtn82ArECIaBlsR
+  > Die  EcoFlow  STREAM AC 5000 erweitert bestehende Solaranlagen um rund 5 Kilowatt Speicher. Wir prüften, wie präzise der AC-Speicher Energie ...
+- **D.Solutions запустил возможность управления домашними зарядными станциями ...** — google.com | 2026-11-03 15:55 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.obozrevatel.com/section-ekonomika-glavnaya/economy/news-d-solutions-zapustyv-mozhlyvist-keruvannya-domashnimy-zaryadnymy-stantsiyamy-marstek-cherez-mobilnyy-zastosunok-03-11-2026.html&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw3gUYbS4RrUGYb05aDsbzeY
+  > Компания D.Solutions, работающая под брендом YASNO, интегрировала систему энергоменеджмента YASNO Power EMS в зарядные станции  Marstek , ...
+- **D.Solutions запустила керування станціями  Marstek  через мобільний застосунок: як це працює** — google.com | 2026-11-03 15:54 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://snn.ua/news/d-solutions-zapustyla-keruvannia-stantsiiamy-marstek-cherez-mobilnyi-zas-4be798a7/&ct=ga&cd=CAIyHGFlYTZlYzQ3MmJkYWI4ZTQ6Y29tOmVuOlVTOkw&usg=AOvVaw0Jf_eXY_vn6uzGZaTvJIdc
+  > Solutions, яка працює під брендом YASNO, інтегрувала систему енергоменеджменту YASNO Power EMS у зарядні станції  Marstek . Джерело: РБК-Україна Читати ...
+- **Цены на зарядные станции могут удивить украинцев: что происходит в COMFY и Цитрусе** — google.com | 2026-11-03 15:39 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://novyny.live/ru/ekonomi/investitsiia-na-zimu-skolko-stoiat-populiarnye-zariadnye-stantsii-v-ukraine-352390.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw3YRnKAlMOSyl_EAbD2sMY4
+  > ALLPOWERS R2500 V2 (2500 Вт, 1920 Вт/ч) — 49 999 грн;; Oscal PowerMax 1800 SE (1800 Вт, 1024 Вт/ч) — 29 999 грн (скидка 2 000 грн);;  EcoFlow  DELTA 3 ...
+- **45%引き！Amazon、走行充電器「 EcoFlow  Alternator Charger 600」 - Jetstream BLOG** — google.com | 2026-11-03 15:31 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://jetstream.blog/2026/11/04/ecoflow-alternator-charger-600-amazon-timesale-20261104/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0lNn7J54lWeh1Ij25BdDMx
+  > 国内 Amazon.co.jp にて、最大出力 600W の急速走行充電に対応するポータブル電源用の  EcoFlow  製走行充電器「 EcoFlow  Alternator Charger 600」が 45% 引き ...
+- **EcoFlow  TITAN Series Whole-Home Backup Ecosystem launches with up to $2,199 savings ...** — google.com | 2026-11-03 15:24 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://9to5toys.com/2026/11/03/ecoflow-titan-series-whole-home-backup-ecosystem-launch/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1X8h9TaKXDcI2Mf1omeTaS
+  > This new  EcoFlow  system is similar to Anker's SOLIX E10 system, with any of the models you choose bringing along more flexible backup support for your ...
+- **Zendure  Black Friday deals voor de thuisbatterij - CooleSuggesties** — google.com | 2026-11-03 15:14 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.coolesuggesties.nl/zendure-sale-solarflow-aanbiedingen/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw1XccO7F7DnW8qE1BThCYf6
+  > Met de onzekerheid rondom salderen is een thuisbatterij dé oplossing. Bekijk de  Zendure  Black Friday deals en bespaar deze winter fiks op je ...
+- **Deze slimme stekkers ontdekken welke apparaten ongemerkt stroom verspillen** — google.com | 2026-11-03 15:08 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.androidplanet.nl/deals/p1-meter-thuisbatterij-vergelijken/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw3_dTPMTkdxwKZJpLeCiL94
+  > Een thuisbatterij kiezen of slim aansturen? Ontdek waarom een P1-meter onmisbaar is en vergelijk HomeWizard,  Zendure  en Anker.
+- **Jackery's  Palm-Sized Power Station Packs 140W USB-C Charging - The Gadgeteer** — google.com | 2026-11-03 14:44 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://the-gadgeteer.com/2026/11/03/jackery-explorer-100d-portable-power-station/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw10n-l3Ck1Hrez61SJhBybO
+  > The  Jackery  Explorer 100D packs a 96Wh battery, up to 140W USB-C charging, and three USB ports into a compact power station built for everyday ...
+- **Ce système stocke l'énergie de vos panneaux solaires, et il coûte des cacahuètes cet hiver ⚡️** — google.com | 2026-11-03 14:39 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.01net.com/bons-plans/ce-systeme-stocke-lenergie-de-vos-panneaux-solaires-et-il-coute-des-cacahuetes-cet-hiver.html&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw2ZJRxtUv18DZvsiomZicm9
+  > Le  Zendure  SolarFlow 800 Plus est une station portable qui stocke le surplus de l'énergie de vos panneaux solaires. C'est un excellent moyen ...
+- **Менше 23% будинків Бучанської громади долучилися до програми «СвітлоДім».** — google.com | 2026-11-03 14:37 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.ukr.net/news/details/kyiv/120321316.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2FAtBuGOV2-utoaCMSbRZM
+  > В Ірпінській громаді розширюють мережу пунктів для заряджання гаджетів та  EcoFlow  · Ірпінська міська рада — вул. · Ірпінська міська публічна бібліотека ...
+- **Black Friday begint vroeg: deze thuisbatterij deals van  Zendure  wil je niet missen - XGN.nl** — google.com | 2026-11-03 14:21 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.xgn.nl/nieuws/black-friday-begint-vroeg-deze-thuisbatterij-deals-van-zendure-wil-je-niet-missen&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw2GWvQXZNVC1WmbxA2a-4ky
+  > Zendure  trapt Black Friday 2026 vroeg af met flinke kortingen op thuisbatterijen en SolarFlow-systemen. Profiteer nu al van deals met 40 procent ...
+- **Zendure  geeft tot €840 korting op allerlei plug-in-thuisbatterijen voor Black Friday** — google.com | 2026-11-03 14:18 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://techpulse.be/nieuws/507221/zendure-geeft-tot-e840-korting-op-allerlei-plug-in-thuisbatterijen-voor-black-friday/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw0f05Ijs6zf-d0PFF8qBG6d
+  > Black Friday is nog wel een paar weken weg, maar  Zendure  heeft zijn eerste thuisbatterijdeals voor het dealfestijn al klaarstaan.
+- **Zendure  zum Black Friday: Bis zu 45 Prozent Rabatt auf Speicherlösungen** — google.com | 2026-11-03 14:08 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.hartware.de/2026/11/03/zendure-zum-black-friday-bis-zu-45-prozent-rabatt-auf-speicherloesungen/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw1lAqo3sDxaavIInSAVjs3c
+  > SolarFlow 2400 AC+ + 1 × AB3000L-Batterie: 1.198 Euro (statt 1.798 Euro) – 600 Euro Ersparnis (rund 33 Prozent) und  Zendure  Smart Meter D0 im Wert von ...
+- **ฉิบหายละ! เจมส์ สุจินดา แฉโซลาร์เสี่ยงไฟไหม้ ออสเตรเลียสั่งเรียกคืน พบชื่อรุ่นในบัญชี PEA จี้ตรวจด่วน ...** — google.com | 2026-11-03 14:04 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/MGRNEWS1/posts/-%25E0%25B8%2589%25E0%25B8%25B4%25E0%25B8%259A%25E0%25B8%25AB%25E0%25B8%25B2%25E0%25B8%25A2%25E0%25B8%25A5%25E0%25B8%25B0-%25E0%25B9%2580%25E0%25B8%2588%25E0%25B8%25A1%25E0%25B8%25AA%25E0%25B9%258C-%25E0%25B8%25AA%25E0%25B8%25B8%25E0%25B8%2588%25E0%25B8%25B4%25E0%25B8%2599%25E0%25B8%2594%25E0%25B8%25B2-%25E0%25B9%2581%25E0%25B8%2589%25E0%25B9%2582%25E0%25B8%258B%25E0%25B8%25A5%25E0%25B8%25B2%25E0%25B8%25A3%25E0%25B9%258C%25E0%25B9%2580%25E0%25B8%25AA%25E0%25B8%25B5%25E0%25B9%2588%25E0%25B8%25A2%25E0%25B8%2587%25E0%25B9%2584%25E0%25B8%259F%25E0%25B9%2584%25E0%25B8%25AB%25E0%25B8%25A1%25E0%25B9%2589-%25E0%25B8%25AD%25E0%25B8%25AD%25E0%25B8%25AA%25E0%25B9%2580%25E0%25B8%2595%25E0%25B8%25A3%25E0%25B9%2580%25E0%25B8%25A5%25E0%25B8%25B5%25E0%25B8%25A2%25E0%25B8%25AA%25E0%25B8%25B1%25E0%25B9%2588%25E0%25B8%2587%25E0%25B9%2580%25E0%25B8%25A3%25E0%25B8%25B5%25E0%25B8%25A2%25E0%25B8%2581%25E0%25B8%2584%25E0%25B8%25B7%25E0%25B8%2599-%25E0%25B8%259E%25E0%25B8%259A%25E0%25B8%258A%25E0%25B8%25B7%25E0%25B9%2588%25E0%25B8%25AD%25E0%25B8%25A3%25E0%25B8%25B8%25E0%25B9%2588%25E0%25B8%2599%25E0%25B9%2583%25E0%25B8%2599/1666089955548962/&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw0grqfVgB3il5-EMhENZKYm
+  > Keerati Kachin. ** อุปกรณ์  Sigenergy  รุ่น SigenStor EC ที่ถูกนำเข้าและขายในประเทศไทยไม่อยู่ในขอบข่า ยการเรียกคืนครั้ง ...
+- **Jackery  выпустила сверхкомпактную электростанцию Explorer 100D - ZOOM.CNews.ru** — google.com | 2026-11-03 14:01 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://zoom.cnews.ru/lenta/post/jackery_vypustila_sverhkompaktnuu_elektrostanciu_explorer_100d&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1PWseQt7OsiJPNfIAb5q8b
+  > Jackery  анонсировала Explorer 100D — самую компактную портативную электростанцию в линейке бренда с безопасным LFP-аккумулятором.
+- **TOP 10 magazynów energii do domu. Na który warto postawić? - GLOBENERGIA** — google.com | 2026-11-03 13:16 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://globenergia.pl/top-10-magazynow-energii-do-domu-na-ktory-warto-postawic/&ct=ga&cd=CAIyHDQ2MjE5YWUzYzNkYTEwMzI6Y29tOmVuOlVTOkw&usg=AOvVaw0U3P-YrvvhVKKLa7iBCpbQ
+  > ...  FoxESS , SolaX Power, Solis, Breeze Energies czy SolarEdge ... W naszej odsłonie serii TOP 10 magazynów energii przyglądamy się rozwiązaniom takich firm ...
+- **Больше никаких отключений света: есть лучшая альтернатива  Ecoflow  и Bluetti (фото)** — google.com | 2026-11-03 12:54 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://focus.ua/amp/digital/773463-bolshe-nikakih-otklyucheniy-sveta-est-luchshaya-alternativa-ecoflow-i-bluetti-foto&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1QWNnwnUoYQB9vkmiPlJQg
+  > Домашний аккумулятор SAMDUO Nex E6000 меняет представление об использовании солнечной энергии.
+- **Η  Sigenergy  κατατάχθηκε κατασκευαστής Tier 1 στην αποθήκευση από το BloombergNEF** — google.com | 2026-11-03 12:45 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://energypress.gr/news/i-sigenergy-katatahthike-kataskeyastis-tier-1-stin-apothikeysi-apo-bloombergnef&ct=ga&cd=CAIyHDczMWUyYjg5M2RhYTc2NmU6Y29tOmVuOlVTOkw&usg=AOvVaw1gadpiHgYBX6EsVdubv2pd
+  > ... 2026. Η κατάταξη υπογραμμίζει την οικονομική σταθερότητα της  Sigenergy  και την αξιοπιστία των προϊόντων της σε μεγάλες παγκόσμιες αγορές.
+- **Jackery  Explorer 100D: Powerbank-Station für 89 Euro - Gagadget.de** — google.com | 2026-11-03 11:44 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://gagadget.de/732669-jackery-explorer-100d-powerbank-station-fur-89-euro/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1rpwvJe4P3RO83dMMr6Yaf
+  > Wer unterwegs einen Laptop und ein Smartphone laden will, bekommt mit dem  Jackery  Explorer 100D eine Alternative zur Powerbank.
+- **Jackery  Explorer 100D представила ультрапортативну зарядну станцію - Ukr.net** — google.com | 2026-11-03 11:26 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.ukr.net/news/details/technologies/120317397.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw2gizOABIY4DiR0R4bTDAC7
+  > Jackery  Explorer 100D. Джерело:  Jackery  Компанія  Jackery  оновила свою лінійку портативних джерел живлення, представивши модель Explorer 100D.
+- **Balkonkraftwerk mit Speicher: Das bietet der  EcoFlow  STREAM 5000 - inFranken.de** — google.com | 2026-11-03 11:12 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.infranken.de/ratgeber/verbraucher/schnaeppchen/balkonkraftwerk-mit-speicher-das-bietet-der-ecoflow-stream-5000-art-6370860&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw31sK7YMCY7dFUPGF02vf9N
+  > Der  EcoFlow  STREAM 5000 speichert überschüssigen Solarstrom für später. Wir zeigen, welche Vorteile das System bietet und für wen es sich lohnen ...
+- **Зарядная станция за 119 долларов:  Jackery  Explorer 100D обеспечивает мощность до ...** — google.com | 2026-11-03 11:11 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://itc.ua/news/zaryadnaya-stantsyya-za-119-dollarov-jackery-explorer-100d-obespechyvaet-moshhnost-do-158-vt-y-pomeshhaetsya-na-ladony/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw0nb76UFN5bxn5_q2MAPvcz
+  > Зарядная станция  Jackery  Explorer 100D оснащена аккумулятором LiFePO4 емкостью 96 Вт·ч, двумя портами USB-C мощностью до 140 Вт, портом USB-A ...
+- **Зарядная станция, которая помещается на ладони:  Jackery  представила Explorer 100D ...** — google.com | 2026-11-03 11:05 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.ixbt.com/live/supply/zaryadnaya-stanciya-kotoraya-pomeschaetsya-na-ladoni-jackery-predstavila-explorer-100d-dlya-puteshestviy.amp.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1FLg6fz0rRcAfIsIRptRZR
+  > Компания  Jackery  анонсировала портативную зарядную станцию Explorer 100D. Новинка отличается небольшими размерами: устройство можно положить на ...
+- **Jackery  уменьшила электростанцию до карманного размера, сохранив зарядку ...** — google.com | 2026-11-03 11:05 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.ixbt.com/live/offtopic/jackery-umenshila-elektrostanciyu-do-karmannogo-razmera-sohraniv-zaryadku-noutbukov-na-140-vt.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1gTcK_5jOtnGSPMuUGa1JN
+  > Компания  Jackery  представила Explorer 100D — одну из самых компактных портативных электростанций в своей линейке. Устройство размером 11,9 x 8,3 x ...
+- **Black Friday 2026 :  Zendure  propose jusqu'à -43 % sur ses batteries domestiques ... - Belga Share** — google.com | 2026-11-03 11:03 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://belgashare.be/fr/newsrooms/86/press-releases/38296/black-friday-2026-zendure-propose-jusqua-43-sur-ses-batteries-domestiques-solarflow-du-2-novembre-au-7-decembre/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw2UzflAK-CnBNT8wfXHqlCc
+  > À travers son écosystème SolarFlow,  Zendure  associe stockage d'énergie modulaire, production solaire et gestion intelligente de l'électricité pour ...
+- **Jackery  Explorer 100D представила ультрапортативную зарядную станцию** — google.com | 2026-11-03 10:57 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://w-n.com.ua/archives/789600&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3q1yUlqyOu1UzGFw1JHWuZ
+  > Jackery  Explorer 100D оснащена тремя выходными портами: Два порта USB-C с поддержкой протоколов быстрой зарядки Power Delivery (PD), Programmable ...
+- **Maxxicharge,  EcoFlow  Stream & Solakon One im Vergleich: Kosten, Amortisation & Montage 2026** — google.com | 2026-11-03 10:52 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.ruhr24.de/kaufberatung/balkonkraftwerk-maxxicharge-solakon-ecoflow-speicher-cc-made-in-germany-vergleich-2026-94483979.html&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw1Y6F8AEpc5thAKWrudznMS
+  > Wer tagsüber ihn tagsüber nicht nutzt, verschenkt wertvollen Solarstrom. Ein Speicher ändert das – und macht das Balkonkraftwerk erst richtig ...
+- **11.3 Creativity Top 5 vote 2 - Ad Age** — google.com | 2026-11-03 10:16 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://adage.com/gallery/aa-11-3-creativity-top-5-vote-2/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw3yxy-Hfe5JdE8L6rUkxhCI
+  > An aerial view of a small green island surrounded by water. ​ EcoFlow : The Loneliest House in the World ( EcoFlow ). Image from Come Back to Firefox ...
+- **Nowe gry w PS Plus: Dead Island 2, kolekcja Tomb Raider i Monster Train 2 za darmo do ...** — google.com | 2026-11-03 10:15 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://gagadget.pl/732718-nowe-gry-w-ps-plus-dead-island-2-kolekcja-tomb-raider-i-monster-train-2-za-darmo-do-konca-listopada/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1NS3TOYYoEDa7OF7ufRofR
+  > Jackery  Explorer 100D: Niezawodna ...  Jackery  Explorer 100D: Niezawodna i kompaktowa stacja zasilania dla podróżników, teraz z baterią na 3000 cykli!
+- **Thuisbatterijen tot 43 procent goedkoper:  Zendure  verlaagt prijzen tijdens Black Friday** — google.com | 2026-11-03 09:38 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://tw.nl/thuisbatterijen-tot-43-procent-goedkoper-zendure-verlaagt-prijzen-tijdens-black-friday/&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw2I01__NTrViFGnJKjZZvWb
+  > Fabrikant  Zendure  speelt daarop in met Black Friday-kortingen tot 43 procent op zijn thuisbatterijen. De actie loopt van 2 november tot en met 7 ...
+- **Balkon-Solar mit 5-kWh-Speicher: 100 Euro Rabatt bis 8. November - inFranken.de** — google.com | 2026-11-03 08:47 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.infranken.de/ratgeber/verbraucher/schnaeppchen/balkon-solar-mit-5-kwh-speicher-100-euro-rabatt-bis-8-november-art-6400240&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw00hefmo_0r4iF5tzYWN--K
+  > EcoFlow  Stream 5000: Was bieten die drei Komplett-Sets? Anschluss und Anmeldung: Anforderungen vorab prüfen;  EcoFlow -Speicher ohne Solarmodule: Smart ...
+- **Jackerys kraftstation Explorer 100D får plats i handflatan och är säker att ta med på flyget** — google.com | 2026-11-03 08:32 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.notebookcheck.se/Jackerys-kraftstation-Explorer-100D-faar-plats-i-handflatan-och-aer-saeker-att-ta-med-paa-flyget.1440704.0.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw1Shu0b5kJ_-1x8PEmOPNXy
+  > Jackery  har en ny portabel kraftstation som är liten nog att rymmas i handflatan, men ändå har tillräckligt med kraft för att ladda enheter med ...
+- **30 000 мА·ч с ресурсом 8 лет и 140 Вт мощности: электростанция  Jackery  Explorer ...** — google.com | 2026-11-03 08:16 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.ixbt.com/news/2026/11/03/30-000-mac-s-resursom-8-let-i-140-vt-moshhnosti-elektrostanciia-jackery-explorer-100d-pomeshhaetsia-na-ladoni.html&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw3Zqe_4xV-LNO2LBZ6Br26F
+  > Jackery  позиционирует Explorer 100D как решение прежде всего для владельцев техники Apple. Устройство поддерживает технологию AVS (Adjustable Voltage ...
+- **Zendure  onthult Black Friday 2026-deals in Nederland: tot 43% korting op plug ... - ANP Persportaal** — google.com | 2026-11-03 07:50 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://persportaal.anp.nl/artikel/CSN-031126044/zendure-onthult-black-friday-2026-deals-in-nederland-tot-43-korting-op-plug-in-energieopslagoplossingen&ct=ga&cd=CAIyHDY4MThlYTJmNTYxYmMwM2M6Y29tOmVuOlVTOkw&usg=AOvVaw2QzKZN0q8wgQPJpQW_0jJ5
+  > De actie loopt van 2 november tot en met 7 december 2026 en biedt kortingen tot 43% in de officiële Nederlandse  Zendure -webshop, waarmee huishoudens ...
+- **Зарядна станція за $119:  Jackery  Explorer 100D видає до 158 Вт і поміщається на долоні** — google.com | 2026-11-03 07:38 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://itc.ua/ua/novini/zaryadna-stantsiya-za-119-jackery-explorer-100d/&ct=ga&cd=CAIyHDc1NDM0ZmIzYTQ3OWY2MjM6Y29tOmVuOlVTOkw&usg=AOvVaw0ddOALIGjp1pLntqluDNv4
+  > Зарядна станція  Jackery  Explorer 100D отримала акумулятор LiFePO4 на 96 Вт·год, два USB-C до 140 Вт, USB-A на 18 Вт і заряджання за 1,7 години.
+- **Piper Sandler Sees a  Tesla -SpaceX Merger as Likely, With Musk at 70% | TeslaNorth.com** — google.com | 2026-11-03 06:49 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://teslanorth.com/2026/11/02/piper-sandler-tesla-spacex-merger/&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw2HhsX4Wct34KuWSBQNLHhm
+  > ...  Tesla [/caption]  Tesla  Energy launched Heat Pump Optimization for  Powerwall  3 and  Powerwall  3P in Europe last week, letting the  battery  tell a ...
+- **広島テレビ「いま動こう！みんなで防災フェス」にぎわう - Infoseek** — google.com | 2026-11-03 03:20 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://news.infoseek.co.jp/amp/article/htv_2026110307525974/&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw2BKLyV-TgH5iAb_HukPJUW
+  > 「実際に試せて安心」地震時に自動停止するガスメーターを体験 … ＫＹＴニュース(2026年10月29日 18時50分).  EcoFlow 、広島テレビ主催の防災 ...
+- **速卖通双11开门红！一半成交来自品牌，品牌商家成交整体涨200% - 电商派** — google.com | 2026-11-03 03:19 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.pai.com.cn/p/01m6fpbngrdh05m3rwwn2178mb&ct=ga&cd=CAIyHDhkNzI3ZDg4NWI0NTkxMGY6Y29tOmVuOlVTOkw&usg=AOvVaw0lFRtvS40cz4XBl8XQP1cm
+  > 电气设备品牌 EcoFlow 横扫欧美。今年9月， EcoFlow 在柏林国际消费电子展上与速卖通Brand+达成合作，随后即在双11大促中迎来相比日销150倍的爆发，拿下德国市场 ...
+- **Tesla  activeert warmtepompoptimalisatie op  Powerwall  3 in heel Europa - Headliner.nl** — google.com | 2026-11-03 02:45 UTC
+  https://www.google.com/url?rct=j&sa=t&url=https://www.headliner.nl/artikelen/tesla-activeert-warmtepompoptimalisatie-powerwall-3-heel-europa-234028&ct=ga&cd=CAIyHGI3ODQwOTVhM2EzMWYzMTQ6Y29tOmVuOlVTOkw&usg=AOvVaw38lfDAH7YXqAt3NnibAToD
+  > Tesla  lanceert Heat Pump Optimization voor  Powerwall  3 in Europa, waardoor warmtepompen via SG-Ready slim worden aangestuurd om zonne-energie als ...
 
 ## ⚠️ 信源健康
 
 **抓取失败（请检查地址是否变更）：**
 - https://ceenergynews.com/feed/  （<unknown>:47:2: mismatched tag）
-- https://www.lechodusolaire.fr/feed/  （<urlopen error [Errno 110] Connection timed out>）
 - Growatt / Sungrow / AlphaESS / Enphase / SolarEdge / Hoymiles / Deye / BYD battery…）  （<unknown>:2:0: syntax error）
 
-**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 58 个源
+**窗口内 0 条（正常情况居多，连续多日为 0 才需要检查）：** 63 个源
+- https://www.pv-magazine.fr/feed/
+- https://www.pv-magazine.it/feed/
 - https://news.google.com/rss/search?q=solar+OR+battery+storage&gl=SE&hl=sv&ceid=SE:sv
+- https://www.bestmag.co.uk/feed
+- https://www.powermag.com/feed/
+- https://news.google.com/rss/search?q=site%3Aphotovoltaik.eu&hl=de
 - https://news.google.com/rss/search?q=site%3Abundesnetzagentur.de&hl=de&gl=DE&ceid=DE:de
 - https://news.google.com/rss/search?q=site%3Akfw.de%20Speicher%20OR%20Photovoltaik&hl=de
 - https://news.google.com/rss/search?q=site%3Acurrent-news.co.uk
-- https://news.google.com/rss/search?q=site%3Asolarpowerportal.co.uk
-- https://news.google.com/rss/search?q=site:energylivenews.com+%28energy+storage%29&hl=en&gl=GB&ceid=GB:en
 - https://www.energyireland.ie/feed/
 - https://news.google.com/rss/search?q=site%3Areneweconomy.com.au
 - https://news.google.com/rss/search?q=site%3Aonestepoffthegrid.com.au
+- https://www.solarquotes.com.au/blog/feed/
 - https://news.google.com/rss/search?q=site%3Awa.gov.au%20battery&hl=en
-- https://www.canarymedia.com/rss.xml
 - https://www.utilitydive.com/feeds/news/
 - https://news.google.com/rss/search?q=site%3Asolarpowerworldonline.com&hl=en&gl=US&ceid=US:en
 - https://www.revolution-energetique.com/feed/
@@ -587,8 +609,8 @@
 - https://news.google.com/rss/search?q=site%3Asolarmagazine.nl
 - https://gramwzielone.pl/feed
 - https://wysokienapiecie.pl/feed/
+- https://www.lechodusolaire.fr/feed/
 - https://news.google.com/rss/search?q=site%3Aeconomie.gouv.fr%20%C3%A9nergie&hl=fr
-- https://www.solareb2b.it/feed/
 - https://news.google.com/rss/search?q=site:staffettaonline.com+%28accumulo+energetico%29&hl=it&gl=IT&ceid=IT:it
 - https://energeia.nl/feed/
 - https://news.google.com/rss/search?q=site%3Arijksoverheid.nl%20energie&hl=nl
@@ -601,29 +623,31 @@
 - https://news.google.com/rss/search?q=site%3Aee-news.ch
 - https://news.google.com/rss/search?q=site:bulletin.ch+%28energy+storage%29&hl=en&gl=CH&ceid=CH:en
 - https://news.google.com/rss/search?q=site%3Aesti.admin.ch&hl=de&gl=CH&ceid=CH:de
-- https://news.google.com/rss/search?q=site:energypress.gr+%28%CE%B1%CF%80%CE%BF%CE%B8%CE%AE%CE%BA%CE%B5%CF%85%CF%83%CE%B7+%CE%B5%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1%CF%82%29&hl=el&gl=GR&ceid=GR:el
 - https://news.google.com/rss/search?q=site:theinvestor.vn+%28l%C6%B0u+tr%E1%BB%AF+n%C4%83ng+l%C6%B0%E1%BB%A3ng%29&hl=vi&gl=VN&ceid=VN:vi
 - https://news.google.com/rss/search?q=site:vietnamenergy.vn+%28l%C6%B0u+tr%E1%BB%AF+n%C4%83ng+l%C6%B0%E1%BB%A3ng%29&hl=vi&gl=VN&ceid=VN:vi
 - https://news.google.com/rss/search?q=site:asian-power.com+%28energy+storage%29&hl=en&gl=PH&ceid=PH:en
 - https://news.google.com/rss/search?q=site:petromindo.com+%28penyimpanan+energi%29&hl=id&gl=ID&ceid=ID:id
+- https://www.energyupdate.com.pk/feed/
 - https://news.google.com/rss/search?q=site:africa-energy.com+%28energy+storage%29&hl=en&gl=ZA&ceid=ZA:en
 - https://news.google.com/rss/search?q=site:esi-africa.com+%28energy+storage%29&hl=en&gl=ZA&ceid=ZA:en
-- https://www.gov.uk/search/policy-papers-and-consultations.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
-- https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=department-for-energy-security-and-net-zero
 - https://www.cpsc.gov/Newsroom/CPSC-RSS-Feed/Recalls-RSS
 - https://news.google.com/rss/search?q=site%3Aenergy.ec.europa.eu&hl=en
 - https://news.google.com/rss/search?q=site%3Asolarpowereurope.org&hl=en&gl=US&ceid=US:en
 - https://ease-storage.eu/feed/
 - https://news.google.com/rss/search?q=site%3Amcscertified.com
+- https://news.google.com/rss/search?q=site%3Aferc.gov&hl=en
 - https://news.google.com/rss/search?q=site%3Acpuc.ca.gov&hl=en&gl=US&ceid=US:en
 - https://news.google.com/rss/search?q=site%3Aaemc.gov.au&hl=en
 - https://news.google.com/rss/search?q=site%3Acer.gov.au&hl=en&gl=AU&ceid=AU:en
 - https://news.google.com/rss/search?q=site%3Adcceew.gov.au&hl=en&gl=AU&ceid=AU:en
-- https://news.google.com/rss/search?q=site%3Aenergy.nsw.gov.au&hl=en&gl=AU&ceid=AU:en
 - https://news.google.com/rss/search?q=site%3Aea.govt.nz&hl=en&gl=NZ&ceid=NZ:en
 - https://news.google.com/rss/search?q=site%3Aerc.gov.ph&hl=en&gl=PH&ceid=PH:en
+- https://www.google.com/alerts/feeds/02133493801194607926/16146918729223398949
+- https://www.google.com/alerts/feeds/02133493801194607926/1004553277147795483
 - https://www.google.com/alerts/feeds/02133493801194607926/2201882766421477719
 - https://www.google.com/alerts/feeds/02133493801194607926/2201882766421475997
+- https://www.google.com/alerts/feeds/02133493801194607926/12553965234254885152
 - https://www.google.com/alerts/feeds/02133493801194607926/3625370929132883836
+- https://www.google.com/alerts/feeds/02133493801194607926/3625370929132880417
 - https://www.google.com/alerts/feeds/02133493801194607926/3625370929132882054
 - https://www.google.com/alerts/feeds/12317634030943780809/16894192632704053442
